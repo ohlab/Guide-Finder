@@ -1,0 +1,236 @@
+---
+title: "PreProcessing"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = '/Users/spotom/Desktop')
+setwd('/Users/spotom/Desktop') #set working directory
+
+```
+
+
+__Install Packages__
+These packages need only to be installed once 
+```{r, eval=FALSE, echo=FALSE}
+
+```
+
+
+__Loading Packages__
+Packages need to be loaded each time the program is run 
+```{r, eval=FALSE, echo=FALSE}
+library(BiocInstaller)
+library(seqinr)
+library(Biostrings)
+library(ape)
+library(refGenome)
+library(genbankr)
+library(rentrez)
+library(stringr)
+library(reshape)
+library(plyr)
+library(annotate)
+library(data.table)
+library(RFLPtools)
+library(dplyr)
+
+```
+
+
+__Functions Created__
+```{r, eval=FALSE, echo=FALSE}
+
+String2<-function(x) {
+  Step<-strsplit(x, split = ". ")[[1]][1]
+  strsplit(Step, split = "|", fixed = TRUE)[[1]][2]
+}
+
+StrandType<-function(x) { 
+  if (x < 0) { 
+    print("-")}
+  else {
+    print("+")}
+}
+
+
+Subtract50<-function(x) {
+  x - 50
+}
+
+Add50<-function(x) { 
+  x + 50 
+}
+
+Split1<-function(x) {
+  strsplit(x, split = "|", fixed = TRUE)[[1]][2]}
+
+Ns<-"NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" #to add between contigs 
+
+```
+
+__Making a multi-sequence fasta file into a single-sequence fasta file__
+This must be the first step in the program, since the remainder of the program requires a single-sequence fasta file as input. 
+Making a single-sequence fasta file from a multi-sequence fasta file (with a string of 60Ns between contigs). 
+This pre-procesing script and the guide finder program require a single sequence fasta file. Your genome sequence may be in several contigs rather than one sequence 
+so this chunk of code concatenates the contigis and adds a series of Ns between the contigs. Substitute the file name for the name of your file. 
+Example: Example: fastafile<-read.fasta(file= "Aureus_SA14_Draft_fasta.fasta", as.string = TRUE); replace Aureus_SA14_Draft_fasta.fasta with the name of your file. May be .fasta or .txt file. 
+If you already have a single-sequence file, skip this chuck and simply upload the fasta file using the next chunk of code. 
+
+```{r, eval=FALSE, echo=FALSE}
+fastafile<-read.fasta(file="staphaureusexamplefasta_multiseq.txt", as.string = TRUE) #read in fasta file
+
+seqnames<-names(fastafile) #subset seq names/IDs
+seq<-paste(fastafile) #subset sequences
+seqdf<-data.frame(seqnames, seq) #paste together in a data frame 
+#loop to add Ns to begining of each contig
+NewFasta<-NULL 
+for (i in 1:nrow(seqdf)) { 
+  seqrow<-seqdf[i,]
+  seqrow$newseq<-paste(Ns,seqrow$seq, sep = "", collapse ="")
+  newseqs<-cbind( seqrow$seqnames, seqrow$newseq)
+  NewFasta<-rbind(NewFasta, newseqs)
+}
+NewFasta1<-data.frame(NewFasta, stringsAsFactors = FALSE) #make data frame
+names(NewFasta1)<-c("ID", "sequences") #rename
+
+SingleSeq<-paste(NewFasta1[1:nrow(NewFasta1),2], collapse = "") #paste together sequences 
+SingleSeqFasta<-DNAString(SingleSeq) #make into DNA string object 
+write.fasta(SingleSeqFasta,"SingleSequenceFastaFile",file="concatenatedfastafile.txt") #write out to fasta file 
+```
+
+
+__Add file names here__ 
+In this chunk of code, add the names of the files you'll be pre-processing.  
+For this preprocessing script, you'll need:  
+* Coding sequence file: this file contains the nucleotide sequence for each gene in the entire genome in the 5' --> 3' direction 
+* Fasta file: this file contains the entire nucleotide sequence of the genome. For draft genomes, this file may be broken up into different  
+contigs within the same file. However, the guide finder program requires a single-sequence fasta file as input.  
+For this reason, the previous chuck of code has concatenated these chuncks of sequence into one contiguous sequence. __Here, input this new, concatenated sequence__
+Add the names of your files here:  
+Example:  
+InputGenome<-readDNAStringSet( __"concatenatedfastafile.txt"__, use.names = TRUE); replace "concatenatedfastafile.txt"" with the name of your single-sequence file, if you did not create your file with the above chunk of code  
+(i.e. you already had a single-sequence file).  
+MakeDatabase<-' __/Users/spotom/Desktop/ncbi-blast-2.6.0+/bin/makeblastdb__ -in __concatenatedfastafile.txt__ -dbtype nucl -out GenomeDatabaseEpi'; replace the file path with the file path where you makeblastdb is kept; replace "concatenatedfastafile.txt" if you have a different file than created above.  
+CDS<- readDNAStringSet(" __Aureus_CDS.fasta__", use.names = TRUE); replace "Aureus_CDS.fasta" with the name of your coding sequence file.   
+RunBlast<-' __/Users/spotom/Desktop/ncbi-blast-2.6.0+/bin/blastn__ -task megablast -query __Aureus_CDS.fasta__ -db GenomeDatabaseEpi -outfmt 6 -num_threads 4 -dust no -soft_masking false -max_target_seqs 1 -perc_identity 100 -out GenesMatch.blast'; replace the file path for the path of blastn. replace "Aureus_CDS.fasta" with the name of your coding sequence file.   
+
+
+```{r, eval=FALSE, echo=FALSE}
+#Input fasta file and change file path for MakeDatabase
+InputGenome<-readDNAStringSet("concatenatedfastafile.txt", use.names = TRUE) 
+MakeDatabase<-'./GuideFinderMac/makeblastdb  -in concatenatedfastafile.txt -dbtype nucl -out GenomeDatabaseEpi'
+
+#Input CDS file
+CDS<- readDNAStringSet("staphaureusexample_codingseq.fasta", use.names = TRUE)
+RunBlast<-'./GuideFinderMac/blastn -task megablast -query staphaureusexample_codingseq.fasta -db GenomeDatabaseEpi -outfmt 6 -num_threads 4 -dust no -soft_masking false -max_target_seqs 1 -perc_identity 100 -out GenesMatch.blast'
+
+```
+
+
+__Making into data frame__
+This chunk just creates a data frame from the CDS file, containing sequence information and gene names/IDs  
+```{r, eval=FALSE, echo=FALSE}
+seqnames<-names(CDS) #getting seq names 
+seqnames<-data.frame(seqnames, stringsAsFactors = FALSE) #putting sequence names into DF
+CDSDF<-data.frame(CDS, stringsAsFactors = FALSE) #making string set into a data frame
+CDSDF<-cbind(CDSDF, seqnames)
+names(CDSDF)<-c("CDS", "Name")
+row.names(CDSDF)<-c() #removing row names 
+
+```
+
+__Subsetting gene identifiers__  
+This is used to subset gene names/IDS from the long name in the CDS file  
+__WARNING:__ As geonome annotation notation varies significantly, this section is very unstable. You may need to adjust the code above (in function section) to accurately subset.  
+The functions used to subset the names are listed above to subset gene names/identifiers/product information from the coding sequence file.  
+The column names that this script assigns ("Gene Product", "Name") are used mostly to be consistent with the main guide finder script.  
+For this reason, The information pulled from the file may not appear to be categorized correctly (e.g. "Gene Product" may not be a protein product name but rather a unique alphanumeric identifier). This is OK.
+```{r}
+CDSDF$UniqueID<-lapply(CDSDF$Name, String2)
+#CDSDF$Product<-lapply(CDSDF$Name, GeneProduct)
+CDSDF$Name<-c() #removing name column 
+CDSDF$ID<-1:nrow(CDSDF) #making IDs for each CDS
+CDSDF<-as.data.frame(lapply(CDSDF, unlist))
+newdf1<-cbind(paste(CDSDF$UniqueID),CDSDF)
+newdf1$UniqueID<-NULL
+CDSDF<-newdf1
+names(CDSDF)<-c("UniqueID", "CDS", "ID")
+
+```
+
+__Run BLAST__
+This chunk runs BLAST to align the coding sequences against the fasta file -- output that we want is the coordinates for each coding sequence.
+```{r, echo=FALSE, eval=FALSE}
+system(MakeDatabase) #Make blast databse (from nt sequence file)
+system(RunBlast) #blast coding sequence against genome to get coordinates (later used to also pick up puative promoter region)
+system('sort -u -f -k1,1 GenesMatch.blast > singleBLASThit.txt') #select only one top hit from hits
+```
+
+__Subset BLAST output__
+This section reads in the blast output and subsets the information to just contain the gene name/ID and the gene start and end coordinates
+```{r}
+TopHits<-fread("singleBLASThit.txt") #Reading in blast output
+TopHits$UniqueID<-TopHits$V1 #add names
+TopHits<-as.data.frame(TopHits)
+Subset<-c("V9", "V10", "UniqueID") #subset coordinates and names 
+SubsetTopHits<-TopHits[Subset]
+names(SubsetTopHits)<-c("start", "end", "UniqueID") #rename
+```
+
+__Subsetting BLAST output Names__
+This section attempts to split the geneproduct/id into a name that matches the geneproduct/id subset earlier; we're going to merge on this name/ID so they need to exactly match
+__WARNING__: This section may also be unstable, given varaible genome annotation. May need to adjust Split1 function to be able to accurately subset the GeneProduct names in the dataframe  
+SubsetTopHits so that they match exactly the "Gene Product" names in the CDSDF data frame. 
+```{r, echo=FALSE, eval=FALSE}
+SubsetTopHits$UniqueID<-lapply(SubsetTopHits$UniqueID, Split1) #more splitting
+newdf<-cbind(paste(SubsetTopHits$UniqueID), SubsetTopHits)
+newdf$UniqueID<-NULL
+SubsetTopHits<-newdf
+names(SubsetTopHits)<-c("UniqueID","start","end")
+
+```
+
+
+__Merging data frames__
+merging CDSDF with blast hit output to correlate the coordinates identified in the BLAST output with the values in the CDSDF data frame. 
+```{r, echo=FALSE, eval=FALSE}
+GeneProductsDF<-merge(CDSDF, SubsetTopHits, by = "UniqueID")
+GeneProductsDF<-GeneProductsDF[c("UniqueID", "start", "end")]
+```
+
+__Adjusting Coordinates__
+The first part of this chunk makes the coordinates numeric and identifies whether the gene is coded on the plus or minus strand.  
+The loop makes the coordinates into the format that we want (the format that the main guide finder script requires; for genes coded on the minus strand, we want to switch the start and end coordinates)
+```{r, echo=FALSE, eval=FALSE}
+GeneProductsDF$start<-as.numeric(as.character(GeneProductsDF$start)) #making start coordinate numeric
+GeneProductsDF$end<-as.numeric(as.character(GeneProductsDF$end)) #making end coordinate numeric
+GeneProductsDF$CoordDiff<-(GeneProductsDF$end - GeneProductsDF$start) #finding the difference between coordinates; if difference b/t coordinates is negative, gene coded on minus strand
+GeneProductsDF$strand<-lapply(GeneProductsDF$CoordDiff, StrandType) #Identifying if the gene is coded on plus or minus strand (based on direction of coordinates/coordinates differences)
+GeneProductsDF$CoordDiff<-NULL
+GeneProductsDF$V1<-NULL
+
+CorrectedCoordinates<-NULL
+for (i in 1:nrow(GeneProductsDF)) {
+  myrow<-GeneProductsDF[i,]
+  if (myrow$strand == "+") {myrow$start_new<-myrow$start  #for genes coded on the plus strand; keep coordinates the same (start= start; end=end)
+  myrow$end_new<-myrow$end}
+  else {myrow$start_new<-myrow$end #for genes coded on the minus strand, switch start and end coordinates so that they are in the orientation required by the guide finder program
+  myrow$end_new<-myrow$start}
+  CorrectedCoordinates<-rbind(CorrectedCoordinates,myrow)
+}
+
+CorrectedCoordinates$start<-NULL
+CorrectedCoordinates$end<-NULL
+names(CorrectedCoordinates)<-c("UniqueID","strand", "start", "end")
+
+```
+
+__Writing output file__ 
+Converting to matrix in order to write .csv file.  
+This file contains the new, modified coordinates (adjusted into proper format that the guide finder program requires)
+```{r}
+CorrectedCoordinates<-as.matrix(CorrectedCoordinates)
+write.csv(CorrectedCoordinates, file = "DraftGenome_NewCoordinates.csv", row.names = F )
+```
+

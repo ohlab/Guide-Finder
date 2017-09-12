@@ -1,0 +1,2579 @@
+,Guide,GeneProduct,Location,ID
+2,GTCTTAATGGTGCAGGCATG,conserved hypothetical protein,87,3
+11,TCGTCTTAATGGTGCAGGCA,conserved hypothetical protein,89,3
+1,ACCTGTCGTCTTAATGGTGC,conserved hypothetical protein,94,3
+3,TTTTTTACCTGTCGTCTTAA,conserved hypothetical protein,100,3
+21,AAAATAAAAAGGATAAACTG,conserved hypothetical protein,8,7
+22,TAGGTAATAAATTTGGAGCA,conserved hypothetical protein,24,9
+23,ACTATAGCTGATGATGTCTA,putative cell-cycle protein,10,11
+111,ATTTCTTCTTCATCAGCTTG,putative cell-cycle protein,231,11
+13,TTAAAAAAGGACGAATCAGT,putative cell-cycle protein,509,11
+15,GATTTGAATCATCATCAAAA,putative cell-cycle protein,563,11
+16,GGATTTTCCTGTGTCAAAAT,putative cell-cycle protein,630,11
+24,ATTTTTACCAGCATAATCTT,putative hypoxanthine-guaninephosphoribosyltransferase,133,12
+112,TTTAAAACACCCACTAAAAG,putative hypoxanthine-guaninephosphoribosyltransferase,156,12
+12,TCATTAACTCAGCCATAAAA,putative hypoxanthine-guaninephosphoribosyltransferase,188,12
+131,CACTACTCGTGGTTCCGCCA,putative hypoxanthine-guaninephosphoribosyltransferase,260,12
+14,CTTCACTTCACCACTACTCG,putative hypoxanthine-guaninephosphoribosyltransferase,271,12
+161,ATAAGGCTGTTAATAAAGTT,putative amino acid permease,5,14
+25,CTGACTATGGTAAACTAATA,putative amino acid permease,22,14
+113,GAAAAGTGCAGAAATTCCAA,putative amino acid permease,244,14
+121,CTGTAAGCTCCACCATTTGC,putative amino acid permease,291,14
+132,TACCAACCAGCTAACCAAGC,putative amino acid permease,342,14
+141,AAAGTACCATTAAGCAAAGA,putative amino acid permease,459,14
+17,ACTAAAAAAATGACTAAGGC,putative amino acid permease,516,14
+18,TGTGACTAAAAAAATGACTA,putative amino acid permease,520,14
+19,TAAACTACTATTAAAGCGTA,putative amino acid permease,571,14
+110,GCAAAATTAGACCAATTTTC,putative amino acid permease,654,14
+26,ACCAAATCTAGCAGAAAACT,hypothetical protein,11,15
+114,GCCGAGTTTTCTGCTAGATT,hypothetical protein,19,15
+122,GATAGACAAGGTTTCATTTT,hypothetical protein,45,15
+133,ATTTGGTAAAGAGATAGACA,hypothetical protein,57,15
+115,CTGTTTTAACTGAGATCATT,hypothetical protein,74,15
+27,ATCTCCCATGTAACTTTAGT,putative cell shape-determining protein MreD,9,17
+31,ATCACCTACTAAAGTTACAT,putative cell shape-determining protein MreD,24,17
+116,ATCTACAAGTAACATAAGAA,putative cell shape-determining protein MreD,91,17
+117,AATGATAGCATTAATATAGC,putative secreted antigen GbpB/SagA; putativepeptidoglycan hydrolase,403,18
+151,GAAACGCCTTAAAGAATTTA,putative DNA repair protein RecO,7,21
+123,ATTGCTCCATAAATTCTTTA,putative DNA repair protein RecO,28,21
+118,AGCTTATCATCCTCTCTAAA,putative DNA repair protein RecO,93,21
+28,CACAAAAAACATGTGTTTGC,putative DNA repair protein RecO,139,21
+134,CAGCATCAGCCAAAGACACA,putative DNA repair protein RecO,329,21
+142,AATTAAAAAAGCAAAAAGAG,putative DNA repair protein RecO,376,21
+124,AGAAGAATTTTCAAACAGGG,putative acyl carrier protein; AcpP; ACP,7,23
+119,GTAGAAGAATTTTCAAACAG,putative acyl carrier protein; AcpP; ACP,9,23
+29,TAGTAGAAGAATTTTCAAAC,putative acyl carrier protein; AcpP; ACP,11,23
+1110,TCCTAAGTCCTCTTGAATAT,putative acyl carrier protein; AcpP; ACP,136,23
+1111,CTCCGTTAAGAGCTGTCGCT,putativephosphoribosylaminoimidazole-succinocarboxamide synthaseSAICAR synthetase,137,25
+125,TTACGCAAAACAACTTCAAG,putativephosphoribosylaminoimidazole-succinocarboxamide synthaseSAICAR synthetase,309,25
+120,TTCCTTAACGCCAAAACGTT,putativephosphoribosylaminoimidazole-succinocarboxamide synthaseSAICAR synthetase,352,25
+210,GAAAAAAGCTGACGCAAGTG,putative phosphoribosylglycinamideformyltransferase (GART),11,31
+1112,CAGAGAAAACAAATTCTACT,putative phosphoribosylglycinamideformyltransferase (GART),119,31
+126,CCAAGACATAGGCATCACGA,putative phosphoribosylglycinamideformyltransferase (GART),143,31
+135,TTTAGCACGCTCCAAGACAT,putative phosphoribosylglycinamideformyltransferase (GART),154,31
+143,GTCAAATTCCTTGAGTTCAA,putative phosphoribosylglycinamideformyltransferase (GART),199,31
+152,CAATAGCATATTTTTCCAAG,putative phosphoribosylglycinamideformyltransferase (GART),254,31
+127,CGATTTTCATGTAACCAGCT,putative phosphoribosylglycinamideformyltransferase (GART),287,31
+153,CTAACAATTGTACAATGTTA,conserved hypothetical protein,6,35
+128,ATTGTTAGTTGTTATTAAGG,conserved hypothetical protein,8,35
+1113,TGATGCCGTTTTTTCCACAA,conserved hypothetical protein,126,35
+129,TGCGTAACAGAACCAAAGAA,conserved hypothetical protein,174,35
+136,CTCTAAAACGCCTACTGCAA,conserved hypothetical protein,205,35
+144,TAAATAGAGTAAGGTATTGT,conserved hypothetical protein,271,35
+1210,CCGCTTGAAGCGGGCTTTTT,conserved hypothetical protein,2,36
+211,ATGAAAAACCCGCTTGAAGC,conserved hypothetical protein,11,36
+1114,TTCAAGCGGGTTTTTCATTT,conserved hypothetical protein,13,36
+130,CTAAAAAGCCCGCTTCAAGC,conserved hypothetical protein,26,36
+212,TAGCTATCAACGGCGGACAT,hypothetical protein,5,37
+1115,ATTATTGTAGCTATCAACGG,hypothetical protein,12,37
+137,CTGATTATTGTAGCTATCAA,hypothetical protein,15,37
+138,ATTTCTCCTCATACTTTTAT,conserved hypothetical protein; possible DNAmismatch repair protein,26,40
+213,GTACATTCTCTCTCCCTAGA,conserved hypothetical protein; possible DNAmismatch repair protein,104,40
+139,TTCGCATTTACAAAATCCGG,hypothetical protein,99,41
+214,AATTTCGCATTTACAAAATC,hypothetical protein,102,41
+1116,TTTTAAACTCTCGTTCAAAA,hypothetical protein,179,41
+1310,AAATCTCCTATCGGATTATT,hypothetical protein,228,41
+145,ACTCCGTCAAAATCTCCTAT,hypothetical protein,237,41
+154,CGTATTGCATCTTTAATAAA,hypothetical protein,300,41
+162,TCTCTATACAATAAAATTCC,hypothetical protein,345,41
+171,ATAGTATCAATTTCTCCATA,hypothetical protein,384,41
+181,CTACTGCGACTAACACCAGC,hypothetical protein,450,41
+191,GAAACTAATGCTTCATATTC,hypothetical protein,783,41
+1117,TATATACAAACAGGAAAAAG,hypothetical protein,309,42
+140,TGTGAAGTATATATACAAAC,hypothetical protein,318,42
+1118,ATAACATTTTCTCGTCTATG,hypothetical protein,105,43
+1211,GACTTTTAATGTGCTCTATA,hypothetical protein,245,43
+215,CTGACCTAGGTATTATTTAA,conserved hypothetical protein,13,49
+1212,CTCCCCTTTAAATAATACCT,conserved hypothetical protein,20,49
+1311,CAAGTCATAAGGGCTGACCT,conserved hypothetical protein,26,49
+146,AAAGAGCACTTCCACAACGG,conserved hypothetical protein,97,49
+32,GGCAAAGAGCACTTCCACAA,conserved hypothetical protein,100,49
+1119,ATTTGGCCTTTACTTTTTCA,conserved hypothetical protein,131,49
+147,TTCTAAAAATTTTCTTCCTC,conserved hypothetical protein,11,52
+148,CAAATTCAGCCATAGGACTG,putative protein tyrosine-phosphatase,89,59
+149,CTCATCACAAATTCAGCCAT,putative protein tyrosine-phosphatase,96,59
+216,GGCAATCTCTAGACTCGCAT,putative protein tyrosine-phosphatase,130,59
+1120,CCAGCCTGACGTTGCCCGGC,putative protein tyrosine-phosphatase,151,59
+1213,GTTCCCAGCCTGACGTTGCC,putative protein tyrosine-phosphatase,155,59
+1312,CCTTGCGTTCCGCGATGAAT,putative protein tyrosine-phosphatase,186,59
+217,AAACAGATAAACCACATACA,conserved hypothetical protein,110,60
+1121,TGCTTTGCTACCAAATTTAA,conserved hypothetical protein,136,60
+1214,CTTACCACCTTCATAAGTTA,conserved hypothetical protein,160,60
+1313,GACCATTCATTCGATGATTG,conserved hypothetical protein,203,60
+218,GATGTGAGGAATGGAGGATA,hypothetical protein,2,62
+1122,ACATAAGATGTGAGGAATGG,hypothetical protein,8,62
+1215,GTGACATAAGATGTGAGGAA,hypothetical protein,11,62
+150,TTGTGGTGACATAAGATGTG,hypothetical protein,16,62
+219,AGTAAATTCTCTGCCATAGC,putative cation efflux pump (multidrugresistance protein),135,64
+1123,TAAACTTTTAGCCACTAAAC,putative cation efflux pump (multidrugresistance protein),292,64
+1216,GATAAAACCTCACTCTGGCT,putative cation efflux pump (multidrugresistance protein),326,64
+1314,GTTAGAAAACTGACATACAT,putative cation efflux pump (multidrugresistance protein),564,64
+155,AGGTTCCAAGAAAACGTGAA,putative cation efflux pump (multidrugresistance protein),668,64
+163,TAATTGACAAGCTAAAACGA,putative cation efflux pump (multidrugresistance protein),688,64
+1124,ATCCTCCACTCGCCAAAATC,putative N-acetyl-muramidase,119,69
+1217,TGGCATTTTTTTGTTAGCAT,putative N-acetyl-muramidase,145,69
+1315,TCTTTATGACTATAAGGACT,putative N-acetyl-muramidase,165,69
+1410,ACAAACTCTTTATGACTATA,putative N-acetyl-muramidase,171,69
+156,TTTGATAACTTTTGAGCTGT,putative N-acetyl-muramidase,207,69
+220,TCTACGGACTCTTCAGTTGT,heat shock protein GrpE (HSP-70 cofactor),105,73
+1125,TTCTTCAGCGACTTCTTCTA,heat shock protein GrpE (HSP-70 cofactor),121,73
+157,TGCCTCTTTTTTGCGACAGG,putative nitrite transporter,97,81
+221,AAGTGCCTCTTTTTTGCGAC,putative nitrite transporter,100,81
+1126,AACGCAGAGCGTAACGGCCA,putative nitrite transporter,134,81
+1218,ACATGGAACGCAGAGCGTAA,putative nitrite transporter,140,81
+1316,CAAATAAGCACCAGCAAACA,putative nitrite transporter,157,81
+1411,TGAGAATTGTGAAATAACAT,putative nitrite transporter,211,81
+158,AGCAAAAGCAAATCGTCCAA,putative nitrite transporter,238,81
+164,ACATGTCAATAAAATGGTTA,putative nitrite transporter,376,81
+222,CTGTGTTAGAGATTGTTTTA,hypothetical protein; putative transposasefragment,2,83
+1219,CACAGAAAGGCTACTGTTTT,hypothetical protein; putative transposasefragment,9,83
+1127,AAACAATCTCTAACACAGAA,hypothetical protein; putative transposasefragment,22,83
+159,TGTTTCAATGGTTAGTCTTT,hypothetical protein; putative transposasefragment,91,83
+1412,GCTGGCGAACAAACGGCTAG,hypothetical protein; putative transposasefragment,7,84
+160,TTCGCCAGCTCGCAATTATA,hypothetical protein; putative transposasefragment,8,84
+223,ATTGCGAGCTGGCGAACAAA,hypothetical protein; putative transposasefragment,14,84
+1128,CGAACCTTATAATTGCGAGC,hypothetical protein; putative transposasefragment,25,84
+1220,CATCTCTTTTGAAGGATTAT,hypothetical protein; putative transposasefragment,61,84
+1317,TAAAACCACATCTCTTTTGA,hypothetical protein; putative transposasefragment,69,84
+165,TTGTTTCATAACTAGCACCA,hypothetical protein; putative transposasefragment,49,85
+224,ACGCTGCGCCAGTTCTGTAG,hypothetical protein; putative transposasefragment,109,85
+225,CGTGCCATTTTAGAAGAACG,"putative DNA-directed RNA polymerase, deltasubunit",14,86
+1221,TCGGCCACGTTCTTCTAAAA,"putative DNA-directed RNA polymerase, deltasubunit",19,86
+33,TTTAAGTCTGAATAGAAAAA,"putative DNA-directed RNA polymerase, deltasubunit",126,86
+1129,CCCATTTGTTTTCACCAAGC,"putative DNA-directed RNA polymerase, deltasubunit",167,86
+1318,ACACGTTTCCTCTTATGTTT,"putative DNA-directed RNA polymerase, deltasubunit",264,86
+166,ACTGATTCACTACAATTCCA,"putative sorbose PTS system, IIB component",89,89
+1130,TCAATAATCATAAACCGTTT,"putative sorbose PTS system, IIB component",129,89
+1222,CTCATAGAATTTTTTATCTC,"putative sorbose PTS system, IIB component",171,89
+1319,ATACTCATGCTTTTCCCAGA,"putative sorbose PTS system, IIB component",204,89
+226,TTTTCTTAGCAATTTAGCTA,"putative PTS system, IID component",181,91
+1131,TCTTTGTATTCCTCATCATT,"putative PTS system, IID component",210,91
+1223,AATTCCATCCTTTTCTTCCA,"putative PTS system, IID component",307,91
+1320,TGGTAATAAAACCCAGATAA,"putative PTS system, IID component",397,91
+1413,GAAATAGAACCCATGATGGT,"putative PTS system, IID component",417,91
+1510,GCCCGAAATAGAACCCATGA,"putative PTS system, IID component",421,91
+167,AGTCATATCATTTTTCGAAG,hypothetical protein,34,97
+1321,TTATTCTCCATTATAAAACG,conserved hypothetical protein; possiblepermease (efflux protein),28,98
+227,TATGCTTCCATCTGGAAGAG,conserved hypothetical protein; possiblepermease (efflux protein),160,98
+1132,ATAACTGCTATGCTTCCATC,conserved hypothetical protein; possiblepermease (efflux protein),168,98
+1414,TAACTAAAAGTAAAGTTGGA,conserved hypothetical protein; possiblepermease (efflux protein),341,98
+168,AGAAAGCAGATTTAATAAGG,conserved hypothetical protein; possiblepermease (efflux protein),370,98
+182,ACCAATAAAAGTTGCAAAAA,conserved hypothetical protein; possiblepermease (efflux protein),508,98
+192,TAATGAACTCTCTGTATAAA,conserved hypothetical protein; possiblepermease (efflux protein),544,98
+228,ATGGTGTTAACAATAAGTAA,putative transcriptional regulator MutR,10,99
+1415,ATCATAGACATCATAAGTTT,putative transcriptional regulator MutR,373,99
+169,CGTCTGAGATAATGTATTCT,putative transcriptional regulator MutR,440,99
+229,TTCACCTTAAACTAAGTAGG,50S ribosomal protein L28,12,108
+1133,GAATTCACCTTAAACTAAGT,50S ribosomal protein L28,15,108
+170,TTTTCCTCCTACTTAGTTTA,50S ribosomal protein L28,21,108
+34,TTTTGTTCATCGCATGTGAA,50S ribosomal protein L28,101,108
+172,ACAACCATAGCTTTAACTGC,putative transcriptional regulator (MarRfamily),93,111
+230,AAACCATTGTTTTTATAGCT,putative transcriptional regulator (MarRfamily),156,111
+1134,AACATCCAAAACGGCAAACT,putative transcriptional regulator (MarRfamily),187,111
+1224,AGCATAAAGAACATCCAAAA,putative transcriptional regulator (MarRfamily),196,111
+1322,AGAAGCAATCAAACGACTGA,putative transcriptional regulator (MarRfamily),232,111
+231,CTAAATCCTGATTAAAAAAC,conserved hypothetical protein,179,112
+1135,TCTCGTGCATGTGCCACCTC,conserved hypothetical protein,216,112
+1225,GGAATAGCATAGTTGTAAAC,conserved hypothetical protein,276,112
+1323,AGCAGGTTTTTGACAGGGCC,conserved hypothetical protein,297,112
+1416,AATCAAGCAGGTTTTTGACA,conserved hypothetical protein,302,112
+232,CGTTCTCTTAAAGAAAGAAA,putative transcriptional regulator (TetR/AcrRfamily),19,120
+35,TCAATACTTCTTTCTTGCTT,putative transcriptional regulator (TetR/AcrRfamily),105,120
+1136,AGCTTTTTTAGCAATTTCAT,putative transcriptional regulator (TetR/AcrRfamily),196,120
+173,TGTTAAAATATCTTCTTTGC,putative transcriptional regulator (TetR/AcrRfamily),253,120
+233,CTTTTTCAGACAAACTTTCT,putative transcriptional regulator,125,122
+1137,GCGTCTGCAAGCTGAGATTA,putative transcriptional regulator,191,122
+1226,AAGGGGATAGCTCATGAGAG,putative transposase,26,132
+174,ACTTGAGTGCGAAAACAATA,putative transposase,65,132
+234,CCAGATAATTCTTCCGATAC,putative transposase,121,132
+1138,ACAGGCATTCGCTTCATGAA,putative transposase,169,132
+175,CTTCAACAGTTGAAAGTGTT,hypothetical protein,92,133
+235,CCCCAAGTGCCTACACAATA,hypothetical protein,1,134
+1139,CCATATTGTGTAGGCACTTG,hypothetical protein,28,134
+1227,CCATATTGTGTAGGCACT,hypothetical protein,30,134
+236,GATCAACCGCAAACGAAAGA,hypothetical protein,2,136
+1140,TTTCGTTTGCGGTTGATCAC,hypothetical protein,22,136
+1228,TTCATTCCTTCTTTCGTTTG,hypothetical protein,33,136
+176,GTATCCAACTTTTCTTTTTC,hypothetical protein,57,136
+1610,ATACCAAGGATGGTGTGAGG,conserved hypothetical protein,5,142
+177,TGGATACCAAGGATGGTGTG,conserved hypothetical protein,8,142
+237,AAGCTTTTGGATACCAAGGA,conserved hypothetical protein,15,142
+1229,CATCAAGCTTTTGGATACCA,conserved hypothetical protein,19,142
+1417,CATCCACCTCACACCATCCT,conserved hypothetical protein,27,142
+1511,TGCGCAGGGCATCAAGCTTT,conserved hypothetical protein,28,142
+178,GGCATCCCCCTCAAAAGCAA,conserved hypothetical protein,91,142
+36,CCGAATGTAAGTAGAATAAA,conserved hypothetical protein,112,142
+1141,GTTTTGTGATGCAGCTGATT,conserved hypothetical protein,165,142
+1324,TATCAACATAGCCTGTGCCT,conserved hypothetical protein,205,142
+238,ATGATAAAGATGAAAAGGAA,hypothetical protein,12,149
+1230,GAAGTATGATAAAGATGAAA,hypothetical protein,17,149
+1142,CTTTCTTTTGCATAAGTAAC,hypothetical protein,158,149
+1325,CATAACAACCCAAGCCGCAT,hypothetical protein,187,149
+1418,GAGATTGGCAGTACCTGCAA,hypothetical protein,268,149
+179,ACGATTCAGGATAAGAGAGA,hypothetical protein,7,150
+239,AACTGCTTATAAAACGATTC,hypothetical protein,20,150
+37,CAACAAATCAGCCTTTCCAA,hypothetical protein,166,150
+240,CTTTCTTATCAAGATAATGA,putative transcriptional regulator,18,151
+180,CTGCTGAGACAGATCTTTAC,putative transcriptional regulator,82,151
+241,ATAGACACAGAAATAGGAGG,conserved hypothetical protein; putative cellgrowth regulatory protein,5,154
+1143,ATAATAGACACAGAAATAGG,conserved hypothetical protein; putative cellgrowth regulatory protein,8,154
+38,GATATAATAGACACAGAAAT,conserved hypothetical protein; putative cellgrowth regulatory protein,11,154
+1231,TTGTTTTGGCAAACGAATAG,conserved hypothetical protein; putative cellgrowth regulatory protein,85,154
+183,AATTCTTGTACCAATTGTTT,conserved hypothetical protein; putative cellgrowth regulatory protein,99,154
+184,CTAAGTCTATTATACTTAAG,hypothetical protein,16,157
+242,ATGTAGCGCTTTTTGGACAC,hypothetical protein,54,158
+185,AGACAACATGTAGCGCTTTT,hypothetical protein,61,158
+186,TTAGTAAAAGAATCGCTACA,conserved hypothetical protein,83,160
+39,ATTTTTCCCCCAAAAAATCA,conserved hypothetical protein,106,160
+1144,AACCCGGAACCATAATGGTG,conserved hypothetical protein,182,160
+1232,TGAACCCGGAACCATAATGG,conserved hypothetical protein,184,160
+1326,CTCTGAACCCGGAACCATAA,conserved hypothetical protein,187,160
+1419,TCCTGAGTGGCCTCTGAACC,conserved hypothetical protein,198,160
+1512,CTCATTAAACCGTTCCTGAG,conserved hypothetical protein,211,160
+1611,TTTTTTCCCTTGCTTATTTA,conserved hypothetical protein,244,160
+1710,AAGAAATCGAATTATCCTTA,conserved hypothetical protein,290,160
+187,GCAAAAGCAACGACAATATA,conserved hypothetical protein,345,160
+243,GTTACTATGCGATGATGAAG,hypothetical protein,20,167
+1145,GCTAAACAGCTGGGAGTAAG,hypothetical protein,78,167
+188,GCTTCATATGCTAAACAGCT,hypothetical protein,87,167
+189,TAATGATTTTGACAAAGAAG,putative metal-dependent transcriptionalregulator,8,168
+310,TTAACCATTTCTGAGACAGC,putative metal-dependent transcriptionalregulator,156,168
+1233,ATTGAAAATGTAAGAAAGGA,conserved hypothetical protein,8,173
+244,AGGGATTGAAAATGTAAGAA,conserved hypothetical protein,12,173
+1146,ATGGTTATTGCATTTTA,conserved hypothetical protein,31,173
+190,CTTTTAAGCCTTGCTTAATA,conserved hypothetical protein,80,173
+193,TTGCTCTTTATAGTTTTGAA,conserved hypothetical protein; Bacteriophage P2associated,7,174
+245,TACGTAATTCAAAGTTTTTA,conserved hypothetical protein; Bacteriophage P2associated,107,174
+246,GTAGAGGGAAAATAATATAA,hypothetical protein,10,175
+194,AAACAATTTTGGTATGTAGA,hypothetical protein,25,175
+1147,TGAATAGCATAAACTGGGAT,hypothetical protein,105,175
+1234,CTAGCTGAATAGCATAAACT,hypothetical protein,110,175
+195,GAGTTGTGGTAAAAAGGAGG,hypothetical protein,7,179
+247,TTAGAGTTGTGGTAAAAAGG,hypothetical protein,10,179
+1235,TGGTTAGAGTTGTGGTAAAA,hypothetical protein,13,179
+1327,GTTCATTTTGGTTAGAGTTG,hypothetical protein,21,179
+1148,GTAATTTTTTGTATCCAAAT,hypothetical protein,108,179
+248,AAATGAAAATGGATTAAGAG,hypothetical protein,7,180
+196,CTGTCGAAAAGAAATGAAAA,hypothetical protein,18,180
+197,AATCGTTTTAGGTAATAGAA,putative transposon protein,8,181
+249,GGTTCTATTTAAATCGTTTT,putative transposon protein,19,181
+311,TTAACATCTAGCTTTTTCTT,putative transposon protein,126,181
+250,AACAAAACCACAAACAAAAA,hypothetical protein,175,182
+251,TAACCGTTTTTTGTTTTTGA,hypothetical protein,10,183
+198,ACTCCCTCAAAAACAAAAAA,hypothetical protein,22,183
+252,TCTTGTTCATTTTTCGATTG,hypothetical protein,54,184
+1236,GAATCATGCAAAATTAGCTG,hypothetical protein,16,185
+199,AATTTTTCGGGCACATTAAT,hypothetical protein,90,185
+253,ATAGGACGATTAAATTTTTC,hypothetical protein,102,185
+1149,ATAAAATGTCTCCGCTGAAT,hypothetical protein,120,185
+1100,CTTCACCAGTAGATTCATCA,hypothetical protein,158,188
+1237,CATTTCCTAAAACCTCATTT,hypothetical protein,77,189
+254,TCAAAAACACGATAAGAGAC,hypothetical protein,147,189
+1150,AGCAGAGGGCTCTTTACGAC,hypothetical protein,175,189
+1101,TTTATCAGGAGTTAAAAGAG,hypothetical protein,9,190
+1238,AGCTATTGAAGCTTTTTATC,hypothetical protein,23,190
+255,AGTACTATTGCAAATATCAA,hypothetical protein,162,190
+1151,ATCACATAAGAAACAAACCG,hypothetical protein,192,190
+256,AAATAAGGAAGAAAGGTAAC,hypothetical protein,5,193
+257,CCTTCTCCATCAAGTATAAC,hypothetical protein,75,194
+258,TAAAGTAATTTTGGAAGAGG,hypothetical protein,21,195
+1328,CTAGGATAAACAATAATCTT,hypothetical protein,78,195
+1102,ACTTTAACACCATAAAAGCT,hypothetical protein,96,195
+312,TCATTTAAACTCGTTGTAAA,hypothetical protein,162,195
+259,GACAAATTATGATAGAATAG,hypothetical protein,8,196
+1329,GCAGAGATTTTAAGCGTTCT,putative transcriptional regulator,56,197
+1420,TTTGAGTTAGGCCTGCTTCT,putative transcriptional regulator,80,197
+1103,CAGCTATTTGTTTTTGAGTT,putative transcriptional regulator,92,197
+260,TCCAGATTCCCATTGTGCAT,putative transcriptional regulator,139,197
+1152,TTATTTAGGGTTGCACTTCT,putative transcriptional regulator,171,197
+1239,AAAATCAGCAAACTTATTTA,putative transcriptional regulator,184,197
+1513,GATTTTTGAAGTAATTTCTG,hypothetical protein,8,198
+1104,TTTGAAAGGACAGAAAATGA,hypothetical protein,97,198
+261,CAAAATAAATTTGGTGTTAG,hypothetical protein,145,198
+1153,GATTTTCTCAGTGTCGGATA,hypothetical protein,178,198
+1240,AACATTGATTTTCTCAGTGT,hypothetical protein,184,198
+1330,TGAAATGGGTTATTTCATGT,hypothetical protein,209,198
+1421,TGTATCTTTGTTAATGAAAT,hypothetical protein,223,198
+1105,ACAATGGTGAAGAAAGGAGA,hypothetical protein,6,199
+262,TGTGATACAATGGTGAAGAA,hypothetical protein,12,199
+1106,AACTGCACATACAATTGATA,putative integrase,42,200
+263,TAATGGCCTGTTGTTCCCAA,putative integrase,116,200
+1154,GTAACGACGATAAGTTTTAA,putative integrase,133,200
+1241,CTAACAGATTCTTCTGTTTT,putative integrase,183,200
+1107,CTTTTTTCCTCGCTGTCTAT,hypothetical protein; possible integrasefragment,61,201
+264,TCAATTTGAGCTTTAATTTC,hypothetical protein,3,202
+1242,GATATTGAGAAAAATCCAGA,hypothetical protein,5,202
+1155,GGATATTTCACAAAACCTTC,hypothetical protein,39,202
+1108,TATTTGCCACCTTGAGAATT,hypothetical protein,60,202
+265,AACTGATATCCAAATTAATC,hypothetical protein,1,203
+1331,ATCCTGCATCCTGATTAATT,hypothetical protein,37,203
+1109,CATCTCCCTTATTAGCATTT,hypothetical protein,98,203
+1156,GTGATTCTTTATGAATGTAA,hypothetical protein,121,203
+266,TGACGATCATGTACAGAGGC,putative transposase,258,205
+1157,TACCTGACGATCATGTACAG,putative transposase,262,205
+1158,TGTGTTCTCAAGCAGGTCTT,putative transposase,286,205
+1159,TGCTTGAAAATTATCCTTGA,putative alkaline-shock protein-like protein,172,207
+1160,TAATAAAAGAGATAAGAGTG,putative transcriptional regulator,6,214
+267,ATCTCTTTTATTATACCTTG,putative transcriptional regulator,13,214
+1810,ACTAAAACGCTACCGCA,putative transcriptional regulator,31,214
+313,AATGTTTTCTTTTTCCCCGC,putative transcriptional regulator,108,214
+1161,TCCAGCCTTTTCTGCAATTT,putative transcriptional regulator,184,214
+1332,TTCTGATAGGAGGTCACTTT,putative transcriptional regulator,241,214
+1422,TAGGCTGCATAATTTCTGAT,putative transcriptional regulator,254,214
+1514,CTTTTTAGTTCAGGAATCAT,putative transcriptional regulator,273,214
+1711,TAGTATAAGTTTGCAATTTT,putative transcriptional regulator,305,214
+268,GTATTAACGGAGAATCAAAA,hypothetical protein,11,217
+1333,TTTTCTTTAGTGAGTATTAA,hypothetical protein,24,217
+1423,TGTTTCGGATTTGCTGTGTT,hypothetical protein,251,217
+1162,AGATCATGATGCTTGTGTTT,hypothetical protein,266,217
+269,TCTAAAAAACCATGATGATG,"putative nitrogen fixation-like protein, NifU",111,227
+1163,CTGATGACATCACCGCAAGT,"putative nitrogen fixation-like protein, NifU",162,227
+1164,CGTACAGCCATCACCTGCAA,"putative nitrogen fixation-like protein, NifU",226,227
+1165,CTATCAAAAGACTAACAAAG,hypothetical protein,80,229
+270,GCTGCGCTTTTTTAATAGAC,hypothetical protein,131,229
+1166,CACCGTTTCTACAGAACGAT,hypothetical protein,217,229
+1243,ATACCCAATATCAGCTGTCA,hypothetical protein,289,229
+1334,TCCGTGATTGAGAACTGTTT,hypothetical protein,401,229
+271,GAAAAATGGAAGAGCTTACA,"putative oligopeptide ABC transporter,ATP-binding protein OppF",12,235
+1335,TTTTGCAGCGTTGGGAAAAA,"putative oligopeptide ABC transporter,ATP-binding protein OppF",26,235
+314,ATCTATTGCTTTTACTTGGT,"putative oligopeptide ABC transporter,ATP-binding protein OppF",118,235
+1167,CATTATCTATTGCTTTTACT,"putative oligopeptide ABC transporter,ATP-binding protein OppF",122,235
+1244,TGTAAAGTTTTAAAATAGCA,"putative oligopeptide ABC transporter,ATP-binding protein OppF",218,235
+1424,TCAAGCTGGCTTGAGGATCT,"putative oligopeptide ABC transporter,ATP-binding protein OppF",338,235
+1515,CGACTATTCAAGCTGGCTTG,"putative oligopeptide ABC transporter,ATP-binding protein OppF",345,235
+1612,TTTCATGCGACTATTCAAGC,"putative oligopeptide ABC transporter,ATP-binding protein OppF",352,235
+1168,AATCCTGAACTTTTGCGTCA,"putative oligopeptide ABC transporter,ATP-binding protein OppF",434,235
+272,GCCTATTATAACACAATGAT,"putative PTS system, enzyme IIB component",3,245
+1169,AGGCACGATCATTTATAGGA,"putative PTS system, enzyme IIB component",7,245
+315,TAATAGGCACGATCATTTAT,"putative PTS system, enzyme IIB component",11,245
+1170,ATGACAGCAATATTAAGAAG,hypothetical protein,14,250
+1171,CTTCTCCTTCGATTTCAGTA,hypothetical protein,89,251
+1172,TATGTTTTACTCACTCGTAA,hypothetical protein,12,252
+273,GCATACAGCATAAGACAAAT,hypothetical protein,102,253
+1173,ATCTCTTATACTTGGAAAGA,hypothetical protein,124,253
+1174,CTGAGCCATCAATATCTACA,hypothetical protein,113,254
+274,TGATGTCCGATGGGAGCGAT,hypothetical protein,3,255
+316,TTGACAAGTTGATGTCCGAT,hypothetical protein,12,255
+1175,CCATCACCTATCGCTCCCAT,hypothetical protein,32,255
+1176,CGCTAATTAATGTTAATGAT,hypothetical protein,12,256
+275,CTCAACCAAAGCAAGGCCCG,hypothetical protein,112,256
+1177,GCGACCACTCAACCAAAGCA,hypothetical protein,119,256
+276,CTCACTGAAACTATAGGAGC,hypothetical protein,10,257
+1178,TATCTCCTCACTGAAACTAT,hypothetical protein,16,257
+1179,CAGCTCCTATAGTTTCAGTG,hypothetical protein,18,257
+1180,AGTTATTTAATCCTGCAACT,conserved hypothetical protein,4,265
+277,TCCTGCATCAACCAAGTTGC,conserved hypothetical protein,36,265
+317,GAATTTCTAATTCCTTATAC,conserved hypothetical protein,119,265
+1245,TAACATCTGGCAAATAGCGG,hypothetical protein,3,266
+1181,CTTTAACATCTGGCAAATAG,hypothetical protein,6,266
+278,GATGTTAAAGAAGCTTTGAA,hypothetical protein,10,266
+1182,CCATTTTTGCCTCGTCAGCA,hypothetical protein,196,266
+279,TACTAACAATAAAAAAAGGG,putative bacteriocin peptide precursor,8,270
+280,ATTACATTTACCAGAGAAAA,sorbitol operon activator,10,280
+1183,TCAGAATACTCCTTTTTCTC,sorbitol operon activator,29,280
+1184,TAATATGATTTGAACTGCAT,sorbitol operon activator,91,280
+1185,TTAATCATGCTGAGAGCTTC,"putative PTS system, sorbitol-specific enzymeIIA",90,283
+318,CAATAATCTGCCAGATCTTG,"putative PTS system, sorbitol-specific enzymeIIA",150,283
+281,TCCTGCGATAAGTGCGATGG,hypothetical protein,73,284
+1186,GTTTCCTGCGATAAGTGCGA,hypothetical protein,76,284
+282,CTCATCTCTGAGCACTTTTT,putative 5-formyltetrahydrofolate cyclo-ligase,109,287
+1187,TTCCCTTGAGGATAGGTTTT,putative 5-formyltetrahydrofolate cyclo-ligase,270,287
+1246,AATCATTTTCCCTTGAGGAT,putative 5-formyltetrahydrofolate cyclo-ligase,277,287
+1188,ACAAAAATCATTTTCCCTTG,putative 5-formyltetrahydrofolate cyclo-ligase,282,287
+283,GCATGAGCTGTTTCCCGCTT,putative dUTPase,108,291
+1189,TATAAGCTTTGACACCTGTT,putative dUTPase,194,291
+284,AACTAGATTTATCACTGATA,conserved hypothetical protein,10,298
+1190,CAGCTGATAATGTCAGATTT,conserved hypothetical protein,89,298
+1191,ACCTTAACAGGCATAATCAT,conserved hypothetical protein,138,298
+1247,GGACCAATAATCACCTTAAC,conserved hypothetical protein,150,298
+1336,CTAGCTAAAGTAAAGGAAGC,conserved hypothetical protein,171,298
+1425,AACATGACTAGCTAAAGTAA,conserved hypothetical protein,178,298
+1516,AGAAACATAGCGATAAAAAT,conserved hypothetical protein,201,298
+1613,GCAACAATAACAGCAACTTC,conserved hypothetical protein,228,298
+1712,GCACGCATGACAATAACAAA,conserved hypothetical protein,288,298
+1192,TTTATCACTTTTAACGCGAT,putative ribonuclease P protein component,61,302
+1193,ATAGACAACAAATTTCCGAT,putative ribonuclease P protein component,121,302
+1194,GAATACGAAAATCTATGAGG,50S ribosomal protein L34,9,306
+285,GATTTTCGTATTCGTTTAGC,50S ribosomal protein L34,10,306
+1195,AACGAATACGAAAATCTATG,50S ribosomal protein L34,12,306
+1248,CGTTGACGACGGATTTTACT,50S ribosomal protein L34,69,306
+1337,ATCCATGTTTACGTTGACGA,50S ribosomal protein L34,80,306
+1249,GGGTGTAACACCACGTAGAA,hypothetical protein,4,310
+286,CTACGTGGTGTTACACCCAT,hypothetical protein,20,310
+1196,GGAATTCTATTTCTTCCAAT,hypothetical protein,24,310
+1197,CCCCTAAGATAAGCCATTTT,hypothetical protein,45,310
+1198,TTTTTGTGACCTACCAAATC,conserved hypothetical protein,9,311
+1338,TTATTTTCTCCTGATTTGGT,conserved hypothetical protein,29,311
+1426,TGCATTATTTTCTCCTGATT,conserved hypothetical protein,33,311
+1517,GTTAAACCGCAATTCCAGTT,conserved hypothetical protein,63,311
+1614,TGAAAGAGCGTCCATAACAC,conserved hypothetical protein,85,311
+287,TTAGCTGATTAAAGCGGATG,conserved hypothetical protein,152,311
+1199,CTTTAGCTGATTAAAGCGGA,conserved hypothetical protein,154,311
+1250,CTCTCTTTAGCTGATTAAAG,conserved hypothetical protein,158,311
+1615,TACATAATAAAAACCAGCTA,conserved hypothetical protein,73,316
+288,TCTACTTCATCACCAACATA,conserved hypothetical protein,159,316
+11100,TGATCAATATTGACAATTGG,conserved hypothetical protein,252,316
+1251,GCCTGATCAATATTGACAAT,conserved hypothetical protein,255,316
+1427,GTTCTAAAAGAATGAGAAAA,conserved hypothetical protein,329,316
+1200,TCAAGTTGAAACTTTGAAAG,conserved hypothetical protein,7,318
+289,TCCCCAATAGCTAAGTCTAA,conserved hypothetical protein,162,318
+11101,CATCACCAGCTTTTTAGCCT,conserved hypothetical protein,226,318
+1252,TCTGTATCATTTTTTTCTGC,conserved hypothetical protein,252,318
+290,GAAACCAAAAGCATAAGGAA,30S ribosomal protein S7,11,323
+1253,ATCTCCCTTCCTTATGCTTT,30S ribosomal protein S7,22,323
+1339,ATACTTCGCGCTTAGGCGCA,30S ribosomal protein S7,65,323
+1428,TCTGGCAATACTTCGCGCTT,30S ribosomal protein S7,72,323
+1518,TTTGAATTGTATAATGGATC,30S ribosomal protein S7,90,323
+11102,GTTTACCATCAAGCATAATA,30S ribosomal protein S7,134,323
+1201,GCATACCCAATGTAAATTTT,conserved hypothetical protein,74,327
+291,CCGTTAAAGCACCAATTTGA,conserved hypothetical protein,164,327
+11103,CTATACGTGACGTCCCAAAA,conserved hypothetical protein,224,327
+1340,ATATAATAGACAATGAAAGG,transcriptional regulator; glutamine synthetaserepressor,7,328
+1202,AATTTCATTACAGTTCCAAT,transcriptional regulator; glutamine synthetaserepressor,90,328
+11104,GATCTGGTGTCAATAAACCT,transcriptional regulator; glutamine synthetaserepressor,152,328
+1254,CGATTTCCAGAACTACGATC,transcriptional regulator; glutamine synthetaserepressor,168,328
+11105,CTGACCCGGCAAAATCAGAC,hypothetical protein,238,332
+1255,TTAACAGTTAAAGTCTGACC,hypothetical protein,252,332
+1341,GGCGCTGCCGCCTGATTATC,hypothetical protein,288,332
+1429,GTTGCTTGCGTAGTGTCAGT,hypothetical protein,309,332
+1203,ATTCGCATCATTCGTTTCAG,hypothetical protein,331,332
+1342,TTAATCATGATATGACAGAA,conserved hypothetical protein,7,334
+1430,TTTTGGTTTGTTCGCGGCGT,conserved hypothetical protein,92,334
+1204,ATAAAGTTTTGGTTTGTTCG,conserved hypothetical protein,98,334
+292,AATATCGAGGTATAAAGTTT,conserved hypothetical protein,109,334
+11106,CGGTTTGAGCATCAATATCG,conserved hypothetical protein,122,334
+293,GAAATTAATGAGTCAAGTGA,hypothetical protein,16,338
+319,CATCTTGATTAACAATTGAT,hypothetical protein,149,338
+11107,TATAGCCATCTTCAAATAAA,hypothetical protein,266,338
+1256,TACTTTGCCATTTCTTTTGC,hypothetical protein,306,338
+1343,AATCCTATCTCGGCCTTCAT,hypothetical protein,334,338
+1431,TAAGAGAATAAATCCTATCT,hypothetical protein,344,338
+1519,AAGATTCCCAATTTCTTGTA,hypothetical protein,367,338
+1205,ATGACCTCGATGTTTTTCTG,hypothetical protein,390,338
+1206,GATAATTATGCCATGGTAGA,putative oxidoreductase,9,339
+1257,AGATTTAGATAATTATGCCA,putative oxidoreductase,16,339
+1616,ATGAAAAACTCCTTCTACCA,putative oxidoreductase,30,339
+1713,TCAAAAAGCCCTGACAAATA,putative oxidoreductase,89,339
+294,AACGATTTGATCAAAATCCT,putative oxidoreductase,121,339
+11108,GTTAAACTGCTAGATTTTTT,putative oxidoreductase,156,339
+1344,TTAAAAAGGTTTCCATCTTG,putative oxidoreductase,218,339
+1432,ACACAACGCTGGAAAAGTTT,putative oxidoreductase,251,339
+1520,ACCAGAAGTAAACACAACGC,putative oxidoreductase,262,339
+1207,TGCTATCACTTAATATAGAG,hypothetical protein,8,342
+295,CTTGAAAGTAATATTTTCAC,hypothetical protein,48,342
+1345,TGGTCTTTCTTATGTCAAAC,putative ribosomal-protein-alanineacetyltransferase,5,349
+1258,CTCAAAACGCATGAAGATTC,putative ribosomal-protein-alanineacetyltransferase,25,349
+1433,AAAGGATAGCAGCTATTTCT,putative ribosomal-protein-alanineacetyltransferase,71,349
+1521,CATCCTCTAGGATGGCAAAA,putative ribosomal-protein-alanineacetyltransferase,89,349
+1208,CTGATAAACATCCTCTAGGA,putative ribosomal-protein-alanineacetyltransferase,97,349
+296,AGACCTGATAAACATCCTCT,putative ribosomal-protein-alanineacetyltransferase,101,349
+11109,AAAATCTGTTTTTGACTCCA,putative ribosomal-protein-alanineacetyltransferase,126,349
+297,ATTAATAGGTTGTTTTGCGG,conserved hypothetical protein,10,352
+1259,ACATTAATAGGTTGTTTTGC,conserved hypothetical protein,12,352
+1811,TACTAAGGCACTAAGTCCTA,conserved hypothetical protein,76,352
+1209,CCGTGGAATCCATGTTACTA,conserved hypothetical protein,91,352
+11110,AAAATAAAGGGAGCAATCCG,conserved hypothetical protein,108,352
+1434,ACGAATAATAAAATTCGGCA,conserved hypothetical protein,145,352
+1617,AAAGCAAAGATAATCGTAAT,conserved hypothetical protein,183,352
+298,GCGTTGTCATTGAAAGAACA,hypothetical protein,18,353
+11111,AATTCCAACCATTTGATACT,hypothetical protein,40,353
+1260,TTGGCAGCCACCCAGAAAGT,hypothetical protein,76,353
+1261,TAAGAGGATATTCTTTGTCT,hypothetical protein,95,353
+299,CACGATTATTAACCGCTTGT,conserved hypothetical protein,101,356
+11112,TTCTTTTCAACATACTCTTC,conserved hypothetical protein,135,356
+1262,TGTTTTGCTTCTTCACTGAC,conserved hypothetical protein,240,356
+2100,GCTCAAACCCTTGTCACGAA,conserved hypothetical protein,16,357
+1263,TAAGATTCCTTTCGTGACAA,conserved hypothetical protein,20,357
+1346,TTTTACTGCATCAAGATAGG,conserved hypothetical protein,85,362
+1264,AATTTTTACTGCATCAAGAT,conserved hypothetical protein,88,362
+2101,TATCAACTTCAATAGTTAAT,conserved hypothetical protein,143,362
+11113,CTGCGTGGGTAAAAGACGAC,conserved hypothetical protein,226,362
+1265,GCTGTGATTCCATCCTGCGT,conserved hypothetical protein,240,362
+1266,GTAGAAAGTCCCCAAAGTTC,hypothetical protein,174,365
+11114,ACTAAAATCCAAAGCCAAAA,conserved hypothetical protein,157,368
+1347,GTCAACATATAAAAAGTATT,conserved hypothetical protein,249,368
+1267,CCATTAGCTGATTTTCATTT,conserved hypothetical protein,62,370
+2102,GGCAATTCCTTTTGTCAGAG,conserved hypothetical protein,163,370
+11115,CTGCTTAATCCCCAAACCTT,conserved hypothetical protein,184,370
+1268,TCACGAACAATCGTATAGGT,conserved hypothetical protein,219,370
+1348,ATATTCACGAACAATCGTAT,conserved hypothetical protein,223,370
+1269,TTCGGCTAATTGTCCAAGAC,conserved hypothetical protein,5,372
+2103,ATTAGCCGAAGATATTCAAA,conserved hypothetical protein,11,372
+11116,AATCTCCTTTTGAATATCTT,conserved hypothetical protein,23,372
+1349,GATAAAGACCGGCTCCAAGA,conserved hypothetical protein,80,372
+1270,GTAATACATCTGATAAAGAC,conserved hypothetical protein,91,372
+1271,GATGCAAAATAGAAAGTCAG,conserved hypothetical protein,7,380
+1272,GAAACAAGAGACTTTCTTAA,conserved hypothetical protein,72,380
+2104,AATAAAAACATCACCTTCCT,conserved hypothetical protein,139,380
+11117,CGCCCATTTTTCTTACCAGT,conserved hypothetical protein,165,380
+2105,AAGGTTAAAAGAAGAGAGTT,putative ribosomal protein,3,381
+320,AATTGCTTTTGTTGATCATA,putative ribosomal protein,22,381
+1273,AATAACACGTCCTGCTCTCT,putative ribosomal protein,91,381
+4,TAGATTAGAACCAGCATCTT,putative ribosomal protein,175,381
+2106,TAGTGACACCTTGAACACGT,ribosome binding factor A,131,383
+1274,GAGATAAATCACCTGACATT,ribosome binding factor A,164,383
+1275,TATCTACAAATGTAGATGAA,"negative transcriptional regulator, CopY",8,385
+2107,CAGCGTTTTAATCGTTGAAG,"negative transcriptional regulator, CopY",160,385
+11118,TTTTCTTCCTTGACGCTGAC,"negative transcriptional regulator, CopY",214,385
+2108,TTTTACAACTTTAAGACGCA,putative copper chaperone,10,387
+1276,TGACATTGTCAGCGCAGCCT,putative copper chaperone,86,387
+11119,CTTTAATTCTGAAAAGCGTT,putative copper chaperone,109,387
+1350,ATTTGTGATACACTAGATAA,conserved hypothetical protein,21,388
+2109,TAACAGCAATATTTTCTTGC,conserved hypothetical protein,116,388
+11120,GCTCAACACCAGTCTGCATA,conserved hypothetical protein,185,388
+1277,AAACCTAATTGTTCAAAGTA,conserved hypothetical protein,207,388
+1278,TAACTGCCAATCTCTATTAA,conserved hypothetical protein,280,388
+1522,GCTGAAAAAAGCATTGCAAT,hypothetical protein,42,389
+1618,AGCGAGGCAAAAAGCACCGA,hypothetical protein,64,389
+1279,TAGTAAAAGAAGAATAAGCG,hypothetical protein,80,389
+2110,GATGGAAACACTAATGGTTA,hypothetical protein,190,389
+11121,TCTGACGATGGAAACACTAA,hypothetical protein,196,389
+1280,AATAAGTGCATTTCTGACGA,hypothetical protein,208,389
+1351,TTGAATGAGGACTAAACAGA,hypothetical protein,259,389
+1435,TACCAAGCCCTCATTTAGAG,putative transcriptional regulator,9,392
+1281,TTCCTCTCTAAATGAGGGCT,putative transcriptional regulator,22,392
+1352,TATTTTTCCTCTCTAAATGA,putative transcriptional regulator,27,392
+1282,CCGCCTTGACTAAGACAAGG,putative transcriptional regulator,98,392
+2111,CGCCGCCTTGACTAAGACAA,putative transcriptional regulator,100,392
+1283,ACTCAGCTGGGCATTTAGAA,hypothetical protein,9,393
+2112,AAAGGTTTAATGACTCAGCT,hypothetical protein,21,393
+11122,AGTAGACTAAGCTGCCTGTA,hypothetical protein,86,393
+321,ACAATATTACTTTTAGAAAC,hypothetical protein,141,393
+1284,GTTTTGTTGTTTATCTAAGG,putative transcriptional regulator,9,397
+2113,GACGTTTTGTTGTTTATCTA,putative transcriptional regulator,12,397
+322,GTCACTCAGTAATTTAACAA,putative transcriptional regulator,103,397
+11123,ATCGGCATAATGAGAATAAA,putative transcriptional regulator,187,397
+1285,TTGCTGTAAGGTATCCTTAT,putative transcriptional regulator,205,397
+1353,TTTTTGAATGCCTTGCTGTA,putative transcriptional regulator,217,397
+1436,TTGCGCTGCATCAATCATAT,putative transcriptional regulator,259,397
+323,CTGATTAACTTGAGAATAGT,hypothetical protein,103,398
+11124,ACTAAAGTGAAGGCAAGTTC,hypothetical protein,216,398
+1286,ACGCACCTCAACTAAAGTGA,hypothetical protein,226,398
+1287,TCGGCTTTTAATAAAACTGG,conserved hypothetical protein,7,400
+2114,CAATCGGCTTTTAATAAAAC,conserved hypothetical protein,10,400
+1523,AACAGCTGTCGGCTTTCAAT,conserved hypothetical protein,26,400
+11125,CGCCTTTACCATGACAGACC,conserved hypothetical protein,119,400
+1288,CCCTTTTTCATGCGTCTTAA,conserved hypothetical protein,144,400
+1354,TTTTAGGACTGTAATAGAGC,conserved hypothetical protein,173,400
+1437,TTAGAATCAAGAGCGATTTT,conserved hypothetical protein,189,400
+2115,AATGAAGTAATAAATTAGGG,hypothetical protein,22,401
+1289,ACATAGGGGCGTTTGAAACG,hypothetical protein,32,401
+1355,TCCCATGCCAACTGACATAG,hypothetical protein,46,401
+1290,ACTCCCATGCCAACTGACAT,hypothetical protein,48,401
+1356,TTTGATTGTAACCTACTTTA,hypothetical protein,8,405
+1438,TTACAATCAAAGAAAAAAGG,hypothetical protein,9,405
+2116,AGGTTACAATCAAAGAAAAA,hypothetical protein,12,405
+1291,TATTACAGGCCATCAAGAGC,hypothetical protein,95,405
+324,ATTGATGTTATCCTTATTAC,hypothetical protein,109,405
+11126,TAGTTTCGGTGATATCAGAG,hypothetical protein,197,405
+2117,AGCCTTTTCCAATCTGGTAA,putative cell division protein,109,410
+1292,ATAAAAAGCCTTTTCCAATC,putative cell division protein,115,410
+2118,AGTAAAGGCTGTTAAAATAA,hypothetical protein,1,413
+1357,TTAGTAATACTAGTTAGGTC,hypothetical protein,5,413
+1439,ATAAGAACTCCAATATGATA,hypothetical protein,54,413
+1293,GCCCAAGAATAGAAAAAGCA,hypothetical protein,92,413
+1294,CAGAGTATTTTTATTTATGG,conserved hypothetical protein,5,418
+1295,GTTGCATATCATATTCTGTT,conserved hypothetical protein,245,425
+2119,TGAAATAAGACGGACATAAG,putative autoinducer-2 production protein LuxS,106,429
+11127,TCTGAAATAAGACGGACATA,putative autoinducer-2 production protein LuxS,108,429
+1296,CAAACTCTTCTGAAATAAGA,putative autoinducer-2 production protein LuxS,116,429
+1358,TTGGTAATAAGATCGCCTTT,putative autoinducer-2 production protein LuxS,141,429
+1440,GTCGGAATAGAGTCTTCATT,putative autoinducer-2 production protein LuxS,186,429
+1524,ATAGTATGAAGGCCTGCAGT,putative autoinducer-2 production protein LuxS,204,429
+1619,GTAAATGTTCAATAGTATGA,putative autoinducer-2 production protein LuxS,215,429
+1441,TATACAGTCTTAATCCTAGA,conserved hypothetical protein,4,438
+11128,AAAAGCTAAAGCAATTAAGA,conserved hypothetical protein,208,438
+1297,GCCTAAACGATAAAATCTCA,conserved hypothetical protein,292,438
+1359,AGTACCGCAGCAATTGTATA,conserved hypothetical protein,378,438
+1298,CATTGTGATTGAGAGCATCG,putative polyribonucleotidenucleotidyltransferase (general stress protein 13),4,442
+1360,TCAATCACAATGTCATCTAT,putative polyribonucleotidenucleotidyltransferase (general stress protein 13),14,442
+2120,AATTGGACAAAGGCACCGTA,putative polyribonucleotidenucleotidyltransferase (general stress protein 13),102,442
+11129,GCCATTTTCTAATTGGACAA,putative polyribonucleotidenucleotidyltransferase (general stress protein 13),112,442
+1299,CAATTGAGCCATTTTCTAAT,putative polyribonucleotidenucleotidyltransferase (general stress protein 13),119,442
+1442,CCGTTTTGATTTCTGAGATA,putative polyribonucleotidenucleotidyltransferase (general stress protein 13),149,442
+2121,TACGCCTAATTTTTCAGATA,putative DeoR-type transcriptional regulator,112,444
+11130,TGAACCTGATTCAATCATAA,putative DeoR-type transcriptional regulator,313,444
+12100,AGCTTCCGCTAACAAAGCAC,putative DeoR-type transcriptional regulator,337,444
+1361,AGTTGCAATAAAACAAGAAT,putative DeoR-type transcriptional regulator,394,444
+1525,AAGACTATGAACAAAAAAGG,putative late competence protein,7,451
+1300,CATAGTCTTGATTTCCATAA,putative late competence protein,8,451
+2122,ATCAAGACTATGAACAAAAA,putative late competence protein,10,451
+11131,GAAATTTCGCAAAGCAAGGT,putative late competence protein,140,451
+12101,AATTGAAATTTCGCAAAGCA,putative late competence protein,144,451
+1362,CTCCCTCCTTATAACAATTT,putative late competence protein,185,451
+1443,TTTTGAGATTTTGCCATTTG,putative late competence protein,230,451
+11132,GACTGTTTTCTCTTACTGAA,hypothetical protein,131,455
+1363,ATTGACTTTGAGTCTGTGCT,hypothetical protein,254,455
+1444,GAATGGGGAGGATCACATTA,hypothetical protein,296,455
+1526,CTAATTCTTGCGGAATGGGG,hypothetical protein,308,455
+1620,CGACTAATTCTTGCGGAATG,hypothetical protein,311,455
+1714,GCCGACTAATTCTTGCGGAA,hypothetical protein,313,455
+1812,TAGGTGCCGACTAATTCTTG,hypothetical protein,318,455
+1301,TTGTGGACTCGAACCTTTGT,hypothetical protein,337,455
+11133,CCATTACTAAGAAAATATGG,putative adenine-specific DNA methylase,195,457
+12102,CCTCCATTACTAAGAAAATA,putative adenine-specific DNA methylase,198,457
+2123,ATCGTTTGCGATTTCTGCAA,putative transcriptional regulator (DeoRfamily),222,459
+1302,ACTGACCTTCAACAATCAAT,putative transcriptional regulator (DeoRfamily),311,459
+1303,TATTTTTAGGAGGTTCTAGT,hypothetical protein,4,462
+2124,TAATGACATCTATTTTTAGG,hypothetical protein,14,462
+325,TGATTATCAGAATGAGATGA,hypothetical protein,117,462
+12103,TTGTTAAATTTTGTCTAGTC,hypothetical protein,221,462
+326,CGAACCTAAACCTTCTCCTT,hypothetical protein,124,464
+2125,AAAGTATAACAATTTCGTAC,conserved hypothetical protein,11,467
+1364,AGGACGACCGCCATAATTAC,conserved hypothetical protein,64,467
+1445,TTACCTTCCAAGGTTTTTAA,conserved hypothetical protein,84,467
+1304,ACGAGTTGTCTTACCTTCCA,conserved hypothetical protein,94,467
+11134,CCTCTAACCTTGTCTGATGT,conserved hypothetical protein,117,467
+12104,ACACGACCACCATCAAAATA,conserved hypothetical protein,162,467
+1365,ACTGTCTGTCTCAGTAAATC,conserved hypothetical protein,4,471
+1527,ACAGTAGAAAAATACCTGAG,conserved hypothetical protein,7,471
+12105,TTTCTCATAGATCTCCTCTC,conserved hypothetical protein,36,471
+1305,AAAGTTACAAATTGAGGACC,conserved hypothetical protein,96,471
+11135,CAAGATGTCTGAAAAGCGTT,conserved hypothetical protein,199,471
+2126,GTCTTAGGTTATCATCAGAA,conserved hypothetical protein,11,478
+327,ACGAATTAAGGGCAGGGTGT,conserved hypothetical protein,109,478
+11136,TGATGAACGAATTAAGGGCA,conserved hypothetical protein,115,478
+12106,GCTCTTGATGAACGAATTAA,conserved hypothetical protein,120,478
+1366,GAGTTGATAGCTGATGTTGC,conserved hypothetical protein,148,478
+2127,TACTCCTAATCAATTTGTGA,hypothetical protein,1,479
+1306,CGTTCATCAAGAGCAGAATC,hypothetical protein,57,479
+1307,TCACACAGATTTTCTGTGTG,putative chorismate mutase,27,481
+2128,ACAGCTGCTTGACTGTTGAT,putative chorismate mutase,174,481
+1308,CGCTGATAAAGTAAAGGAGT,putative phosphoribosyl anthranilate isomerase,4,486
+2129,TAATGTCGCTGATAAAGTAA,putative phosphoribosyl anthranilate isomerase,10,486
+11137,ACTGACTTGGCGTTTACTTT,putative phosphoribosyl anthranilate isomerase,142,486
+12107,GAGCCTGTTCTAGACTGACT,putative phosphoribosyl anthranilate isomerase,155,486
+1367,CCAACCTTTTTAACTTTTTC,putative phosphoribosyl anthranilate isomerase,198,486
+1446,TGAACCTGTACTAAATCAAG,putative phosphoribosyl anthranilate isomerase,273,486
+2130,GTCTTTTGTTTTTGCAATAC,hypothetical protein,5,494
+1309,AGATAGCAAAGTCGCAGTCT,hypothetical protein,82,494
+2131,TAACGATTCTTAAAGAAAGG,conserved hypothetical protein,25,502
+1368,GCGCCCTGACTTTTGAGCAT,conserved hypothetical protein,97,502
+328,TTAAAGCACGATATTTATCT,conserved hypothetical protein,233,502
+12108,ATTTTACAGAATCAAGAGCA,conserved hypothetical protein,338,502
+1369,AGCATAAATTACTAGCAAAA,conserved hypothetical protein,103,504
+1370,GATCGAATCACACATAAATA,putative cell division protein DivIVA,9,506
+2132,AATGTTAGTTGATTCAGTAT,putative cell division protein DivIVA,304,506
+11138,TAATTGTTGCGACTCATAAG,putative cell division protein DivIVA,337,506
+2133,CGCTTGAGTGAAAATAACGT,conserved hypothetical protein,175,508
+1910,TGAAGGTGCTTTTGCAGTAA,conserved hypothetical protein,7,533
+12109,ATTCAGACTCATACAGGTGA,conserved hypothetical protein,24,533
+1528,AATTATTCAGACTCATAC,conserved hypothetical protein,30,533
+1813,AGAAAGAAAGCAGGTCCTTT,conserved hypothetical protein,66,533
+1371,AGATTTGCAAGAAAGAAAGC,conserved hypothetical protein,75,533
+2134,TTAAAAGATAACTTCGCTGT,conserved hypothetical protein,132,533
+11139,ATAGTGAAAAGATGTCGCTT,conserved hypothetical protein,187,533
+1372,TTCAACTCTTGCGATAAAAG,conserved hypothetical protein,273,533
+1447,ATTTCAACTCTTGCGATAAA,conserved hypothetical protein,275,533
+1621,GCATCCGTATCAAAATTTGC,conserved hypothetical protein,353,533
+1715,ATCATTTCCACCAACTGTTA,conserved hypothetical protein,424,533
+2135,AATCATGTCAAAAGCAATAA,conserved hypothetical protein,10,534
+11140,GACTTGTTATTGTATTAGAA,conserved hypothetical protein,167,534
+12110,GTAATTGTTCCAACCTTAAC,conserved hypothetical protein,204,534
+1373,ATCATTCAAATAACTTGCCA,conserved hypothetical protein,253,534
+1374,TGAAGTTAGTTGAACACTGT,conserved hypothetical protein,295,534
+1375,AAGCCTTTATAGGCTTTAAC,putative DNA-binding protein,3,535
+2136,AAGGCTTATAAAAATATTGG,putative DNA-binding protein,10,535
+1448,AACCTGTTAAAGCCTATAA,putative DNA-binding protein,29,535
+1376,GTACTTTTTCACCCTTTGCA,putative DNA-binding protein,158,535
+2137,GGGTGCAAGTCAGTTTGCTA,"putative transposase, fragment",36,536
+1377,GATTTTCTGTCCAACTTTTA,"putative transposase, fragment",56,536
+1716,CATGTTACAAGAAAGGATAA,hypothetical protein,4,537
+2138,TTATTAGCATGTTACAAGAA,hypothetical protein,11,537
+12111,AATATTAGTTTGGGTATTAG,hypothetical protein,139,537
+1378,TTTCCAACTCTGAGTATTAT,hypothetical protein,226,537
+1449,ACCCCTAATCTCTTTTGCTT,hypothetical protein,261,537
+1529,ATTTGGGTCAACGACATTTA,hypothetical protein,304,537
+1622,TATAAAGTTCTCGATTATTT,hypothetical protein,320,537
+1911,TTTTATCAGTATGACGTTTT,hypothetical protein,512,537
+11010,GAAACGACTGTTCTATTAAT,hypothetical protein,552,537
+2139,CCTATAATTAATTAAACTAG,putative transcriptional regulator,18,538
+1379,TTTTTACGATGAATACGAGC,putative transcriptional regulator,72,538
+11141,AATAGTCTCGTAAAGCCATT,putative transcriptional regulator,250,538
+12112,TGCCACTCTTCTTGAGTGCT,putative transcriptional regulator,294,538
+2140,CTTATCATATGGGAAATAGG,hypothetical protein,12,540
+11142,AAACTTATCATATGGGAAAT,hypothetical protein,15,540
+1380,AGAGAGAAAACTTATCATAT,hypothetical protein,22,540
+2141,GACCTGTCGTCAAGAATAAA,phosphoglyceromutase,10,542
+1530,CTCCTTTTATTCTTGACGAC,phosphoglyceromutase,21,542
+11143,CATCAGCCCAGCCAGTAAAA,phosphoglyceromutase,104,542
+12113,GTTGCGTTCCTTCTTCTGAA,phosphoglyceromutase,131,542
+1381,TGCTTCTTTAATGAGTTTGC,phosphoglyceromutase,166,542
+1450,TCAAAACTGATGTGAAAGCA,phosphoglyceromutase,203,542
+1382,AAACGCCATGACTTTTCAAC,phosphoglyceromutase,282,542
+2142,ACAACACTCGAAAAATATTC,hypothetical protein,19,550
+1383,TGTTGTCTTTGATTAAATCC,hypothetical protein,99,550
+1912,CACTTATTTAACTATTCTGA,conserved hypothetical protein,7,552
+2143,TTAAATAAGTGATATGGCAA,conserved hypothetical protein,10,552
+1814,CTGAACAGTTGTAAAAAAAT,conserved hypothetical protein,55,552
+11011,GCGGTATTGAAATGGATGGT,conserved hypothetical protein,83,552
+1384,CAAATAAAGCGGTATTGAAA,conserved hypothetical protein,91,552
+11144,ACAAACATCAGCAAATAAAG,conserved hypothetical protein,102,552
+1385,AACGGCAAACTATTGGAAAT,conserved hypothetical protein,252,552
+1451,ATGATAAAACGGCAAACTAT,conserved hypothetical protein,259,552
+1531,GCAAGACGACAATGATAAAA,conserved hypothetical protein,270,552
+1623,TTTATCCGGTAGCAATAAAA,conserved hypothetical protein,301,552
+1717,TGCTTCAATTTCGTTTTATC,conserved hypothetical protein,315,552
+1386,AGCTTATTGTGAATTTTAAG,hypothetical protein,6,557
+2144,AAAGCAGACTTAGAAAAGGA,hypothetical protein,9,558
+1387,AAATAAAGCAGACTTAGAAA,hypothetical protein,13,558
+1388,AGCTTATTGTGAATTTTAGG,hypothetical protein,6,559
+2145,CACACCATCTCCAGCTTCCA,hypothetical protein,121,559
+1389,GCTCGCTTCGCTTGCAATTA,hypothetical protein,11,561
+11145,TCACTTTTTTTCTCTATCCA,conserved hypothetical protein,123,563
+12114,ATGCGTCTTTAAAAGAAGAG,conserved hypothetical protein,163,563
+1390,TTATGCGTCTTTAAAAGAAG,conserved hypothetical protein,165,563
+1452,AAAAAGCTGCTAGGGAGATA,conserved hypothetical protein,245,563
+1532,TTGACTGCAAAAAGCTGCTA,conserved hypothetical protein,253,563
+1624,ACCAAATCAGATAAAGAAAT,conserved hypothetical protein,278,563
+11146,GAGGTAGCCGTAAAAACAAA,conserved hypothetical protein,159,568
+1391,CGAATAGAAATAGCTAAATT,conserved hypothetical protein,327,568
+2146,TTCTCCACTTAAAACAGTAA,conserved hypothetical protein,100,569
+11147,GTTTTTTCATTTGCCCATAT,conserved hypothetical protein,131,569
+12115,ATCTTCTCATCAGCAAAAAA,conserved hypothetical protein,258,569
+1392,GGAAAGAGGATTTCCTAAAT,conserved hypothetical protein,361,569
+1453,ACTAATTTTGTACTGGAAAG,conserved hypothetical protein,375,569
+1533,AGCAACAAGTAAAACAAACA,conserved hypothetical protein,73,572
+2147,GAGGATGCAAAATCATCAGA,conserved hypothetical protein,206,572
+11148,CAGTTACTACCATCCATCTG,conserved hypothetical protein,225,572
+12116,CCATAAAGAGCATAAAGATA,conserved hypothetical protein,264,572
+1393,GTACTTAAAAATCAGAAAAC,conserved hypothetical protein,319,572
+1454,AATAGCATCTCTATTTTGTA,conserved hypothetical protein,358,572
+1394,TGTTAAGATACTTAACAAAG,putative transcriptional regulator,8,573
+11149,GCACTTCTGCTGTATTGAGA,putative transcriptional regulator,152,573
+12117,ATTTTGAGCAATACTAACAA,putative transcriptional regulator,178,573
+1395,GACAGGCCGACCAAATTGAT,putative transcriptional regulator,204,573
+1455,AGATTCCTCGCACTTTTGAC,putative transcriptional regulator,221,573
+2148,TAAAAGGGTTAATGACAAAA,putative protease maturation protein precursor,13,589
+329,TTGTAGCAATTTTACTGTTT,putative protease maturation protein precursor,128,589
+1396,ATCACTTGAGCTGTTACTTC,putative protease maturation protein precursor,483,589
+12118,AAACAAGTTCACTGTAAGAA,conserved hypothetical protein,13,590
+1397,GTAATGGTAAATTTACCGCC,conserved hypothetical protein,87,590
+2149,GATTCCTAGCTCATCTGTAA,conserved hypothetical protein,103,590
+11150,AGCCCTCTACTTGATAAGTT,conserved hypothetical protein,125,590
+1398,TGTCTTTGGAATTTTAAAGA,conserved hypothetical protein,148,590
+1456,TCCGAAATGATAAATGTCTT,conserved hypothetical protein,162,590
+1534,TCCAAGTTTTCCTTTGGATA,conserved hypothetical protein,206,590
+1625,GGAAGGTCCAAGTTTTCCTT,conserved hypothetical protein,212,590
+1718,GACATAAAACTTAGGAAGGA,conserved hypothetical protein,229,590
+1815,AATTGACATAAAACTTAGGA,conserved hypothetical protein,233,590
+2150,GTAAAACTAACGGCAGATTT,"putative ABC transporter, permease protein",162,594
+11151,TTGGATTTTAGTAAAACTAA,"putative ABC transporter, permease protein",172,594
+1457,GTGGCGTACAATACTAAAAA,"putative ABC transporter, permease protein",247,594
+1535,AACGGCCAATGCCAAGTAGC,"putative ABC transporter, permease protein",310,594
+1626,TTCAGTGACAAAATTATAAA,"putative ABC transporter, permease protein",328,594
+1719,GGACTGGGAAAGAAAATCTC,"putative ABC transporter, permease protein",366,594
+1816,GCCAGAATTTTATTGGGACT,"putative ABC transporter, permease protein",381,594
+1913,AAGACCGCCAGAATTTTATT,"putative ABC transporter, permease protein",387,594
+1399,ATCATCAATTACCAAAATAC,putative response regulator SpaR,55,600
+2151,CAGATAGTTTTGCAGTTGCA,putative response regulator SpaR,109,600
+11152,TTTTGAGCGGTCAACCTGAT,putative response regulator SpaR,151,600
+12119,CATAGTCTGCTAATTTTGAG,putative response regulator SpaR,164,600
+13100,AAACTGAGCCCGTCCACATC,putative response regulator SpaR,213,600
+1458,TTAGCTGTCAGAAAAAGAAT,putative response regulator SpaR,267,600
+1536,AGCAATTCCTGCACACCAAA,putative response regulator SpaR,351,600
+2152,TGATACTGCAAGAGATACAT,conserved hypothetical protein; possiblemembrane protein,120,603
+11153,AATCCCAGACCCCACTTAGC,conserved hypothetical protein; possiblemembrane protein,159,603
+330,AATCAGCGTTATGTTGTTCT,putative glutaredoxin,113,610
+1400,AATCTTTTGAAGCCATAGTA,phosphoenolpyruvate:sugar phosphotransferasesystem HPr,44,615
+331,TTTGAACAAGCAAAGTAGCT,phosphoenolpyruvate:sugar phosphotransferasesystem HPr,101,615
+11154,GTAATCAAGTGTAATATCTG,phosphoenolpyruvate:sugar phosphotransferasesystem HPr,139,615
+1401,CATAACATCACTTCTTTCTT,putative transcriptional regulator (MerRfamily),31,618
+2153,GAATTTGTTCTTGTAATTCG,putative transcriptional regulator (MerRfamily),129,618
+11155,CTCTGTGAAATCACGAACGC,putative transcriptional regulator (MerRfamily),151,618
+12120,TGCCAGCCTTACGAAAACAG,putative transcriptional regulator (MerRfamily),200,618
+2154,ACCAAGTCTATCACGCCCAG,putative gamma-carboxymuconolactonedecarboxylase subunit,67,621
+1402,TCATTGAAATGAGCAAATTC,putative gamma-carboxymuconolactonedecarboxylase subunit,99,621
+2155,GACTGGAGTTCAATTGTGAC,hypothetical protein,15,622
+11156,CCCTTGTTCTAACATCAACT,hypothetical protein,43,622
+1403,GTGATTTTTGTTTGCCCAGT,hypothetical protein,75,622
+332,GTATGCAAAATATACTTGGC,hypothetical protein,114,622
+2156,GCTAGAGCGGAACAAATTAA,hypothetical protein,13,626
+1404,AGAGTATTGGAAAGCTAGAG,hypothetical protein,26,626
+2157,CATTTCATCTAAAATTTGGG,hypothetical protein,8,627
+1405,TGTCATTTCATCTAAAATTT,hypothetical protein,11,627
+13101,GATAAAATAATGTGACATGG,hypothetical protein,8,632
+2158,TGTGATAAAATAATGTGACA,hypothetical protein,11,632
+1406,ATAATCAGCCATGACAGTTC,hypothetical protein,90,632
+11157,TTGTTCATACAAAAGTGACA,hypothetical protein,148,632
+12121,CACAGGCAATACATTTTTCT,putative ferredoxin (4Fe-4S),68,633
+1407,ATAGGTTTGACAAAGCCCAC,putative ferredoxin (4Fe-4S),85,633
+333,ATAATCAAAAACGCCTGAAT,putative ferredoxin (4Fe-4S),103,633
+1537,TCAGTTACTTTTTCTTCCCA,conserved hypothetical protein,63,634
+2159,CTCAATAGGATTGTTAAAAT,conserved hypothetical protein,147,634
+11158,TCAAGAAAAAGAGGCTCAAT,conserved hypothetical protein,161,634
+13102,AGAACTATAGAAACCCGAAG,conserved hypothetical protein,247,634
+12122,GCGCGGTGTGTTTTTTGTTT,50S ribosomal protein L35,54,637
+1408,TAAAACGTTTAGCTGATGCG,50S ribosomal protein L35,71,637
+41,AGCGGTGAGAGGTATATGCA,50S ribosomal protein L35,125,637
+2160,AGAATAGAAAGAATTATCGG,50S ribosomal protein L20,10,638
+1409,AATCACGCTTTCTTTGACGA,50S ribosomal protein L20,197,638
+2161,AGCTCAATTTGCTGATTTGA,conserved hypothetical protein; putativeintegral membrane protein,10,640
+11159,TTAAAACATTGAAGCCCAAA,conserved hypothetical protein; putativeintegral membrane protein,156,640
+1459,GGGGAAATCGATTTTCCAAA,conserved hypothetical protein; putativeintegral membrane protein,201,640
+1627,GCAAGCTATCAGGAAAAAAA,conserved hypothetical protein,88,647
+1460,TGCTATTGCTGCAAGCTATC,conserved hypothetical protein,98,647
+11160,TGATTGACTTGTTTTTTCCC,conserved hypothetical protein,124,647
+1461,AATCCGTTTTAACAATTAAT,conserved hypothetical protein,164,647
+1538,TTTGAAAGCGACTTTTTCAT,conserved hypothetical protein,196,647
+1462,CTAAACATAGAATGAATTGA,conserved hypothetical protein,7,657
+1463,TTCATTCTATGTTTAGATTC,conserved hypothetical protein,15,657
+2162,TCACATCAACCGGATGGGTT,conserved hypothetical protein,107,657
+11161,CTCGGTCACATCAACCGGAT,conserved hypothetical protein,112,657
+12123,TTTTTCTCGGTCACATCAAC,conserved hypothetical protein,117,657
+13103,GTAAGAAAAGCCATTTTTCT,conserved hypothetical protein,130,657
+2163,TTGAGAAAGAGTTCAGCAGC,hypothetical protein,21,658
+1464,AAAACAATAGCTAAGAGTCA,hypothetical protein,64,658
+334,CCCAGAAATTGGATTATAAA,hypothetical protein,112,658
+1465,AAAGCAGCAAGTGTATTTTC,putative glycerophosphoryl diesterphosphodiesterase,93,660
+2164,CAAGTTGATTGTCTTTTGTT,putative glycerophosphoryl diesterphosphodiesterase,164,660
+11162,GACCAATCCAGAGCCATTGC,putative glycerophosphoryl diesterphosphodiesterase,217,660
+12124,ATTTTCTCACAAAAATAAGC,putative glycerophosphoryl diesterphosphodiesterase,294,660
+13104,TTTAAAACTTCTTCTAAGGT,putative glycerophosphoryl diesterphosphodiesterase,318,660
+1539,TTTAGGATAAGGATATCTAT,putative glycerophosphoryl diesterphosphodiesterase,391,660
+2165,ATACAAAACATACTATAAGG,conserved hypothetical protein,10,664
+13105,TTTGGTGTTTTCACGATGAT,conserved hypothetical protein,42,664
+1466,GTCCAAGCATATTTACCTTT,conserved hypothetical protein,60,664
+11163,AATACTTCCCGTGCCTGTTT,conserved hypothetical protein,117,664
+1467,GTAGTTTTTAGTTCAAAAGC,"putative ABC transporter, ATP-binding protein",93,665
+2166,ATACGAACACTGCCCGCTTC,"putative ABC transporter, ATP-binding protein",213,665
+2167,TTGGCTGGTCTTGCCTTTTG,hypothetical protein,8,670
+1468,TTTTGGCTGGTCTTGCCTTT,hypothetical protein,10,670
+2168,AAGCATTGCAGAACACTGCT,hypothetical protein,4,679
+335,AAGCAGTGTTCTGCAATGCT,hypothetical protein,23,679
+1469,ATTAGAAAGCATGTTTTTCT,hypothetical protein,40,680
+1470,GAAAGTTAATCTTTCTTTGG,conserved hypothetical protein,7,682
+2169,GGGGAAAGTTAATCTTTCTT,conserved hypothetical protein,10,682
+13106,AAAAATTGATATAGAACGG,conserved hypothetical protein,29,682
+11164,AATTCCAAGAAGCAGTATGT,conserved hypothetical protein,107,682
+12125,TCACCCTTTTTGCAGAATTT,conserved hypothetical protein,189,682
+2170,GCTGCTAAAATTCTAGCTAA,conserved hypothetical protein,141,683
+11165,TGTAATCCGTAAAAGTTTGA,hypothetical protein,152,687
+12126,CGTATTGATGATATTCTTTA,hypothetical protein,182,687
+13107,TTTGTATTCATTCACCTTAT,hypothetical protein,208,687
+1471,ATAATCTTTAAAGGAATGAA,hypothetical protein,238,687
+2171,TATTAAGGAATATTTAGAGG,conserved hypothetical protein,6,688
+42,TCTTGAAATTCTTGATACTT,conserved hypothetical protein,117,688
+2172,ATATCAGGAGATTTTTTACT,conserved hypothetical protein,102,695
+2173,TTACGAATAGATAAATAGGA,conserved hypothetical protein,7,696
+1472,AGTCCAACCCTTATCGTTTT,conserved hypothetical protein,97,696
+1473,CAATAAAAATAGCAGCTGAT,hypothetical protein,74,698
+12127,ATCTTGATTAAAAAGACGGT,conserved hypothetical protein,337,703
+13108,TCATAGGCACCTAAAAAATT,conserved hypothetical protein,480,703
+1474,TTTGAATCGAATCTTCTCAT,conserved hypothetical protein,496,703
+1475,TCCAAAATAAGAAATTGTTC,conserved hypothetical protein,561,703
+2174,TGGACAAGGGCTTGATATTC,conserved hypothetical protein,108,709
+11166,CTTAGCTTTTGCTTGGACAA,conserved hypothetical protein,121,709
+12128,CGTCAATCTTAGCTTTTGCT,conserved hypothetical protein,128,709
+1476,ATTGCTAAAAAGAAGGAGGA,conserved hypothetical protein,6,716
+2175,TATCATTGCTAAAAAGAAGG,conserved hypothetical protein,10,716
+11167,CCATATCATTGCTAAAAAGA,conserved hypothetical protein,13,716
+12129,CCTTCTTTTTAGCAATGATA,conserved hypothetical protein,16,716
+13109,CAAGCGGATCATGTTAGCTA,hypothetical protein,2,717
+12130,TAAAGGCGATAGCAAACAAG,hypothetical protein,18,717
+1540,AAGCATTAAAAACGAAGCGG,hypothetical protein,7,719
+2176,AAAAAGCATTAAAAACGAAG,hypothetical protein,10,719
+1477,AAGCCAGATTCGAAATTTTG,hypothetical protein,87,719
+11168,CTTTTGAATTAGGGTTTAAG,hypothetical protein,134,719
+12131,CCTCAACTTCTTTTGAATTA,hypothetical protein,143,719
+13110,GACAAGGTGACAAAACCTTC,hypothetical protein,192,719
+1478,ACTGACACTGGTCCAAGACA,hypothetical protein,208,719
+1479,GAACACTTGTTATTTATGAA,conserved hypothetical protein; probableesterase,9,720
+2177,ACGAATATAATTAGAATGAT,conserved hypothetical protein; probableesterase,106,720
+11169,TTCTGCCAAGAAATGAACAC,conserved hypothetical protein; probableesterase,142,720
+12132,GCTTCCTCTAATTTATCGTA,conserved hypothetical protein; probableesterase,174,720
+13111,ATACAATGAACTGCAGTTAC,conserved hypothetical protein; probableesterase,210,720
+2178,TTTAATAATTTGTAAGATGG,conserved hypothetical protein,7,722
+2179,ACCAACGACGCTTACGTCTA,hypothetical protein,2,723
+11170,ACCTTAGACGTAAGCGTCGT,hypothetical protein,28,723
+12133,ACGGATAATAGCAAAAT,hypothetical protein,31,723
+13112,AATTGAATACGAGCTACGGA,hypothetical protein,69,723
+1480,TTCTAATTGAATACGAGCTA,hypothetical protein,73,723
+2180,TTTCTCTACAAAATAAAAGG,conserved hypothetical protein,6,724
+11171,CATAGCTGAGTGTTGGGGAG,conserved hypothetical protein,79,724
+12134,CAATTCATAGCTGAGTGTTG,conserved hypothetical protein,84,724
+1481,CCCAATTCATAGCTGAGTGT,conserved hypothetical protein,86,724
+336,TCTATAAAAGCAATCATACT,conserved hypothetical protein,138,724
+2181,ATATACAGATGGAGCTAGAA,hypothetical protein,5,725
+2182,AGTGTGTCAGTTACTAAAAT,conserved hypothetical protein,10,727
+11172,TTTTTCAGCATTCCAAACAT,conserved hypothetical protein,106,727
+1482,AAGGTCAAGATAGCCATTAA,hypothetical protein,45,735
+1483,GATTTGGGTTAATAGAAAAG,"putative amino acid transporter, aminoacid-binding protein",6,740
+2183,AGATCACTTAAAATAGATTT,"putative amino acid transporter, aminoacid-binding protein",21,740
+337,AACTCAAAAGGAGCATAGTC,"putative amino acid transporter, aminoacid-binding protein",186,740
+11173,CAAGACATTATCAAAACTCA,"putative amino acid transporter, aminoacid-binding protein",307,740
+12135,TGCTTTTCCTGTTTTTAAAC,"putative amino acid transporter, aminoacid-binding protein",331,740
+13113,ATAGGCTTGAGCACGTTCCT,"putative amino acid transporter, aminoacid-binding protein",382,740
+2184,AATGTTACAATGAAATTGAG,30S ribosomal protein S21,11,741
+2185,ATTTCTTTTTTGAGCGATCA,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),12,745
+11174,GATCGCTCAAAAAAGAAATA,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),13,745
+12136,GCTCTGCTTCAAGTTCAAAA,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),170,745
+13114,TCAACAGCATATTTGGTAGA,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),258,745
+1484,AATTTCTTCAACAGCATATT,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),265,745
+1541,TCTTCATCGGTTAATTCTTC,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),291,745
+1628,ACTGCCTAATAATTCTTCAT,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),304,745
+1720,GCGAACAGGATCATTAACCT,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),334,745
+1817,TCTTTTAAATACATGCGAAC,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),348,745
+1914,TCTTCTTCATTAGTCAAAAG,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),384,745
+11012,TCCTACGTATCGTTTTGCAA,DNA-dependent RNA polymerase sigma subunit;major sigma factor (sigma 70/42),490,745
+12137,CCAAGTTTGATAGCGATAAA,hypothetical protein,241,755
+13115,CAAAGCATATAAGAAGAGAA,hypothetical protein,349,755
+1485,ACATATAGATAACCCTTTTC,hypothetical protein,387,755
+1629,GCACTTGTAAAAAGCACTCC,hypothetical protein,447,755
+1721,AATAAGTAATTCGTTACTGT,hypothetical protein,480,755
+1486,CAATTACTAGTGCAAACATA,hypothetical protein,503,755
+1630,CCAATTATTAATTTTCAAGG,putative glycosyltransferase,5,756
+2186,CCCCCTTGAAAATTAATAAT,putative glycosyltransferase,24,756
+1818,GTTTCTTCCTCATTATAACA,putative glycosyltransferase,75,756
+11175,AGCTTCTTTTCCAAAATTTC,putative glycosyltransferase,259,756
+12138,ATTTTGATTAACAATTCTGG,putative glycosyltransferase,351,756
+1487,GAATAAAAGGCTCCCCCTTC,putative glycosyltransferase,425,756
+1542,GCAAATAAAGAGCGAATAAA,putative glycosyltransferase,438,756
+1488,GTCCCCTTTGTTTTTTTAGT,hypothetical protein,81,763
+2187,CCTGTTTTGATATGTTCAGT,hypothetical protein,117,763
+1489,CTCAAACAAAAACTTATAGG,50S ribosomal protein L21,7,770
+2188,TTCCTCAAACAAAAACTTAT,50S ribosomal protein L21,10,770
+11176,CTCCTATAAGTTTTTGTTTG,50S ribosomal protein L21,21,770
+2189,TTGATAACAACTTTGGTATA,conserved hypothetical protein,1,771
+1490,GATAGCTTTGATAACAACTT,conserved hypothetical protein,8,771
+11177,CGCTTTCCAGTATGCCCTTA,conserved hypothetical protein,74,771
+2190,GCCTGACAATTTTCACAGTA,conserved hypothetical protein,117,774
+11178,GATACTGCAAGATCATGCTG,conserved hypothetical protein,150,774
+1491,CTAAGATATACTGTCTCATA,conserved hypothetical protein,224,774
+1492,TTTTGAAACTTATAAGCCTT,putative lipoprotein signal peptidase,8,776
+13116,TTTTCGCATAAGATCTCCTA,putative lipoprotein signal peptidase,37,776
+1493,AAACTTGCTTAGTTGATCTA,putative lipoprotein signal peptidase,94,776
+2191,TAAGTTAGGCTAACAAGATT,putative lipoprotein signal peptidase,162,776
+11179,CTGTATTTCGCAAATAAGTT,putative lipoprotein signal peptidase,176,776
+12139,CTGATTTTCTAAAATAGAGA,putative lipoprotein signal peptidase,205,776
+1631,TAATAATGCGCAAAAACATG,conserved hypothetical protein,47,778
+1722,CAGTTAAAAGAATGGTTGCC,conserved hypothetical protein,83,778
+1494,AAGGTAGACAGTTAAAAGAA,conserved hypothetical protein,91,778
+2192,TTAAATAGCCTCTTTGATAA,conserved hypothetical protein,110,778
+11180,CCAATTGCCATAACGGTGCA,conserved hypothetical protein,157,778
+12140,GAGGACTCCAATTGCCATAA,conserved hypothetical protein,164,778
+13117,GAAACACCACCTGGTAAAAT,conserved hypothetical protein,225,778
+1495,GCCAAAGTTGAAACACCACC,conserved hypothetical protein,234,778
+1543,TTCCAGATAAAGCCCCAAAA,conserved hypothetical protein,276,778
+13118,AGAAAAAATCTCCTCATACA,putative pyrimidine operon regulatory protein,4,779
+2193,TTGGTATCAAGTTCTCCAAG,putative pyrimidine operon regulatory protein,234,779
+11181,GACATCATCTCGGAAAGATT,putative pyrimidine operon regulatory protein,253,779
+12141,CTTCGACCTTGACATCATCT,putative pyrimidine operon regulatory protein,263,779
+2194,TAGAACCCATACGAGTCAAA,30S ribosomal protein S16,65,787
+1496,GCAACGTTGATACGATAGAA,30S ribosomal protein S16,96,787
+338,TCGATGAAGCGACCATCACG,30S ribosomal protein S16,132,787
+12142,TCTTTGAGTATTTAGCTTCG,conserved hypothetical protein,13,788
+1497,AGATTTTCAATGGTATCCAT,conserved hypothetical protein,48,788
+1544,AGCGATAATCAGATTTTCAA,conserved hypothetical protein,58,788
+1498,TTATCTGGTTGTGAAATTAA,conserved hypothetical protein,90,788
+11182,AGGTGTATCTTCAATTTTTA,conserved hypothetical protein,118,788
+13119,AGATGATACTCCAAAAACTC,conserved hypothetical protein,138,788
+2195,GCTGGCAATCTCAACAGTCA,putative 16S rRNA processing protein,193,789
+11183,ATTTTTATGTTTTCTGTGGC,putative 16S rRNA processing protein,211,789
+1499,TTAAAGCACAAATCTTTCAT,conserved hypothetical protein,48,811
+2196,CATTTACTTCTTGTTTTGAT,conserved hypothetical protein,129,811
+11184,ATAAATAAAGGGCATTATTC,conserved hypothetical protein,187,811
+13120,CATTCTTTCGAGTCCAAAAA,conserved hypothetical protein,227,811
+14100,GTTCCCGGAATGAAAACAAA,conserved hypothetical protein,264,811
+1545,AGTAATATAAAGGATGTTCC,conserved hypothetical protein,279,811
+2197,CTTTTGATAGTTTTGATGAT,conserved hypothetical protein,20,816
+11185,GTTTGCTTAATCTTTAGCAT,conserved hypothetical protein,48,816
+12143,TAAGGATTTCTTAAATTGTC,conserved hypothetical protein,70,816
+339,CTAAGGGAAGTTCTGATTTT,conserved hypothetical protein,155,816
+1500,ATGAGTGGTAATGTAAAACA,conserved hypothetical protein,9,818
+13121,TTCTGGCATCATAATGATAT,conserved hypothetical protein,83,818
+2198,CTTTTCCCATTCTAAATTTC,conserved hypothetical protein,100,818
+11186,GTCACTTCAACATCTGTTTC,conserved hypothetical protein,135,818
+12144,GACAATCATGAATTGCAAAA,conserved hypothetical protein,208,818
+11187,ATTGAAGCAGTGACAACAAG,hypothetical protein,117,827
+12145,ACTTTGTAAAAGATTCCAGA,hypothetical protein,223,827
+1501,AAAAGATGGAAGACGTTAGA,hypothetical protein,272,827
+2199,GAAAAATATCTTAGTCAGAA,putative 6-pyruvoyl tetrahydropterin synthase,10,832
+11188,TTAGATACAAGAACGCGTTT,putative 6-pyruvoyl tetrahydropterin synthase,108,832
+12146,GAGATGGTGGGCAGCATTAA,putative 6-pyruvoyl tetrahydropterin synthase,139,832
+13122,TTCATAATTGAAGAGATGGT,putative 6-pyruvoyl tetrahydropterin synthase,151,832
+14101,TCCCTTCATAATTGAAGAGA,putative 6-pyruvoyl tetrahydropterin synthase,155,832
+1502,ATGATAAGTATGTCCATGTA,putative 6-pyruvoyl tetrahydropterin synthase,187,832
+1503,ATCTTTCTGTTGCTGTAATG,putative transcriptional regulator,80,834
+2200,ATGTTCAACACCATGGCTTT,putative transcriptional regulator,118,834
+11189,CGGACAGATGTTCAACACCA,putative transcriptional regulator,125,834
+12147,AACTGTCCATCCCTGAGGTC,putative transcriptional regulator,145,834
+13123,AACATAACTGTCCATCCCTG,putative transcriptional regulator,150,834
+12148,TGGCTGTACAATACAGCATT,hypothetical protein,47,838
+2201,CAGTTTCCGACTTTTCTTTC,hypothetical protein,109,838
+11190,AAGCAAACCTGAACAAGCAG,hypothetical protein,213,838
+2202,ACTAAAGCATTACCATTAGG,conserved hypothetical protein,6,842
+1504,AATACTAAAGCATTACCATT,conserved hypothetical protein,9,842
+340,TTGACATGATTGCCTCCTAA,conserved hypothetical protein,35,842
+43,AGATGTCTTTGTAGACTGTG,conserved hypothetical protein,127,842
+2203,AAATGATACCAAAAACCAAC,hypothetical protein,114,844
+12149,CTCATCAATTTGATAAAATC,hypothetical protein,231,844
+14102,GCACTTGTTGATCAAACCAA,hypothetical protein,347,844
+1546,TGCCATTTAAGATAAGTGAC,hypothetical protein,435,844
+1505,AGCATCTTCTTGTAAAAATC,hypothetical protein,496,844
+11191,TTATCATTCACATAATCATA,"putative amino acid ABC transporter, periplasmicamino acid-binding protein",192,845
+1506,AATAGTCAAGCCGATGACAC,"putative amino acid ABC transporter, periplasmicamino acid-binding protein",418,845
+1632,TAACTATGTCACAAAATAGG,"putative amino acid ABC transporter, permeaseprotein",6,846
+1819,CTTTAACTATGTCACAAAAT,"putative amino acid ABC transporter, permeaseprotein",9,846
+1507,GGAAGAGCATTTAAAATAGT,"putative amino acid ABC transporter, permeaseprotein",90,846
+2204,AAAATGACCCACAACGTTAA,"putative amino acid ABC transporter, permeaseprotein",111,846
+11192,CAACAAAGAACCTAAAAGAA,"putative amino acid ABC transporter, permeaseprotein",139,846
+12150,AAAAACATATCCTTTAGCAA,"putative amino acid ABC transporter, permeaseprotein",211,846
+13124,AGAAAGAGCAAAACAATTGG,"putative amino acid ABC transporter, permeaseprotein",249,846
+14103,ACAAGAAAGAGCAAAACAAT,"putative amino acid ABC transporter, permeaseprotein",252,846
+1547,AGCCACCAAGTCAAAAATTC,"putative amino acid ABC transporter, permeaseprotein",288,846
+1820,TAATAAAGGAAATACTTAGG,"putative amino acid ABC transporter, permeaseprotein",5,847
+1508,GGTCACAGGAACACCCTTTA,"putative amino acid ABC transporter, permeaseprotein",88,847
+2205,ATCATGATGACTAAGGTCAC,"putative amino acid ABC transporter, permeaseprotein",102,847
+11193,AGAGACTATCATGATGACTA,"putative amino acid ABC transporter, permeaseprotein",109,847
+12151,CCCAAAGCCAAAAACAAAGC,"putative amino acid ABC transporter, permeaseprotein",150,847
+13125,AAGAGAATCAAAAGAATAGG,"putative amino acid ABC transporter, permeaseprotein",240,847
+1548,AAAATGGTATTTAAAACACT,"putative amino acid ABC transporter, permeaseprotein",279,847
+1633,TAATCCGCTTGATTTTAAAA,"putative amino acid ABC transporter, permeaseprotein",295,847
+1509,TTAGAAAAGCGTTTTGCTTA,"putative amino acid ABC transporter, ATP-bindingprotein",8,848
+2206,GTTGTTTTTCCTGAACCGCT,"putative amino acid ABC transporter, ATP-bindingprotein",153,848
+11194,AAAGGCCGTCTTTTGCCGAA,"putative amino acid ABC transporter, ATP-bindingprotein",280,848
+13126,TTCTAAAATATTCTCCAAAG,"putative amino acid ABC transporter, ATP-bindingprotein",337,848
+14104,ATTTGAATCGCTTGTTCTTT,"putative amino acid ABC transporter, ATP-bindingprotein",384,848
+12152,AAAGGTATAGCCACTGCGAC,putative permease,170,857
+13127,TTGGAAAACTAAGAGCTAAA,putative permease,188,857
+1549,TTGCATGACAGTGAAAAATA,putative permease,397,857
+2207,AGAAAAAGGAATGAGGAGAT,conserved hypothetical protein,9,859
+1550,TGTTACTGTACTTGAGAAAA,conserved hypothetical protein,23,859
+2208,TTGAACACTGACTAAAATCA,conserved hypothetical protein,100,866
+11195,TTGCCCAAATGAACAAACTG,conserved hypothetical protein,144,866
+12153,AAGAACAGCGATAACCACTA,conserved hypothetical protein,169,866
+2209,TCAGCCAAAAATAAAAACGG,50S ribosomal protein L10,11,868
+1551,TTAACCTCCGTTTTTATTTT,50S ribosomal protein L10,22,868
+1552,TTTGAAAATGCAACAGCTGA,hypothetical protein,68,869
+11196,TTACAAGATCGTTAAGCTCA,50S ribosomal protein L7/L12,101,871
+1553,GCTGCACCAGCCGCAGCTAC,50S ribosomal protein L7/L12,162,871
+2210,GACCTTTACAATGTCTTTGT,putative dihydroneopterin aldolase,3,880
+1554,TCAGCAGCCAGTTAGCATGA,putative dihydroneopterin aldolase,5,880
+341,TGCCAACAAAGACATTGTAA,putative dihydroneopterin aldolase,28,880
+11197,CATAACACCCTCATGCTAAC,putative dihydroneopterin aldolase,31,880
+44,AACCGTAAAAATCTGCCCCA,putative dihydroneopterin aldolase,118,880
+2211,AATTTCACGGTTTGATCGTT,hypothetical protein,186,892
+1555,GCCATCAAAGCCAAATTTCA,hypothetical protein,199,892
+2212,AAGATTACTAATGGTTTGTT,hypothetical protein,169,894
+12154,ACGAATGGCAAGATATTGTG,hypothetical protein,226,894
+1556,ATGATCAATGACAGAACGAA,hypothetical protein,241,894
+2213,ATAGCTTGATATATCTTATC,putative ribonucleotide reductase,123,899
+11198,TTGTGCCAAATCTTGACGCA,putative ribonucleotide reductase,184,899
+1634,AGCTTACTTAATCAAAGATT,"putative ABC transporter, periplasmicferrichrome-binding protein",3,906
+1557,GCTGCAAATAAGTTTTTAAA,"putative ABC transporter, periplasmicferrichrome-binding protein",63,906
+2214,TACAGTTTTATCCGCCGCAA,"putative ABC transporter, periplasmicferrichrome-binding protein",127,906
+11199,ACCGTCTCATTGACCATTTT,"putative ABC transporter, periplasmicferrichrome-binding protein",198,906
+12155,CGTAAACGACAACCTTTTGA,"putative ABC transporter, periplasmicferrichrome-binding protein",236,906
+13128,TAAGGCGGTGATAGTATCCA,"putative ABC transporter, periplasmicferrichrome-binding protein",268,906
+14105,ATTTTTTTCTTTGCCTAAGG,"putative ABC transporter, periplasmicferrichrome-binding protein",283,906
+1558,AACATTTTTTTCTTTGCCTA,"putative ABC transporter, periplasmicferrichrome-binding protein",286,906
+1723,TAAGGCCATGTTGAGATTTT,"putative ABC transporter, periplasmicferrichrome-binding protein",317,906
+1915,TTTGCAATTGTTTCAAAGTC,"putative ABC transporter, periplasmicferrichrome-binding protein",411,906
+11013,TTCGATGTTTTTAGATGTCG,"putative ABC transporter, periplasmicferrichrome-binding protein",469,906
+1559,CATGCTATAATGGAGCAAAA,hypothetical protein,11,907
+1821,AATGGGATGAGAAGTTGACA,putative citrate lyase ligase,49,918
+11200,TATAATCTAAGTTAGTATCA,putative citrate lyase ligase,143,918
+12156,ATTTAAGTCATCATCAAACA,putative citrate lyase ligase,172,918
+13129,TTAAAGAATTTTGCAGTATC,putative citrate lyase ligase,348,918
+14106,AACAATTTGCTTATCGGCTC,putative citrate lyase ligase,394,918
+1560,CATAAAAACAATTTGCTTAT,putative citrate lyase ligase,400,918
+1635,GTAGTTTGGCACTCGCTATC,putative citrate lyase ligase,471,918
+1724,TAACGAGAGCAGCAGTAGTT,putative citrate lyase ligase,485,918
+1916,ATGGCCTAAAGTAAAAGGAT,putative citrate lyase ligase,514,918
+11014,TACTGATGGCCTAAAGTAAA,putative citrate lyase ligase,519,918
+111100,CTTTTTCAACCAAATACTGA,putative citrate lyase ligase,533,918
+1561,TAGACTTAGAAAATTTGATT,hypothetical protein,4,922
+11201,GCAGGAATAAAAGCCGAAAT,hypothetical protein,207,922
+11202,GGAGTGATGGGGGTAGCTGC,"putative acetyl-CoA carboxylase, biotin carboxylcarrier subunit",129,923
+12157,TTCTGTTGTAGGAGTGATGG,"putative acetyl-CoA carboxylase, biotin carboxylcarrier subunit",139,923
+13130,TTTTCTGTTGTAGGAGTGAT,"putative acetyl-CoA carboxylase, biotin carboxylcarrier subunit",141,923
+14107,GCCCTCGTGTTTTCTGTTGT,"putative acetyl-CoA carboxylase, biotin carboxylcarrier subunit",150,923
+1562,TGCAGCTGGTGATGGTGTCT,"putative acetyl-CoA carboxylase, biotin carboxylcarrier subunit",196,923
+1563,GCAGCAGAGGCTGTTGCAGC,"putative acetyl-CoA carboxylase, biotin carboxylcarrier subunit",210,923
+2215,AGATACAACAGAAAAAAAGA,hypothetical protein,12,925
+11203,CCATTAATTCAAAGGCTTGA,hypothetical protein,68,925
+1564,ACCCAAGCCCATTAATTCAA,hypothetical protein,76,925
+1565,AGGAGAAGAAGTTACGCTTG,"conserved hypothetical protein, CitG-likeprotein",3,929
+2216,GTTCATGCTAGCACACAGCA,"conserved hypothetical protein, CitG-likeprotein",118,929
+11204,CTGAGCATTTAATTGGGCCA,"conserved hypothetical protein, CitG-likeprotein",143,929
+12158,AACTTTCTGAGCATTTAATT,"conserved hypothetical protein, CitG-likeprotein",149,929
+1566,TGTATACATATTATATGTGG,putative transcriptional regulator,7,932
+11205,TTTCAAGACTGCCCATTGCG,putative transcriptional regulator,151,932
+2217,ACTGATTGGTCAATTTTGGA,putative transcription regulator,8,934
+11206,ACTGACTGATTGGTCAATTT,putative transcription regulator,12,934
+1567,AATTGAATAAACTGACTGAT,putative transcription regulator,22,934
+1568,AGCGTGTAGCGTTCCCAGAT,putative transposon excisionase; Tn916ORF1-like,69,938
+342,GTAACTTATTTTCACCGATA,putative transposon excisionase; Tn916ORF1-like,119,938
+1569,TTCTGAAATCCAAAAACCTT,hypothetical protein,94,942
+11207,TTTTTACTTTTTGTGGAAGC,hypothetical protein,179,942
+12159,CAAGTAGTTTTTACTTTTTG,hypothetical protein,186,942
+13131,AGCTTTCGCAAAGAAATAAC,hypothetical protein,352,942
+1570,TAGATGAGTTGAATCTTATT,putative response regulator,9,944
+1571,AAAAGTCTCGTAAAATTTTC,putative response regulator,89,944
+2218,CCTCGGTTCCTGAGTATGCT,putative response regulator,134,944
+11208,TTCAAATAACCGCAAGCCCT,putative response regulator,151,944
+12160,GCATAATGTCTAAAAGAACT,putative response regulator,188,944
+13132,ACTTGTTCACCGCTTTTTCC,putative response regulator,213,944
+14108,TAAACTTCTTCGAGATTAAA,putative response regulator,351,944
+1572,GTATAATAATCTTACAAAGG,"putative ABC transporter, ATP-binding protein",8,947
+343,CGTTTTCTATAGTCAAATTA,"putative ABC transporter, ATP-binding protein",107,947
+11209,TCGTTTTCCCAGCACCGTTA,"putative ABC transporter, ATP-binding protein",152,947
+12161,AGGAAAATATCGGGAGAATC,"putative ABC transporter, ATP-binding protein",288,947
+13133,GTTAGATTTAGGAAAATATC,"putative ABC transporter, ATP-binding protein",297,947
+14109,ATTCATAAGCTGTTAGATTT,"putative ABC transporter, ATP-binding protein",308,947
+1573,TAATTTAGTCATTCGCTCTT,"putative ABC transporter, ATP-binding protein",376,947
+2219,TAATAGTTGGTTTGTACAAT,conserved hypothetical protein,135,954
+12162,GATGCGCAGAGACATTTTAT,conserved hypothetical protein,187,954
+2220,TTTATGACTGTTGAGGTGAG,putative iron-sulfur cofactor synthesis protein;NifS family,24,956
+11210,CATAGCGTTTATGACTGTTG,putative iron-sulfur cofactor synthesis protein;NifS family,31,956
+1574,CCATAAGTATGAATACTAGA,putative iron-sulfur cofactor synthesis protein;NifS family,84,956
+344,TGCTAGAGCATAACCTTTAA,putative iron-sulfur cofactor synthesis protein;NifS family,220,956
+12163,TTTTACCTTTGATAGGATTA,putative iron-sulfur cofactor synthesis protein;NifS family,347,956
+14110,ACATTGCCGATTTCTTGAAT,putative iron-sulfur cofactor synthesis protein;NifS family,459,956
+1575,TTTAGTTCTTTAGGGTGAAT,putative iron-sulfur cofactor synthesis protein;NifS family,540,956
+1636,AATCAATGTTTAGTTCTTTA,putative iron-sulfur cofactor synthesis protein;NifS family,548,956
+13134,GTATAACTGTACTTACAATC,conserved hypothetical protein,78,957
+2221,CATAAAAGTCGTATCTTGTA,conserved hypothetical protein,127,957
+11211,TATTAGGAACCTTTTCTAAT,conserved hypothetical protein,182,957
+12164,GGGAAACCCTCCCCACTATT,conserved hypothetical protein,198,957
+1576,ATATCGGGAAATTTAGCATG,putative glutamine amidotransferase,90,959
+2222,GTATAAGACCAAGTGATATC,putative glutamine amidotransferase,105,959
+11212,ACCCCCTTGACATAACCAGA,putative glutamine amidotransferase,129,959
+12165,TCACTGATAGGGATAACTAG,putative glutamine amidotransferase,171,959
+13135,CAAAACTGGGATCACTGATA,putative glutamine amidotransferase,182,959
+14111,ACATAATATTCGGCAAAACT,putative glutamine amidotransferase,195,959
+1637,AGGGTCAACATTTTGACCGC,putative glutamine amidotransferase,244,959
+1725,TGTCTTCACCATAAAAAACA,putative glutamine amidotransferase,263,959
+1822,CCGCGGCAAACAGAAAAAAT,putative glutamine amidotransferase,369,959
+12166,TAAGTCATGAGACGTTCTCT,putative DNA repair protein RadC,36,960
+1577,TCTTGATTACTCAAACTTTC,putative DNA repair protein RadC,63,960
+2223,TAAGGATAAGCTGCGAAAAT,putative DNA repair protein RadC,175,960
+11213,TTCAGCTTGATTGATTCTTT,putative DNA repair protein RadC,268,960
+11214,TCTTGATTACTCAAACTTTC,hypothetical protein,11,961
+1578,AGAGAACGTCTCATGACTTA,hypothetical protein,42,961
+11215,TTCTATCAATACGAAAATGC,"hypothetical protein, SatC",203,964
+12167,TAAAAAGTCCTAAAATTAAC,"hypothetical protein, SatC",255,964
+13136,AGCCTTAAAATCACCTTGTA,putative DNA-binding protein,6,966
+2224,GTGATTTTAAGGCTTAAATA,putative DNA-binding protein,14,966
+11216,TTCCTTACAAGGTGATTTTA,putative DNA-binding protein,25,966
+12168,TTGGTTTTTTCGATCTCCAT,putative DNA-binding protein,48,966
+1579,AAAAAGCGCATTCATTCGAT,putative DNA-binding protein,67,966
+13137,CAAAACGCTCACCGACATAT,putative transcriptional regulator (GntRfamily),2,969
+1580,ATAGCCACCTTTTGATAACG,putative transcriptional regulator (GntRfamily),81,969
+2225,GATTTTATTTTTTGTCCTAA,putative transcriptional regulator (GntRfamily),138,969
+11217,AGGCGAGACATTAAAATAGC,putative transcriptional regulator (GntRfamily),175,969
+12169,ATGGCTTTTCTGGCTGTTTC,putative transcriptional regulator (GntRfamily),195,969
+13138,AAAAATAATGATTCCAGTGA,"putative ABC transporter, permease protein",5,972
+1581,ACTGAGAGACCAGATAAGTA,"putative ABC transporter, permease protein",91,972
+11218,AGAGGTCCTGCTAAGTGGCA,"putative ABC transporter, permease protein",376,972
+12170,ACAATAGAGGTCCTGCTAAG,"putative ABC transporter, permease protein",381,972
+1582,CGAACGATTTTACAGGAAAG,hypothetical protein,6,974
+13139,CAGAATTCGAACGATTTTAC,hypothetical protein,13,974
+2226,AAGGCACAAGGTATAAATGC,hypothetical protein,106,974
+11219,ATCAAAGATCAAAAGGCACA,hypothetical protein,118,974
+12171,AACCAGCATCAAAGATCAAA,hypothetical protein,125,974
+14112,GAATACTAATGTGATACTGA,hypothetical protein,161,974
+1583,TTGAACATAAGTCACAATAT,hypothetical protein,211,974
+1584,ATTTCTTAAGCAACTTAGAA,conserved hypothetical protein,5,975
+2227,CTTTTCCAATTTTAACTTCA,conserved hypothetical protein,124,975
+11220,TGGAATTCATCTTTTTATAA,conserved hypothetical protein,176,975
+12172,ATTGACAATTTCTTCAATGG,conserved hypothetical protein,196,975
+13140,TAGTTTTTCTTTTTGGCGAG,conserved hypothetical protein,223,975
+14113,AGTATTTCCTTTCTCACCTT,conserved hypothetical protein,250,975
+1823,AAAGGCTCAGAAAGATAATA,conserved hypothetical protein,68,976
+1585,GTCCTAGGCAGATAATAAAA,conserved hypothetical protein,86,976
+2228,AATAAAACAGTCCTAGTCCT,conserved hypothetical protein,101,976
+11221,TAACCATGAAAGAAAATGGT,conserved hypothetical protein,177,976
+12173,GCCATAACCATGAAAGAAAA,conserved hypothetical protein,181,976
+13141,ACCAGCTTTTTTAGCTGCAT,conserved hypothetical protein,232,976
+14114,TTTAGGAATCTTTCCTACCA,conserved hypothetical protein,304,976
+1586,ATAGGGTTAATCGCATTTTT,conserved hypothetical protein,321,976
+1638,CAAAATTCACTTTAACAATA,conserved hypothetical protein,338,976
+12174,CCTTAAACTAATGAAAAAGC,putative acetyltransferase,11,977
+2229,AGCTGTCTTTTCAACATAGG,putative acetyltransferase,106,977
+11222,AATAGCTGTCTTTTCAACAT,putative acetyltransferase,109,977
+13142,GCTAGGAACTTGGTATTCAA,putative acetyltransferase,133,977
+14115,ATTCTTCTAGGCTAGGAACT,putative acetyltransferase,143,977
+1587,TCTTCAAATTCTTCTAGGCT,putative acetyltransferase,150,977
+1639,TCTTCTTCTGCAACCAGATA,putative acetyltransferase,201,977
+2230,TGGTTTAATGGCAGAAGCTG,putative flavoprotein involved in panthothenatemetabolism,190,979
+11223,GAAAGATTAGCGTGTTTTTT,putative flavoprotein involved in panthothenatemetabolism,210,979
+12175,GCGGCTCTAAAGTCTCAATA,putative flavoprotein involved in panthothenatemetabolism,260,979
+13143,ACATGATGAGATTTAACCAG,putative flavoprotein involved in panthothenatemetabolism,279,979
+14116,CATGTAAAGTGGTGTATAAT,putative flavoprotein involved in panthothenatemetabolism,325,979
+1588,GCCAAATCAGTCATGTAAAG,putative flavoprotein involved in panthothenatemetabolism,336,979
+1589,TAGGTCGGCAGCCTTATAAG,putative DNA/pantothenate metabolismflavoprotein,91,980
+2231,GGTTAATTGATGGCTTAGGT,putative DNA/pantothenate metabolismflavoprotein,106,980
+11224,ATTTGGTTAATTGATGGCTT,putative DNA/pantothenate metabolismflavoprotein,110,980
+12176,AGCCTAATTTGGTTAATTGA,putative DNA/pantothenate metabolismflavoprotein,116,980
+13144,ATTAACATGATAGCCTAATT,putative DNA/pantothenate metabolismflavoprotein,127,980
+14117,AGGGGGAATAAACTGTTTGG,putative DNA/pantothenate metabolismflavoprotein,166,980
+1590,TAAAGGGGGAATAAACTGTT,putative DNA/pantothenate metabolismflavoprotein,169,980
+1640,AGCACTTGCAAGGTTAAAGG,putative DNA/pantothenate metabolismflavoprotein,183,980
+1726,AAAGCACTTGCAAGGTTAAA,putative DNA/pantothenate metabolismflavoprotein,185,980
+1824,ATTTTTAGAAAGCACTTGCA,putative DNA/pantothenate metabolismflavoprotein,193,980
+1917,TTCATAACATTCGAATAAAC,putative DNA/pantothenate metabolismflavoprotein,216,980
+11015,GCAATATGATTAATAACTTG,putative DNA/pantothenate metabolismflavoprotein,249,980
+2232,TTTTACCATAAAAGCTCAAA,putative thymidine kinase,1,991
+345,TAAGATATCAGTTTGAGATG,putative thymidine kinase,1,991
+13145,GATAAGATATCAGTTTGAGA,putative thymidine kinase,3,991
+1591,GATTGTCTTACCTGAATTCA,putative thymidine kinase,88,991
+11225,CTGCTCGTCATAATGACAAC,putative thymidine kinase,153,991
+12177,CTTGGCTACGGCCTTCAAAA,putative 4-oxalocrotonate tautomerase,71,992
+13146,GGATTTTTTGTTCTTGGCTA,putative 4-oxalocrotonate tautomerase,83,992
+1592,CAAGCTGGATTTTTTGTTCT,putative 4-oxalocrotonate tautomerase,89,992
+346,CAGTTACTTCACGAGCAAGC,putative 4-oxalocrotonate tautomerase,104,992
+1641,TGTTATTGTACCAGTAACTG,"putative ABC transporter, ATP-binding protein",71,998
+2233,TTCCGCTACCTGATTGCCCG,"putative ABC transporter, ATP-binding protein",158,998
+11226,AGAAGGATTTTTCCTTTTTT,"putative ABC transporter, ATP-binding protein",219,998
+12178,AAGATTATAGGATTGGAAAA,"putative ABC transporter, ATP-binding protein",301,998
+13147,AAGGCAAAAGATTATAGGAT,"putative ABC transporter, ATP-binding protein",308,998
+14118,CATATAAGGCAAAAGATTAT,"putative ABC transporter, ATP-binding protein",313,998
+1593,TTTTGTTGAGCTGTCATATA,"putative ABC transporter, ATP-binding protein",327,998
+1594,ATAACTTTGCCAAAAGCTTG,putative transcriptional regulator protein,7,1001
+2234,GGCAAAGTTATTGTATTGAA,putative transcriptional regulator protein,10,1001
+13148,GAAAGTCCTCAAGCTTT,putative transcriptional regulator protein,31,1001
+11227,GATTATAATAAAGCCAAAGA,putative transcriptional regulator protein,164,1001
+12179,TGTTTTTGTGTGATTCCTTG,putative transcriptional regulator protein,186,1001
+2235,TAAACAAAACTGGCATCATC,conserved hypothetical protein; phosphoglyceratemutase-like protein,10,1005
+347,GCCAGTTTTGTTTATAGAAA,conserved hypothetical protein; phosphoglyceratemutase-like protein,10,1005
+12180,TCCCTTTCTATAAACAAAAC,conserved hypothetical protein; phosphoglyceratemutase-like protein,20,1005
+14119,AAATAAATGGTTGTCATCTT,conserved hypothetical protein; phosphoglyceratemutase-like protein,45,1005
+1595,ACCATGTCTCATCAAATAAA,conserved hypothetical protein; phosphoglyceratemutase-like protein,58,1005
+1642,ACGTTTTTGGGCATTGAATA,conserved hypothetical protein; phosphoglyceratemutase-like protein,85,1005
+1596,CCAGCCCTGAATACGTTTTT,conserved hypothetical protein; phosphoglyceratemutase-like protein,97,1005
+11228,AATTCCCACTTCTGTCAAAG,conserved hypothetical protein; phosphoglyceratemutase-like protein,127,1005
+13149,GGTATCGCTGGCACGTTCAG,conserved hypothetical protein; phosphoglyceratemutase-like protein,220,1005
+1597,GCGCTTTTGTGTGTTAAATA,conserved hypothetical protein; phosphoglyceratemutase-like protein,88,1007
+348,GTAATTCCCAGATCAGTCAA,conserved hypothetical protein; phosphoglyceratemutase-like protein,132,1007
+11229,TGTCGCCCGCTCCTGTGTTG,conserved hypothetical protein; phosphoglyceratemutase-like protein,217,1007
+12181,CATTAGTGACAATCAAGTAG,conserved hypothetical protein,2,1012
+2236,ACTAATGGCAATATTTTGAA,conserved hypothetical protein,11,1012
+1598,CTCTACTTGATTGTCACTAA,conserved hypothetical protein,26,1012
+11230,AGTTTGTAATCATGACGTTT,conserved hypothetical protein,162,1012
+1599,CCTAGAAAAAAAGTGGAAGG,"putative ABC sugar transporter, permeaseprotein",9,1018
+12182,AAACCTAGAAAAAAAGTGGA,"putative ABC sugar transporter, permeaseprotein",12,1018
+13150,CATTAAACCTAGAAAAAAAG,"putative ABC sugar transporter, permeaseprotein",16,1018
+14120,CCACCTTCCACTTTTTTTCT,"putative ABC sugar transporter, permeaseprotein",20,1018
+2237,TATACTTGTAAAAATAAGAG,"putative ABC sugar transporter, permeaseprotein",106,1018
+11231,CCTATACTTGTAAAAATAAG,"putative ABC sugar transporter, permeaseprotein",108,1018
+15100,CCTACAAGAGCAGCAATCCA,"putative ABC sugar transporter, permeaseprotein",252,1018
+1643,ACAAAGAAAACAGCTAAAGA,"putative ABC sugar transporter, permeaseprotein",375,1018
+1727,AAAGGAATATGTGACAAAAT,"putative ABC sugar transporter, permeaseprotein",462,1018
+1825,AAGAAGATAGGACCCAAAAA,"putative ABC sugar transporter, permeaseprotein",480,1018
+1918,CTAGTCCCTTGAAAGAAGAT,"putative ABC sugar transporter, permeaseprotein",492,1018
+1600,CAAGTGCTGCCAAGTTTTAC,putative pantothenate kinase,85,1026
+11232,TCTATCGTTGAGACTTTTAA,putative pantothenate kinase,151,1026
+12183,ATTTGAATCAAGCTAATAAG,putative pantothenate kinase,207,1026
+13151,ATACTCCGATGATGAAAGGG,putative pantothenate kinase,296,1026
+14121,CAGATACTCCGATGATGAAA,putative pantothenate kinase,299,1026
+15101,TGTTGATTTTCCTACAGCAA,putative pantothenate kinase,325,1026
+1644,CAGTAATTGTAAAAGCCGAC,putative pantothenate kinase,349,1026
+1728,ACTAGAGTCCTTAAAAGTTC,putative pantothenate kinase,376,1026
+1826,CTTGAAGATAAAACAGCATT,putative pantothenate kinase,432,1026
+349,CTGATTTTTGAGCTGAATTG,putative 30S ribosomal protein S20,125,1027
+2238,TTTCTATTATAGCATGACTT,putative response regulator CiaR,10,1029
+11233,ACTTGGAAGCCATTTTTTTC,putative response regulator CiaR,213,1029
+12184,CACGCAGTTCTTTTAAAACT,putative response regulator CiaR,230,1029
+1601,AAAAGCAAAGTGCCATACCT,hypothetical protein,95,1030
+45,TTGACATTTTTAGGCATAGT,hypothetical protein,156,1030
+2239,CTTTTGCCAAATCACGATCA,putative phosphate transport system regulatoryprotein,161,1032
+11234,GTTCTTAAGTCATTAGAAAC,putative phosphate transport system regulatoryprotein,267,1032
+12185,CAATGTCACTTGAGGCCTTA,putative phosphate transport system regulatoryprotein,302,1032
+13152,CATACGTTCAATGTCACTTG,putative phosphate transport system regulatoryprotein,310,1032
+1602,AGTCGCTTTAGCTATAGATG,putative phosphate transport system regulatoryprotein,343,1032
+1919,TCTTTTATCTTGATGTGTGG,"putative phosphate ABC transporter, permeaseprotein",5,1036
+11016,AGTTCTTTTATCTTGATGTG,"putative phosphate ABC transporter, permeaseprotein",8,1036
+111101,TCCAAACGAGAATTTTTGGA,"putative phosphate ABC transporter, permeaseprotein",87,1036
+1603,TTTTTCCAAACGAGAATTTT,"putative phosphate ABC transporter, permeaseprotein",91,1036
+2240,AAAGGTTGACAATCCCTTTT,"putative phosphate ABC transporter, permeaseprotein",187,1036
+11235,GTCCCAAACAAAAATTTAAG,"putative phosphate ABC transporter, permeaseprotein",228,1036
+12186,CCATCAGCTCCTTTAACATT,"putative phosphate ABC transporter, permeaseprotein",261,1036
+13153,ATCGGTAAAGCCCCAAGTAA,"putative phosphate ABC transporter, permeaseprotein",288,1036
+14122,ATAAAGGAACCTAAGATCAT,"putative phosphate ABC transporter, permeaseprotein",306,1036
+15102,AAAATTTTGGCACCGTACTT,"putative phosphate ABC transporter, permeaseprotein",402,1036
+1645,AACGACAGGCTGTAAAATTT,"putative phosphate ABC transporter, permeaseprotein",415,1036
+1729,CCTACCAAAAGCTCAACGAC,"putative phosphate ABC transporter, permeaseprotein",429,1036
+1827,ATAAAACCATAAACAACTGA,"putative phosphate ABC transporter, permeaseprotein",456,1036
+12187,AAAGAACTTATTTATGAAGC,conserved hypothetical protein,20,1039
+1604,AAAAGTCGACTTTTCTTCAA,conserved hypothetical protein,67,1039
+2241,TTGAACAGCCTTATCTAAAT,conserved hypothetical protein,103,1039
+11236,TCTGCAAAAACATGATCCTG,conserved hypothetical protein,159,1039
+13154,AAATTAATGGTTCCATCAAT,conserved hypothetical protein,234,1039
+14123,GCCCTGTACAACAAAATTAA,conserved hypothetical protein,247,1039
+2242,ACTATCAGAGCGGAAGTTGA,conserved hypothetical protein,6,1040
+350,GCGTCAAGCAACTATCAGAG,conserved hypothetical protein,16,1040
+1605,TGCTCCACGACAAATCCAAA,conserved hypothetical protein,71,1040
+46,ATTTAAAAAAGAAAGCACTG,conserved hypothetical protein,106,1040
+2243,CATATCGTTTTTCTGATCCA,putative response regulator,1,1045
+11237,TTTTTGATTGCACGCCTGTT,putative response regulator,146,1045
+12188,TCTTTTGCCAAGTTGCTCCA,putative response regulator,175,1045
+13155,GTCTAAAATGGCCAAATCAA,putative response regulator,199,1045
+14124,AGGCAGCATAATGTCTAAAA,putative response regulator,211,1045
+15103,ACCTCAAAACCCGAACCATC,putative response regulator,231,1045
+1646,ACCGCAGACAAAAAGAGTAC,putative response regulator,285,1045
+1730,TTGGTATTGCTTTTCAATGT,putative response regulator,310,1045
+1828,CCGCTCCCAACTCAAAACCT,putative response regulator,329,1045
+1920,TCCAATTCCTTAGGACGAAA,putative response regulator,369,1045
+2244,AAGCAAGGATTTTTCAGGTG,hypothetical protein,26,1046
+11238,CAATTAAGCAAGGATTTTTC,hypothetical protein,31,1046
+12189,TGAAACCAAGCAATTAAGCA,hypothetical protein,41,1046
+1606,CAGGACACTAAACGATTTAA,hypothetical protein,90,1046
+351,AGTGTTAAGAAGGGAATGAC,hypothetical protein,109,1046
+2245,AACTTTATTATAACGGAAAC,conserved hypothetical protein,7,1051
+11239,TCTTTGATCGTTTGTGCAAC,conserved hypothetical protein,78,1051
+47,ACCAGAATATCCTTAACTTC,conserved hypothetical protein,105,1051
+1607,CTTGAGCGAATACTCCTGCA,hypothetical protein,73,1058
+12190,GGTTTCATCTTTTCTAACCA,putative transcription regulator,49,1063
+2246,TTGCACAGTAGGTTCAAGAA,putative transcription regulator,220,1063
+11240,ATCTCTATTGCTTGCACAGT,putative transcription regulator,231,1063
+15104,TATAGACGAATGTCTATTTA,putative transcriptional regulator,8,1066
+14125,TTTTGGCCTTGCTTTGTGTC,putative transcriptional regulator,65,1066
+1608,CGTAATAGCTGCTTTTATTT,putative transcriptional regulator,82,1066
+2247,CATACTTATCTTGGTAATGA,putative transcriptional regulator,191,1066
+11241,CGACGAGGTCATACTTATCT,putative transcriptional regulator,200,1066
+12191,CATGGGCCAATTTATCGACG,putative transcriptional regulator,215,1066
+13156,AAAATCCCTTGTGACTTCAT,putative transcriptional regulator,232,1066
+2248,AAGATAAGATTTTACCTTCA,"putative amino acid ABC transporter, ATP-bindingprotein",122,1076
+11242,GTTGTTTTACCACCACCAGA,"putative amino acid ABC transporter, ATP-bindingprotein",153,1076
+12192,TTATCTAAAACAGTCAAATG,"putative amino acid ABC transporter, ATP-bindingprotein",309,1076
+1731,AGCGCCCCATCTAAAAGACT,"putative amino acid ABC transporter, permeaseprotein",75,1077
+2249,GTCTAAAAGGTACCTGCATA,"putative amino acid ABC transporter, permeaseprotein",164,1077
+11243,AGCCAACGTAAAGGTCTAAA,"putative amino acid ABC transporter, permeaseprotein",177,1077
+12193,AGATTTAACAGCCAACGTAA,"putative amino acid ABC transporter, permeaseprotein",186,1077
+13157,AAAATCAGTTGTAAAAGGAG,"putative amino acid ABC transporter, permeaseprotein",234,1077
+15105,TCAAAAGTGATCCCTGCACT,"putative amino acid ABC transporter, permeaseprotein",273,1077
+1647,GCGGAAGATTTCCGCAAAAT,"putative amino acid ABC transporter, permeaseprotein",340,1077
+11244,CTTTTGGTTTACCAATAATA,putative signal peptidase,269,1084
+2250,AAAAACGCTTATGCGTTTAA,conserved hypothetical protein,1,1092
+11245,TGCGGCCTCATTAGAAGGCT,conserved hypothetical protein,154,1092
+12194,GTTAATGCGGCCTCATTAGA,conserved hypothetical protein,159,1092
+13158,GTTTTCTGTTTTTGTTAATG,conserved hypothetical protein,172,1092
+14126,TTCTTTGCTCACTTTTATTT,conserved hypothetical protein,296,1092
+2251,TAAAATGACTGAAGCAATTA,conserved hypothetical protein,118,1093
+11246,AAGGACCTAAAACTTTGTGA,conserved hypothetical protein,203,1093
+12195,TGAACGAGAATAAAGATTAA,conserved hypothetical protein,222,1093
+13159,GGATAACAGGGAAAACAATT,conserved hypothetical protein,251,1093
+14127,TGACGCCGCCTGGGATAACA,conserved hypothetical protein,263,1093
+1609,CAACAGTAGTGACGCCGCCT,conserved hypothetical protein,272,1093
+2252,ACAAGCAAGTTGAGGCAAAT,conserved hypothetical protein,7,1095
+1648,AATAAGTGACAAGCAAGTTG,conserved hypothetical protein,15,1095
+2253,CAGAAAAATAGAGTTAAGAA,hypothetical protein,10,1099
+1649,TGGAATATTCTAAATGAATT,hypothetical protein,89,1099
+11247,GCCAGTTTCAAAGTAATCTT,hypothetical protein,109,1099
+12196,TAAGCTAAAATAGCTTGAGT,hypothetical protein,174,1099
+1650,CCTTTGTATCTTAATAAAGG,conserved hypothetical protein,7,1112
+1651,CTTTTTTAGCATAAGCATCA,conserved hypothetical protein,86,1112
+2254,GCTAAGGTTTTAGCATTCTC,conserved hypothetical protein,168,1112
+11248,ATCTACCAAAGTCCAAGCTA,conserved hypothetical protein,184,1112
+12197,ATATAGGCAAAACCGCAAAC,conserved hypothetical protein,219,1112
+13160,AGCAACAGTCCAATGAATAT,conserved hypothetical protein,235,1112
+14128,GAAATAACAGTGACATCTGT,conserved hypothetical protein,264,1112
+1652,CCAGAAAGCGACTGAAAATT,putative purine nucleoside phosphorylase,6,1119
+12198,CCTAATTTTCAGTCGCTTTC,putative purine nucleoside phosphorylase,23,1119
+2255,TTAGCACGAAGAGGATCACC,putative purine nucleoside phosphorylase,105,1119
+11249,GCAATGAATTTAGCACGAAG,putative purine nucleoside phosphorylase,114,1119
+13161,TTCACATAAATTGAGATAGA,putative purine nucleoside phosphorylase,249,1119
+14129,CCAAAACGAGATCACGCACA,putative purine nucleoside phosphorylase,344,1119
+1653,AGCTGTTTTGCTATTTCAAA,conserved hypothetical protein,3,1122
+13162,GAAATAGCAAAACAGCTGAG,conserved hypothetical protein,20,1122
+2256,AGCCCAACAAACATAATATT,conserved hypothetical protein,138,1122
+11250,GTTGTTTCATCGGCTGTAGA,conserved hypothetical protein,165,1122
+12199,TTGATACAACGCCTAATTGT,conserved hypothetical protein,195,1122
+1654,CTTCAAGACTTGGCTCGAAA,hypothetical protein,23,1123
+2257,TGTAGATACAGCTATGATTG,conserved hypothetical protein,28,1124
+11251,TGTAGATACAGCTATGAT,conserved hypothetical protein,30,1124
+1655,CAACATTGACACCTCTTAAG,conserved hypothetical protein,68,1124
+352,ATCCCATATCGGTTACCTGC,conserved hypothetical protein,125,1124
+1656,AAGTGATTATATCTGAATGA,putative ribose 5-phosphate isomerase A,8,1126
+2258,GACTTCTTCAACAAAATAAT,putative ribose 5-phosphate isomerase A,139,1126
+11252,GCAAGCCCTCTTCTTGCACA,putative ribose 5-phosphate isomerase A,167,1126
+12200,ACCTCATCAATAGATTTGAG,putative ribose 5-phosphate isomerase A,249,1126
+14130,CCTTTAATACCATTGAAATT,putative ribose 5-phosphate isomerase A,315,1126
+11253,TGAAGAGACAGCACAATTTC,hypothetical protein,113,1129
+1657,GGTGCGCTTTTTAAGATATA,putative transcriptional regulator,8,1136
+12201,ACAAAGAGCGCATCTAAAA,putative transcriptional regulator,29,1136
+2259,TAATTTCTCAAAAGGAACCT,putative transcriptional regulator,133,1136
+11254,GTCGTCGTTAATTTCTCAAA,putative transcriptional regulator,141,1136
+1658,AAAGAAGTCAGGAAATATTT,hypothetical protein,9,1138
+2260,ATTAAGCAGAAAAAGAAGTC,hypothetical protein,20,1138
+14131,TCACTATAAAAATAATGCCA,hypothetical protein,80,1138
+353,CGTAGCAATGAAAAAGATAC,hypothetical protein,106,1138
+11255,GGCCTTTTTCTTATTAGTAA,hypothetical protein,208,1138
+13163,ACTCTCTCCAAAAATATATT,hypothetical protein,307,1138
+1659,ATTGAAACGATGCTCACCAT,conserved hypothetical protein,85,1140
+2261,AAATATTTTCTTTGCTCATC,conserved hypothetical protein,108,1140
+11256,CTAAGAGAATGCTTAAAACG,conserved hypothetical protein,149,1140
+12202,GAACCTGATCAAAATTTGCA,conserved hypothetical protein,194,1140
+1660,AATGAAAGAAAAAGGAGTAG,hypothetical protein,3,1142
+2262,AATTTTCAATCTTCAGCGTT,hypothetical protein,233,1142
+1661,GTTGAAGATGCTTTGAGAGC,hypothetical protein,8,1144
+2263,GACAAAAGAAGTGCTGACAT,hypothetical protein,76,1144
+354,GAAAGAGAGTTTTGCTTTAA,hypothetical protein,142,1144
+2264,CAACACAAGAGAAACTTTAG,hypothetical protein,10,1145
+11257,GTTTCTCTTGTGTTGTTATT,hypothetical protein,11,1145
+1662,AGTTATACTTAGCAACAATT,hypothetical protein,74,1145
+14132,AGCAAAAACAAAGATTGAGG,conserved hypothetical protein; possiblerestriction endonuclease,22,1148
+15106,AGAAGCAAAAACAAAGATTG,conserved hypothetical protein; possiblerestriction endonuclease,25,1148
+1663,AAGGCAGTATCTTGATATGG,conserved hypothetical protein; possiblerestriction endonuclease,72,1148
+1732,CCTAAGGCAGTATCTTGATA,conserved hypothetical protein; possiblerestriction endonuclease,75,1148
+2265,ATAAACTCATGGTAAATTGG,conserved hypothetical protein; possiblerestriction endonuclease,117,1148
+11258,TCCATAAACTCATGGTAAAT,conserved hypothetical protein; possiblerestriction endonuclease,120,1148
+12203,AAGCCTCTTCCATAAACTCA,conserved hypothetical protein; possiblerestriction endonuclease,128,1148
+13164,GCATTAAACAGAAAACGAGC,conserved hypothetical protein; possiblerestriction endonuclease,183,1148
+2266,AAAGAGATTACGGATTATTA,conserved hypothetical protein,11,1149
+1664,CTGATTATAACCTCGAAACG,conserved hypothetical protein,91,1149
+12204,GACAAGATTCTCAAAAAAGT,putative phosphoribosyl-ATPpyrophosphohydrolase,17,1150
+1665,TTTGGCACCGATAACCACTT,putative phosphoribosyl-ATPpyrophosphohydrolase,46,1150
+2267,AGCCAAATGATAAAGAAGGT,putative phosphoribosyl-ATPpyrophosphohydrolase,103,1150
+11259,TGACAGCCAAATGATAAAGA,putative phosphoribosyl-ATPpyrophosphohydrolase,107,1150
+13165,CATGAAAGAGCATGGAATCG,putative phosphoribosyl-ATP pyrophosphatase /phosphoribosyl-AMP cyclohydrolase,8,1152
+2268,AAAAAAGCCATGAAAGAGCA,putative phosphoribosyl-ATP pyrophosphatase /phosphoribosyl-AMP cyclohydrolase,16,1152
+14133,CTGTCACAATAACTGGTAAT,putative phosphoribosyl-ATP pyrophosphatase /phosphoribosyl-AMP cyclohydrolase,89,1152
+1666,TGAAAGTCTGTCACAATAAC,putative phosphoribosyl-ATP pyrophosphatase /phosphoribosyl-AMP cyclohydrolase,96,1152
+11260,ATACATTTCTTTACTGTCTA,putative phosphoribosyl-ATP pyrophosphatase /phosphoribosyl-AMP cyclohydrolase,172,1152
+2269,TTCCTTTTTCTTCCCAATAA,putative transcriptional regulator,164,1171
+11261,CCCCTTTATTGTTTTGAGAG,putative transcriptional regulator,191,1171
+2270,AACATTCTAGGAATTATCAA,"putative permease, chloride channel",11,1174
+12205,GCTAATGGAACCAATCTTTT,"putative permease, chloride channel",339,1174
+13166,CAAGTGGAAAAAATAGCTAA,"putative permease, chloride channel",354,1174
+14134,AAAAAGATGAGTTAACCAAG,"putative permease, chloride channel",370,1174
+15107,GCAAATAATATGGCTGCCAT,"putative permease, chloride channel",540,1174
+1667,AACCTCAAGGGCAAATAATA,"putative permease, chloride channel",550,1174
+1733,GCCAATAACAAGAACCTCAA,"putative permease, chloride channel",562,1174
+1829,AGCTAGGCTGGTGGGTAATA,"putative permease, chloride channel",601,1174
+1921,GTATAAGCAGCTAGGCTGGT,"putative permease, chloride channel",609,1174
+11017,GGCAGTATAAGCAGCTAGGC,"putative permease, chloride channel",613,1174
+111102,AGCTGGCAGTATAAGCAGCT,"putative permease, chloride channel",617,1174
+1668,CAATAATTGAGAGGTATAGC,"putative permease, chloride channel",634,1174
+2271,AAATTCATCAGCATCAACAG,putative flavodoxin,166,1178
+1669,TAAAAATCGACAATTTCATC,putative flavodoxin,243,1178
+11262,TCAGCTGACCAAACTTTTGG,putative glutathione S-transferase,66,1180
+11310,TCCTCAGCTGACCAAACTTT,putative glutathione S-transferase,69,1180
+1670,TGATAGCAGAAAATTTTCCT,putative glutathione S-transferase,98,1180
+2272,TCAAAACGACTGCCAGCAGT,putative glutathione S-transferase,126,1180
+11263,TATCACCTTGGGGTAGTTTT,putative glutathione S-transferase,149,1180
+12206,TGTAATGGTTTATCACCTTG,putative glutathione S-transferase,159,1180
+13167,CCTGTAATGGTTTATCACCT,putative glutathione S-transferase,161,1180
+14135,CCTAATGAATAAACCTGTAA,putative glutathione S-transferase,174,1180
+15108,ACGGCTACTTTGAGTCCGTT,putative glutathione S-transferase,201,1180
+1671,GCGTAACTCTTCCAACATTA,putative glutathione S-transferase,220,1180
+1734,CAACAAAATCAGAACCAAAT,putative glutathione S-transferase,302,1180
+1830,AATTTTAGAATTGGGGTTAA,putative glutathione S-transferase,325,1180
+1922,GAGAAGGAATTTTAGAATTG,putative glutathione S-transferase,332,1180
+11018,AAGAGAAGGAATTTTAGAAT,putative glutathione S-transferase,334,1180
+111103,TTAGACTTATCCAAAAGAGA,putative glutathione S-transferase,348,1180
+12207,CGAAAAGAGCTATGGCAGAA,50S ribosomal protein L31,13,1182
+13168,CTATGGCTCGAAAAGAGCTA,50S ribosomal protein L31,21,1182
+14136,AAGACAACTGGACGGTATTC,50S ribosomal protein L31,69,1182
+15109,TATCCATAAAGACAACTGGA,50S ribosomal protein L31,77,1182
+1672,GAAGTATCCATAAAGACAAC,50S ribosomal protein L31,81,1182
+2273,TAGTTGAACCGCTGAGGAAT,50S ribosomal protein L31,113,1182
+11264,ACGTCTTAGTTGAACCGCTG,50S ribosomal protein L31,119,1182
+1673,TATTAACGGAGCTAAAAGAA,conserved hypothetical protein,8,1184
+2274,GCATTTGCTCTTCTTCAATT,conserved hypothetical protein,107,1184
+11265,CAAGTCTTTTCGTTGAACCA,conserved hypothetical protein,139,1184
+13169,ACATAAGGTCCAATTGCTGC,putative translation initiation inhibitor; aldRregulator-like protein,78,1192
+1674,ACAATTTTTCCTTGAACATA,putative translation initiation inhibitor; aldRregulator-like protein,93,1192
+2275,CCAATCACTTGACCGGTTTC,putative translation initiation inhibitor; aldRregulator-like protein,156,1192
+11266,AGTTGTCCCAATCACTTGAC,putative translation initiation inhibitor; aldRregulator-like protein,163,1192
+12208,AATATTTTTTAAGACCTGTT,putative translation initiation inhibitor; aldRregulator-like protein,199,1192
+1675,AAGCATCAAGCAGATACAAA,hypothetical protein,77,1194
+2276,CTCACTACCCAATCTTCAAG,hypothetical protein,12,1201
+11267,AGCTAAACCTCTTGAAGATT,hypothetical protein,24,1201
+1676,TCCAATAGTTGAAGACTTAT,hypothetical protein,90,1201
+2277,ATTGGAATAAGGACATTCAA,putative transposase,22,1211
+11268,GGTAGCTTCCAACTTGGCAT,putative transposase,40,1211
+12209,CTTGTTGGTAGCTTCCAACT,putative transposase,46,1211
+1677,AGTTTCGAAAGCCAAAAGCT,putative transposase,89,1211
+12210,CATCGAAATAAAAGCTAAGC,putative transposase,26,1213
+13170,GCCTGACAATGTGGGCAGGC,putative transposase,37,1213
+14137,ATTTGCCTGACAATGTGGGC,putative transposase,41,1213
+15110,TCATATTTGCCTGACAATGT,putative transposase,45,1213
+1678,TTGACTGTCAAGGATAGGAA,putative transposase,85,1213
+1735,ATTCTTTGACTGTCAAGGAT,putative transposase,90,1213
+1679,TAGGCATTCTTTGACTGTCA,putative transposase,95,1213
+2278,TTCTTGAGCTTAAGGACAGT,putative transposase,114,1213
+11269,AACGTCGTTTCTTGAGCTTA,putative transposase,122,1213
+14138,TTTTAAGTATTGCCAACCTG,putative phosphopantetheinyl transferase,3,1214
+11270,TAATTGCATATCGTGATAAA,putative phosphopantetheinyl transferase,194,1214
+12211,TTTATATGAGGTTTTCCATA,putative phosphopantetheinyl transferase,264,1214
+13171,GCCCTATATCCTTTTATATG,putative phosphopantetheinyl transferase,276,1214
+15111,TCCAATAACTGATTGGCTAA,putative phosphopantetheinyl transferase,343,1214
+1680,TATCTATTCCAATAACTGAT,putative phosphopantetheinyl transferase,350,1214
+2279,TCAATGTATTTCGAAAGAAA,"conserved hypothetical protein PksD, involved inpolyketide synthesis",125,1216
+12212,CTAACTCCTACTAAAATATC,"conserved hypothetical protein PksD, involved inpolyketide synthesis",318,1216
+13172,AAATTCTGATTGAGTCACAA,"conserved hypothetical protein PksD, involved inpolyketide synthesis",403,1216
+2280,TTATAATTATCTCCATGTTC,putative alpha/beta superfamily hydrolase,171,1217
+1681,ATAGCACTTTTAACACTAAA,putative alpha/beta superfamily hydrolase,201,1217
+1736,AAAAGCTGTGCTTTGCATAT,putative permease; possible multidrug-effluxtransporter,46,1218
+1682,TAGCAAAAATGAGGCTATCA,putative permease; possible multidrug-effluxtransporter,92,1218
+2281,AAGAATTATTTTGGGAAGTA,putative permease; possible multidrug-effluxtransporter,130,1218
+11271,AGTGGACCAAGAATTATTTT,putative permease; possible multidrug-effluxtransporter,138,1218
+12213,TCAACAAAAACGCCACCAAG,putative permease; possible multidrug-effluxtransporter,156,1218
+14139,GGTATTAAAGCAACTACCAA,putative permease; possible multidrug-effluxtransporter,330,1218
+15112,TTTTCCTTTTCTACCAATGA,putative permease; possible multidrug-effluxtransporter,351,1218
+1683,TACACTACTGCTCCTAAAAT,putative permease; possible multidrug-effluxtransporter,432,1218
+15113,CAGCATGAGGAATACAAAAT,putative thioesterase BacT,74,1226
+1684,CTACTATTACCTCCAGCATG,putative thioesterase BacT,87,1226
+11272,CCTCTACCACTTAATTCAAT,putative thioesterase BacT,159,1226
+12214,CACCTTTTGGATAAGGTAAA,putative thioesterase BacT,347,1226
+13173,AATATTACACCTTTTGGATA,putative thioesterase BacT,354,1226
+14140,CCAGAAAATATTACACCTTT,putative thioesterase BacT,360,1226
+2282,ATGAATTTAGACCTAATCGG,"putative ABC transporter, ATP-binding protein",6,1228
+1685,ATAATGAATTTAGACCTAAT,"putative ABC transporter, ATP-binding protein",9,1228
+1737,CTACTAAGTAAGGAGAGGGA,hypothetical protein,5,1229
+1686,TATACTACTAAGTAAGGAGA,hypothetical protein,9,1229
+2283,AACGAAAAATTGGTTCGTTT,hypothetical protein,111,1229
+13174,GATTGTTTGTCTTGAAATAC,hypothetical protein,154,1229
+14141,TTTCATCTGGATTATTAAAG,hypothetical protein,185,1229
+15114,CTAAAGGTTGCATATTTAAA,hypothetical protein,275,1229
+2284,CTTGGTATAATAAAGTGAAC,putative transposase fragment,26,1230
+1687,GCTTTATCAAATACTTCTCT,putative transposase fragment,57,1230
+355,CCAGCGATATAAACGATTTT,putative transposase fragment,158,1230
+13175,ATAGTACTTGTATTTATAGC,putative transposase,64,1231
+1688,GTCTCAATGAGGAACGTCGA,putative transposase,89,1231
+2285,AAACACGGATTAATCAAATT,putative transposase,114,1231
+11273,TTACCTTTTGTTTGAAAACA,putative transposase,129,1231
+12215,TAAAGTGTTCCTGCTTTTGT,putative transposase,186,1231
+2286,ATTGAGAACCTTGATCTGTA,putative transposase,2,1232
+1689,GCCATGAGTGCATTATCATA,putative transposase,96,1232
+2287,AAATCTAGTAAACTAGAAAC,putative transposase fragment,12,1235
+11274,TAACTTAGTTTCCACTGAAT,putative transposase fragment,64,1235
+1690,CGCCTTTTTCATTTCGATAC,putative transposase fragment,88,1235
+14142,TGGCACTAGTCCCATAAAAT,putative transposase fragment,18,1236
+15115,TTTCTACTGTCCCATTTTAT,putative transposase fragment,21,1236
+1691,TGTGAAACATATGAGCATTA,putative transposase fragment,38,1236
+1692,TATTGCTTGCGATTATAATC,putative transposase fragment,69,1236
+2288,CATCTGGAACAAGGTCAGCT,putative transposase fragment,104,1236
+11275,GAAAATGGTCATCTGGAACA,putative transposase fragment,113,1236
+12216,TGTATGAGAAAATGGTCATC,putative transposase fragment,120,1236
+13176,CATCCACTTGTATGAGAAAA,putative transposase fragment,128,1236
+2289,AATGGTTTATGGAGCGAATA,putative transposase fragment,16,1237
+11276,GTTCACCTCAATCTCTTTAA,putative transposase fragment,34,1237
+12217,CAAACGGAAAAACCAACGGT,putative transposase fragment,61,1237
+1693,AAGTCAAACGGAAAAACCAA,putative transposase fragment,65,1237
+2290,AAGAAATTGAACAAATTCAT,hypothetical protein,11,1239
+1694,CTGATATTATTGGCCTTTCT,hypothetical protein,87,1239
+1695,TTTATGTTATAATGATGGCG,putative transcriptional regulator (TetRfamily),7,1240
+2291,AAATAATTGTAGATGGAAAC,putative transcriptional regulator (TetRfamily),180,1240
+11277,ACTTTCGAAATAATTGTAGA,putative transcriptional regulator (TetRfamily),187,1240
+12218,CATCTTAAAATCTATTTCAC,putative transcriptional regulator (TetRfamily),283,1240
+2292,AAAGATGTTGAAATTATCGA,putative transposase,18,1241
+11278,GAACATGGTCTGGCATCAGA,putative transposase,34,1241
+12219,CCAACAATATGAACATGGTC,putative transposase,44,1241
+13177,GCTGACCAACAATATGAACA,putative transposase,49,1241
+14143,AAACACTTATTCTTGGTGGA,putative transposase,71,1241
+15116,CTTGAAACACTTATTCTTGG,putative transposase,75,1241
+1696,AAACTTGAAACACTTATTCT,putative transposase,78,1241
+2293,ATCTGAAGAGACCTAATCGG,putative ABC transporter; ATP-binding protein,6,1243
+1697,TAAATCTGAAGAGACCTAAT,putative ABC transporter; ATP-binding protein,9,1243
+1698,ACTCGGCCAACAGCACCGCT,conserved hypothetical protein,87,1244
+2294,ACCAGATTTTGGTAATTACT,conserved hypothetical protein,104,1244
+11279,AAAATAGGAAGACCAGATTT,conserved hypothetical protein,115,1244
+12220,GAGACTGAGATCTTTAAAAT,conserved hypothetical protein,130,1244
+14144,TAAAGCGATAAGATTTTTGA,conserved hypothetical protein,223,1244
+15117,AATCCGTTTTGTAGTTTGAT,conserved hypothetical protein,289,1244
+2295,CTCTTAAGGATAATAGACTT,hypothetical protein,12,1245
+1699,CTAAGTCTATTATCCTTAAG,hypothetical protein,16,1245
+12221,GCCAGCAGCAAAGGTTGGGA,hypothetical protein,2,1246
+13178,TTTGATGGCAAAACAATGAG,hypothetical protein,3,1246
+2296,CCATCAAAAGCCAGCAGCAA,hypothetical protein,11,1246
+11280,CCTTTGCTGCTGGCTTTTGA,hypothetical protein,18,1246
+14145,ACATGTAACGCTTTTTGGAC,hypothetical protein,54,1246
+1700,AGACAACATGTAACGCTTTT,hypothetical protein,59,1246
+1701,TACCAACCACTCGTAAAGAA,hypothetical protein,7,1248
+2297,GTCCGTTCTTTACGAGTGGT,hypothetical protein,24,1248
+11281,ACGAGTCCGTTCTTTACGAG,hypothetical protein,28,1248
+2298,AATTCACTAGAAGTTATAAG,hypothetical protein,10,1249
+12222,TTAGCAAAAGAAGTTCCTTT,hypothetical protein,17,1250
+13179,ATTCGGGATAATTTGCCTAA,hypothetical protein,27,1250
+14146,GCCTAACGCCGTTAACATGT,hypothetical protein,62,1250
+1702,GGCTGATTGATTATTCAGAG,hypothetical protein,88,1250
+2299,GACAAAGGTAAAGATATCAT,hypothetical protein,109,1250
+11282,TAATTCTTCAATGTAGACAA,hypothetical protein,124,1250
+2300,TCAAAAAGGGAAATGAATAA,hypothetical protein,1,1251
+11283,ATACTTTTGATACTTTGACT,hypothetical protein,180,1251
+12223,AACAGCTGTGCTGCCAATAT,hypothetical protein,205,1251
+13180,ATATTTTTAGCCCAAATGTC,hypothetical protein,228,1251
+1703,TCTTGTAAATCTTCCTTTTC,hypothetical protein,273,1251
+2301,AAATAGCGTTTGATTTTCAT,hypothetical protein,48,1253
+11284,CTATAAACTTGCCTTTTGGG,hypothetical protein,72,1253
+1704,AGACTATAAACTTGCCTTTT,hypothetical protein,75,1253
+356,GAATGAATCTGATGTTTGAT,hypothetical protein,279,1253
+16100,GAGTAGAATAAGAAAATGGA,hypothetical protein,7,1264
+2302,AGAAGAGTAGAATAAGAAAA,hypothetical protein,11,1264
+15118,CTACGGCTAGCACGACGTCT,hypothetical protein,54,1264
+1705,CCTTCTTTTTTGATTTCCTA,hypothetical protein,71,1264
+11285,ATAGGCTGAAATAAAATAAA,hypothetical protein,145,1264
+13181,TTTTCTTCTGGATCCTTCTT,hypothetical protein,225,1264
+14147,CTTAGATGTTGCTTTTGAAG,hypothetical protein,262,1264
+1706,TTTAAAAGCTCTTTCAGAAC,putative acetyltransferase,84,1265
+2303,CTGTATTCTTAAAGAGATCT,putative acetyltransferase,137,1265
+11286,CCATCCGTATAGACAAAAAT,putative acetyltransferase,219,1265
+12224,TAACCAAAAATAAATGCCCT,putative acetyltransferase,254,1265
+2304,ATATTAGTAGGTGAAGCTAG,hypothetical protein,9,1268
+1707,GATTCCCATACAAACTGCAT,conserved hypothetical protein,48,1270
+1708,GCTGTTGTGTCATCATAGTT,hypothetical protein,99,1272
+12225,TCTTCCTTATGAAAAATTAC,conserved hypothetical protein,66,1273
+11287,CATCTGACGAGCGTTCTTCA,conserved hypothetical protein,154,1273
+2305,GGAAAGGAGTTCCTGAGTTT,conserved hypothetical protein,18,1275
+11288,GTAACTCATATCCTAAACTC,conserved hypothetical protein,22,1275
+12226,TTAAAATCATTCGCATATAT,conserved hypothetical protein,44,1275
+1709,CGTTCCTCAGCAGTATCTGT,conserved hypothetical protein,78,1275
+15119,AAAACAAAATCAGGCTGAAT,conserved hypothetical protein,2,1285
+11311,TTTATCCAGTCTTGCGGAGT,conserved hypothetical protein,7,1285
+2306,AGACTGGATAAAACAAAATC,conserved hypothetical protein,11,1285
+13182,TTTTGTTTTATCCAGTCTTG,conserved hypothetical protein,13,1285
+1831,GAAATCCCACTCCGCAAGAC,conserved hypothetical protein,27,1285
+1738,AAAAAGCCAGCAAAAAAAGA,conserved hypothetical protein,80,1285
+11289,AAGCCAGACTAAATAAATGG,conserved hypothetical protein,112,1285
+12227,AAAAAGCCAGACTAAATAAA,conserved hypothetical protein,115,1285
+14148,CCCAACAAAGATATCTCTAA,conserved hypothetical protein,141,1285
+16101,CAGCTGCCAATGAAAAGGAC,conserved hypothetical protein,235,1285
+1739,ATAACCAGCTGCCAATGAAA,conserved hypothetical protein,240,1285
+1923,TGCAAACCATCTTTGGAAGA,conserved hypothetical protein,273,1285
+11019,AAAATGGTGCAAACCATCTT,conserved hypothetical protein,280,1285
+111104,GCCATTTCACTTGCTCAAAA,conserved hypothetical protein,296,1285
+11290,AAAAAAAAGAAAACTAGGCA,conserved hypothetical protein,352,1285
+2307,TGTTGCTGAGAAATTTATTT,putative oleoyl-acyl carrier proteinthioesterase,14,1288
+357,AAGGCAACTGACAAAATGTG,putative oleoyl-acyl carrier proteinthioesterase,123,1288
+11291,CTGATCGCTAGCAATCTGTA,putative oleoyl-acyl carrier proteinthioesterase,142,1288
+12228,AAAACGTGGTAAGCGGTCAA,putative oleoyl-acyl carrier proteinthioesterase,244,1288
+13183,TTTCATTAAAACGTGGTAAG,putative oleoyl-acyl carrier proteinthioesterase,251,1288
+14149,TCCACAATTTCATTAAAACG,putative oleoyl-acyl carrier proteinthioesterase,258,1288
+16102,CACCATTTTGATCGTAAATG,putative oleoyl-acyl carrier proteinthioesterase,332,1288
+1740,ATCATAATCCATAAGAACAA,putative oleoyl-acyl carrier proteinthioesterase,379,1288
+2308,ATTGTAGAATATTAGGTAAG,hypothetical protein,6,1305
+1741,AAGAATTTCTTTTTCAGCTC,"putative ABC transporter, ATP-binding protein",7,1312
+2309,TGCTCCATTTCCACCAAGAA,"putative ABC transporter, ATP-binding protein",166,1312
+11292,TCAAAGACAGTGTGCCAGCA,"putative ABC transporter, ATP-binding protein",212,1312
+12229,TCGCTTTTCAGCAGGATAGG,"putative ABC transporter, ATP-binding protein",271,1312
+13184,TGCTCGCTTTTCAGCAGGAT,"putative ABC transporter, ATP-binding protein",274,1312
+14150,TATTTTGCTCGCTTTTCAGC,"putative ABC transporter, ATP-binding protein",279,1312
+15120,CTTGGTGCAGTCCCCATTTT,"putative ABC transporter, ATP-binding protein",324,1312
+16103,TTTTCCGCAACTGTCATTCT,"putative ABC transporter, ATP-binding protein",342,1312
+1742,ACGTTTTTCACCACGGTATT,"putative ABC transporter, ATP-binding protein",376,1312
+1832,CAAGTCCACGTTTTTCACCA,"putative ABC transporter, ATP-binding protein",383,1312
+2310,TTGCCTTCATGAACATCATT,"mutator protein, pyrophosphohydrolase",123,1321
+11293,TCACGTCTGGCACATTCATC,"mutator protein, pyrophosphohydrolase",186,1321
+12230,CTCCTCAAAAATTTCACGTC,"mutator protein, pyrophosphohydrolase",199,1321
+14151,AGTTGCTTAAGGATTGACAT,hypothetical protein,4,1322
+2311,CTTAAGCAACTATGCGGAGG,hypothetical protein,13,1322
+11294,CACCTCCGCATAGTTGCTTA,hypothetical protein,15,1322
+12231,ATCCTTAAGCAACTATGCGG,hypothetical protein,16,1322
+13185,TCAATCCTTAAGCAACTATG,hypothetical protein,19,1322
+1743,TTCCTCGCTCTTCCATTTTA,hypothetical protein,71,1322
+14152,TTTTATGGCTATCTGTAAGG,conserved hypothetical protein; replicationprotein DnaD-like,5,1330
+15121,TCATTTTATGGCTATCTGTA,conserved hypothetical protein; replicationprotein DnaD-like,8,1330
+1744,TAATGAAAAAGCAAGGCACT,conserved hypothetical protein; replicationprotein DnaD-like,93,1330
+358,AGCAATGTCTTCCATCTTTG,conserved hypothetical protein; replicationprotein DnaD-like,178,1330
+11295,GACAGTCTTGCCAATAGCTG,conserved hypothetical protein; replicationprotein DnaD-like,214,1330
+12232,ACACTGAGCGATTAACTTCT,conserved hypothetical protein; replicationprotein DnaD-like,236,1330
+13186,CAACTCTTGACTAATCAGAT,conserved hypothetical protein; replicationprotein DnaD-like,259,1330
+12233,AAACAAGTCTAATACTTTCT,conserved hypothetical protein,21,1333
+11296,AGGGTTTCCTTTTCCTTTGA,conserved hypothetical protein,142,1333
+1745,TGCTGCCAGAGACCTTCCAA,conserved hypothetical protein,291,1333
+1746,TTCTTCAGCAAGCCCCCCTG,putative oxidoreductase,82,1336
+2312,AAAACAAGTTGATCTGTCTG,putative oxidoreductase,120,1336
+11297,ACAAGTTACTCTTTCACGAT,putative oxidoreductase,181,1336
+12234,TGTTAATAAAAATATCGATG,putative oxidoreductase,272,1336
+13187,AACCAAACGAGAAAAATTGA,putative oxidoreductase,379,1336
+2313,AAAAAATAAATGGAGGCTAG,conserved hypothetical protein,10,1338
+14153,TTTCGGAAAAAAATAAATGG,conserved hypothetical protein,17,1338
+1747,AGTAAAACCACCATACTTAA,conserved hypothetical protein,70,1338
+11298,TTTTTCCTCATCTGACAAAA,conserved hypothetical protein,127,1338
+12235,GCATTGATAACGCTTGGCGG,conserved hypothetical protein,165,1338
+13188,TAAGCATTGATAACGCTTGG,conserved hypothetical protein,168,1338
+15122,AAATAAGCATTGATAACGCT,conserved hypothetical protein,171,1338
+1748,TAATAATCTGTTGCGGCCTG,conserved hypothetical protein,219,1338
+1833,TTCAAAATAATAATCTGTTG,conserved hypothetical protein,226,1338
+1924,GTTTATCCGTAAATAAATGT,conserved hypothetical protein,260,1338
+11020,GATAAATTAAGCCGAACAAA,conserved hypothetical protein,303,1338
+14154,GTTTTATAAAATTGAAAGGA,conserved hypothetical protein,6,1349
+15123,TATCTCAAAGGCTGATGAGA,conserved hypothetical protein,85,1349
+1749,CAGGATATAGACTATCTCAA,conserved hypothetical protein,97,1349
+2314,CTTTTTGATTGGTGAAGGTC,conserved hypothetical protein,116,1349
+11299,AACATCTTTTTGATTGGTGA,conserved hypothetical protein,121,1349
+12236,ATTCGGAACATCTTTTTGAT,conserved hypothetical protein,127,1349
+13189,TTGATTTCTTCTGTCATATT,conserved hypothetical protein,144,1349
+1750,CTGACTAAAAAATCATTTCA,"galactose-6-phosphate isomerase, subunit LacA",10,1357
+2315,TGAGGTAATGAAGAACTTTG,conserved hypothetical protein,13,1361
+1751,AACAGTCTGAAGAATTG,conserved hypothetical protein,31,1361
+359,CTAAATTATTCATAATCTGA,conserved hypothetical protein,110,1361
+15124,TTTGGTTTGATTGTAAGACA,hypothetical protein,5,1362
+2316,CAAACCAAAAGACTAGAATA,hypothetical protein,10,1362
+14155,TTCTCCTTATTCTAGTCTTT,hypothetical protein,23,1362
+1752,GTAAACCAAACCTGTCTACC,hypothetical protein,86,1362
+11300,TCTAAATAGTTCCAAAAAAC,hypothetical protein,117,1362
+12237,TCTAATTTTCTTTCGGAATA,hypothetical protein,165,1362
+13190,ATCCTCTTCTAATTTTCTTT,hypothetical protein,172,1362
+2317,GCTGGTGAAAAATTGGGACA,hypothetical protein,11,1363
+11301,GTTTATGCTGGTGAAAAATT,hypothetical protein,17,1363
+1753,AACTCTTTGACGTTTATGC,hypothetical protein,29,1363
+2318,TGATGAAGAGGAAAGCGTAT,hypothetical protein,2,1365
+1754,AGCATGTTTTTATGATGAAG,hypothetical protein,14,1365
+2319,ACTTGTGGATGGCTGAACCA,putative acetyltransferase,15,1369
+14156,ATTTTCACTCCTTTAACTTG,putative acetyltransferase,30,1369
+1755,TTGCAGGATAATTACCT,putative acetyltransferase,31,1369
+12238,ACCGGACATCAAAATAAAAT,putative acetyltransferase,235,1369
+13191,CAAAAATCCCGCTGCTTTAC,putative acetyltransferase,253,1369
+1756,GATTTATATTACGAAGTGCA,"putative amino acid ABC transporter, ATP-bindingprotein",98,1376
+2320,GTGGACTTCCCAGATCCTGA,"putative amino acid ABC transporter, ATP-bindingprotein",159,1376
+11302,ATTCATTGTGCGAATAAGTG,"putative amino acid ABC transporter, ATP-bindingprotein",178,1376
+12239,AATGAGTTCACCAGAGTCAA,"putative amino acid ABC transporter, ATP-bindingprotein",211,1376
+13192,CTTCTTTTCGAAGTGTGACT,"putative amino acid ABC transporter, ATP-bindingprotein",272,1376
+14157,GAGGGTAGAGATTAAAATGT,"putative amino acid ABC transporter, ATP-bindingprotein",308,1376
+15125,TTTCTAGCACTGTTTTGTGA,"putative amino acid ABC transporter, ATP-bindingprotein",326,1376
+16104,CATTCCTAAAACTTTAATTG,"putative amino acid ABC transporter, ATP-bindingprotein",361,1376
+1757,TCCATTCCTAAAACTTTAAT,"putative amino acid ABC transporter, ATP-bindingprotein",363,1376
+1834,ATATTTTTCAGCAATAGCAT,"putative amino acid ABC transporter, ATP-bindingprotein",397,1376
+1758,ACCAGATAAATAATGAGTAA,"putative amino acid ABC transporter, permeaseprotein",8,1378
+2321,TACTCATTATTTATCTGGTT,"putative amino acid ABC transporter, permeaseprotein",17,1378
+13193,TCCTTTACTCATTATTTATC,"putative amino acid ABC transporter, permeaseprotein",22,1378
+15126,GCGGCTCAGAGCAAAAGGGC,"putative amino acid ABC transporter, permeaseprotein",73,1378
+16105,ACCAGCGGCTCAGAGCAAAA,"putative amino acid ABC transporter, permeaseprotein",77,1378
+1759,TGGCAAAAAATGCAGACCAG,"putative amino acid ABC transporter, permeaseprotein",92,1378
+360,AGAAAGCAGTAAAGCGAAGA,"putative amino acid ABC transporter, permeaseprotein",160,1378
+11303,CTTAGTTTTAGAGGAACTCA,"putative amino acid ABC transporter, permeaseprotein",208,1378
+12240,TTTGAGAAGCTTAGTTTTAG,"putative amino acid ABC transporter, permeaseprotein",217,1378
+14158,ACAAAGTACTGCAGTAAAGA,"putative amino acid ABC transporter, permeaseprotein",352,1378
+1760,AGCTTATCATTTATAAAGGG,"putative amino acid ABC transporter, integralmembrane protein",8,1379
+1835,AGTAAAAAATTGAGATTTGT,"putative amino acid ABC transporter, integralmembrane protein",69,1379
+2322,CAAAATGGTAGATAGTACAA,"putative amino acid ABC transporter, integralmembrane protein",130,1379
+11304,AGCTAGAATCGTTCCCAAAA,"putative amino acid ABC transporter, integralmembrane protein",145,1379
+12241,ATACTAGCAATCCATCTTAG,"putative amino acid ABC transporter, integralmembrane protein",192,1379
+14159,AGCAGTAATACCAGCAGGAG,"putative amino acid ABC transporter, integralmembrane protein",289,1379
+15127,GTGAAAGCAGTAATACCAGC,"putative amino acid ABC transporter, integralmembrane protein",294,1379
+16106,AATTTCTGCTAGAGCTGCAG,"putative amino acid ABC transporter, integralmembrane protein",325,1379
+1761,CAATAGCATTTAATCCGCCT,"putative amino acid ABC transporter, integralmembrane protein",350,1379
+2323,TAGCCGTGTTAATGGAGAAT,conserved hypothetical protein,2,1381
+361,GCAACAATTAGCCGTGTTAA,conserved hypothetical protein,10,1381
+11305,ATTCCTATTCTCCATTAACA,conserved hypothetical protein,30,1381
+1762,TGAGACATAAAAGAGCAATG,conserved hypothetical protein,98,1381
+2324,GATAGCTACTTAGACAAATT,"FoF1 membrane-bound proton-translocating ATPase,delta subunit",10,1388
+12242,CCTGCGTTTTTTTATCCATT,"FoF1 membrane-bound proton-translocating ATPase,delta subunit",47,1388
+1763,AGCGACTTCAACAAGACTCT,"FoF1 membrane-bound proton-translocating ATPase,delta subunit",88,1388
+11306,TAACTTCATCATAGATAATA,"FoF1 membrane-bound proton-translocating ATPase,delta subunit",128,1388
+2325,ATACTAAAGGCAATTAAGAA,"FoF1 membrane-bound proton-translocating ATPase,b subunit",12,1389
+11307,AAGGTCAATATTGATACTAA,"FoF1 membrane-bound proton-translocating ATPase,b subunit",25,1389
+362,TCTTAACCAGAAGTAATAAA,"FoF1 membrane-bound proton-translocating ATPase,b subunit",113,1389
+1764,GGGCAGCTTCATCCTTAGCT,"FoF1 membrane-bound proton-translocating ATPase,b subunit",266,1389
+1765,GATTTCATAATAAGAAAAGG,"FoF1 membrane-bound proton-translocating ATPase,a subunit",9,1390
+2326,CTGATTTCATAATAAGAAAA,"FoF1 membrane-bound proton-translocating ATPase,a subunit",11,1390
+1925,ATACCTAAGAATTTAACCGT,"FoF1 membrane-bound proton-translocating ATPase,a subunit",69,1390
+11308,TAGGCTTTATTTTCAGATGG,"FoF1 membrane-bound proton-translocating ATPase,a subunit",167,1390
+12243,CCGTAGGCTTTATTTTCAGA,"FoF1 membrane-bound proton-translocating ATPase,a subunit",170,1390
+13194,AAAACATTTTGTCTGCCCGT,"FoF1 membrane-bound proton-translocating ATPase,a subunit",186,1390
+14160,AATTAGGCTTGATAATTCCA,"FoF1 membrane-bound proton-translocating ATPase,a subunit",230,1390
+16107,GGAAGAGACAAAAAGCAAAT,"FoF1 membrane-bound proton-translocating ATPase,a subunit",278,1390
+1766,AACTGCAAAATTTGCTGTTG,"FoF1 membrane-bound proton-translocating ATPase,a subunit",373,1390
+1836,TCAACTGCAAAATTTGCTGT,"FoF1 membrane-bound proton-translocating ATPase,a subunit",375,1390
+2327,CAACTAAAATTCCTTCACCA,"FoF1 membrane-bound proton-translocating ATPase,c subunit",101,1391
+1767,AATATATTTGGAAGTTTCAT,conserved hypothetical protein,94,1401
+12244,CCGTGTTAGAAAATAGACAA,conserved hypothetical protein,136,1401
+13195,TCTTTAGTAATGAAAAAGAG,conserved hypothetical protein,162,1401
+14161,ATCATTGGTAAAGAAGGCAA,conserved hypothetical protein,226,1401
+2328,AGTGACGACTGTTGGATTGT,putative response regulator,2,1402
+1768,ACTATTTACCTAAATGAAGG,putative response regulator,7,1402
+363,AGGTAAATAGTGACGACTGT,putative response regulator,10,1402
+13196,ATTGACGTCCTCCTTCATTT,putative response regulator,30,1402
+11309,ACATCCAAACCTGTTTTGAT,putative response regulator,219,1402
+12245,CAATAATGACCTTAGTATCT,putative response regulator,263,1402
+1769,AACTGGAAAACATCATATGG,"putative ABC transporter, ATP-binding protein",9,1405
+2329,TCAAACTGGAAAACATCATA,"putative ABC transporter, ATP-binding protein",12,1405
+13197,TTGGATATTTAAGATCAAAC,"putative ABC transporter, ATP-binding protein",26,1405
+1770,TTTTTTCGCCTTAAATTGTT,"putative ABC transporter, ATP-binding protein",85,1405
+11312,GTTGTCTTCCCTGCACCATT,"putative ABC transporter, ATP-binding protein",165,1405
+12246,TCCTAACATACAAGACATAA,"putative ABC transporter, ATP-binding protein",187,1405
+14162,AGAACTGCTACCTGAGCTTT,"putative ABC transporter, ATP-binding protein",261,1405
+15128,AAGGGATTGTATTTTCCTGT,"putative ABC transporter, ATP-binding protein",284,1405
+16108,CCTTAACTTTTAAGACAGAA,"putative ABC transporter, ATP-binding protein",302,1405
+1771,ATTTTAAAAAAATCGCAGGG,hypothetical protein,8,1406
+2330,CCTATTTTAAAAAAATCGCA,hypothetical protein,11,1406
+11313,CCTGCGATTTTTTTAAAATA,hypothetical protein,17,1406
+2331,AAAGAATTGACGGACTAGGG,hypothetical protein,4,1407
+11314,TTAAAGAATTGACGGACTAG,hypothetical protein,6,1407
+12247,TATTAAAGAATTGACGGACT,hypothetical protein,8,1407
+1772,ATCGCTTATTAAAGAATTGA,hypothetical protein,14,1407
+1773,TATCATAAAGAAAACGAAGA,hypothetical protein,4,1408
+2332,ATTTTCCACATATCAAGTCC,putative methionine aminopeptidase A,147,1410
+11315,CCATCAACACCAATTTGTAA,putative methionine aminopeptidase A,213,1410
+12248,GTCCGCAGCAAGTTGCGTAG,putative methionine aminopeptidase A,251,1410
+13198,GAGTCCGCAGCAAGTTGCGT,putative methionine aminopeptidase A,253,1410
+14163,CAAGATATAATGACGTGGAA,putative methionine aminopeptidase A,295,1410
+15129,TCTTTCAAGATATAATGACG,putative methionine aminopeptidase A,300,1410
+16109,TCTAGGTCTTCTTTAGCAAT,putative methionine aminopeptidase A,360,1410
+1774,AATTCAATTTTGAGACATCT,putative methionine aminopeptidase A,377,1410
+2333,TTTTTTAGCCTAATAGTCAA,putative acetyltransferase,13,1412
+11316,TCTGCCAAATTTGCCTGACA,putative acetyltransferase,186,1412
+1775,TCTAAAGCCCAAACTCCTAA,putative acetyltransferase,246,1412
+12249,CTTGTATAGATTCAGTAAGG,conserved hypothetical protein; possiblemembrane protein,8,1413
+2334,TTCCTTGTATAGATTCAGTA,conserved hypothetical protein; possiblemembrane protein,11,1413
+11317,CTCCTTACTGAATCTATACA,conserved hypothetical protein; possiblemembrane protein,20,1413
+1776,CCCAATTTTAGCAAGAATTG,conserved hypothetical protein; possiblemembrane protein,97,1413
+1777,TCTCATTGTTATCAAAAGGA,putative potassium uptake protein TrkA,6,1415
+2335,TTGGTCTCATTGTTATCAAA,putative potassium uptake protein TrkA,10,1415
+12250,GAAGAAAACACTAATTCAT,putative potassium uptake protein TrkA,29,1415
+11318,CGTATCATCACTATCTGTAC,putative potassium uptake protein TrkA,262,1415
+13199,GTAGATTTTTTTAGCAATAC,putative potassium uptake protein TrkA,298,1415
+14164,TATAATCTGGCAATGACCTT,putative potassium uptake protein TrkA,327,1415
+15130,TTTACTGGAATCATATAATC,putative potassium uptake protein TrkA,340,1415
+2336,TGTTCTTTTGATAAATCCTC,hypothetical protein,114,1427
+2337,CGTGCAATTAGAAAATGGGC,hypothetical protein,16,1431
+11319,TCATCGTGCAATTAGAAAAT,hypothetical protein,20,1431
+12251,GACTAATTTCGCCACTGTTA,hypothetical protein,43,1431
+1778,GTTTACCAAAGCCATCTTGT,hypothetical protein,80,1431
+2338,GGCCAAAGCATTTGTTTCAT,conserved hypothetical protein,115,1433
+11320,GGCTGTAGCATTGGCTAAAT,conserved hypothetical protein,136,1433
+12252,ATTCAGCATGGCTGTAGCAT,conserved hypothetical protein,145,1433
+13200,AGGAAGAGTCTTATTCAGCA,conserved hypothetical protein,157,1433
+14165,AAGATAAAATCCTGTAAAGA,conserved hypothetical protein,184,1433
+15131,CAAGAGACACCACCTTGGAA,conserved hypothetical protein,234,1433
+1779,GCACACAAGAGACACCACCT,conserved hypothetical protein,239,1433
+15132,TCATCACAATAGTCTTCAAA,putative CDP-diglyceride synthetase,32,1443
+1780,GCAACCCCAGCCAAAAAAAC,putative CDP-diglyceride synthetase,72,1443
+2339,ATTGTAAAACCACCATCAAT,putative CDP-diglyceride synthetase,141,1443
+11321,AAAACCCTTCCAAGTTTTAT,putative CDP-diglyceride synthetase,190,1443
+12253,AACCTGACAAAAAGTCGTCA,putative CDP-diglyceride synthetase,226,1443
+14166,AATGAAAAAGTGAGCAAATG,putative CDP-diglyceride synthetase,276,1443
+2340,ACACTTGGCTTATAAATGAG,conserved hypothetical protein,201,1446
+11322,GGCAAAATAACATAGACACT,conserved hypothetical protein,216,1446
+1781,ATTAGTATTAACAAACTCAC,conserved hypothetical protein,237,1446
+12254,AAACTAGAAGAAAAGGAAAA,"putative PTS system, cellobiose-specific IIAcomponent",4,1447
+11323,GCATTGCATCAAATGCTTCA,"putative PTS system, cellobiose-specific IIAcomponent",122,1447
+364,TTCACCTTGTTCTTGAAGAA,"putative PTS system, cellobiose-specific IIBcomponent",121,1449
+1782,TCAATGCGTTTTTGCCCTTC,"putative PTS system, cellobiose-specific IIBcomponent",171,1449
+13201,GATAATATAATAGATTGAGG,conserved hypothetical protein,5,1453
+2341,AGTAGGATAGATCATACCAT,conserved hypothetical protein,157,1453
+14167,AGATTATAGTGGAGGAAGTA,"putative membrane protein involved in proteinsecretion, SecG",3,1457
+2342,AATGACTAAGATTATAGTGG,"putative membrane protein involved in proteinsecretion, SecG",11,1457
+1783,AATAGCAATTACCAAGATAA,"putative membrane protein involved in proteinsecretion, SecG",88,1457
+11324,TTGCTGCTAGGATTCTTTTG,"putative membrane protein involved in proteinsecretion, SecG",120,1457
+12255,TTATCAAAAACATTGCTGCT,"putative membrane protein involved in proteinsecretion, SecG",132,1457
+2343,TGTCTTTCCAGATAAATTGA,conserved hypothetical protein,11,1464
+11325,ACCGACTTTTGAGCGGATGT,conserved hypothetical protein,64,1464
+1784,TGTCATGACCGACTTTTGAG,conserved hypothetical protein,71,1464
+1785,AACATCTCTTTTTCTTCTTG,diacylglycerol kinase,5,1466
+12256,AAAAGAGATGTTTAGCTTAC,diacylglycerol kinase,13,1466
+2344,CGTTAAAGCGAATTCAAGGC,diacylglycerol kinase,115,1466
+11326,TCCCCGTTAAAGCGAATTCA,diacylglycerol kinase,119,1466
+2345,ATTCCAAAATATCCAAAGTT,conserved hypothetical protein,104,1467
+11327,CAGTTCATGGCTGCGCTCAT,conserved hypothetical protein,181,1467
+12257,GATACTTGAGATTCAGTTCA,conserved hypothetical protein,194,1467
+13202,TCTAGACTGATAACATCAGT,conserved hypothetical protein,231,1467
+14168,GTCTTCCTCATCAAAAGAAA,conserved hypothetical protein,271,1467
+2346,TATTCGCCATCACTTTTTAA,conserved hypothetical protein,11,1469
+11328,AGTTCTCCTTTAAAAAGTGA,conserved hypothetical protein,24,1469
+1786,CTACAGGATCGTGACTCTTA,conserved hypothetical protein,92,1469
+365,AAATCCGCCAAAATAGCTAC,conserved hypothetical protein,108,1469
+2347,ACCATCCTTCTGGATAAAAT,conserved hypothetical protein,109,1471
+11329,CAAAGGTTAGACCATCCTTC,conserved hypothetical protein,119,1471
+12258,TTCTTTTTTATCCAAAGCAA,conserved hypothetical protein,136,1471
+13203,TACTGTACCCCAACCATATG,conserved hypothetical protein,256,1471
+14169,GAAACAACAAACTGCTTATC,conserved hypothetical protein,324,1471
+15133,TAAAGTTTATCCCCTTTTTT,conserved hypothetical protein,381,1471
+1787,TGAAAAACGTCTGGTTCAGC,conserved hypothetical protein,447,1471
+12259,CGCCTTAGTATCTTAATATA,putative ribosome recycling factor,13,1472
+2348,CGAATTCACGCGCGAGGGAC,putative ribosome recycling factor,101,1472
+11330,ACTGCCGAATTCACGCGCGA,putative ribosome recycling factor,106,1472
+13204,CTAAAAGACTTGCATTGGCA,putative ribosome recycling factor,140,1472
+14170,GCTAGTTGATTGAGAGGAGT,putative ribosome recycling factor,192,1472
+15134,ATTGAAGCTAGTTGATTGAG,putative ribosome recycling factor,198,1472
+16110,ACCAAAAGAACGCGTGCTTC,putative ribosome recycling factor,228,1472
+2349,ACAATTTCTACTGCAAAAAG,conserved hypothetical protein,171,1476
+13205,AAAGATTGCATAAGCTAAAA,putative MTA/SAH nucleosidase,9,1479
+1788,TATGATTTAATTCCGCTAAG,putative MTA/SAH nucleosidase,95,1479
+2350,CCTAGTTTACCGCTGTAGTA,putative MTA/SAH nucleosidase,144,1479
+11331,ACATCACCAATAGCCAAATC,putative MTA/SAH nucleosidase,294,1479
+2351,CTGCATTTTAAGGATAAATA,conserved hypothetical protein,10,1480
+13206,ATACTTTGCTCTGCATTTTA,conserved hypothetical protein,20,1480
+14171,ATCATTTCATCTGTTAACAG,conserved hypothetical protein,60,1480
+15135,CAATCATTTCATCTGTTAAC,conserved hypothetical protein,62,1480
+1789,ATAGAACTTCTCGCCACGAT,conserved hypothetical protein,91,1480
+11332,ATTATCTGTTGAAATGACAA,conserved hypothetical protein,142,1480
+12260,GTTTCATCATAACTTGATTG,conserved hypothetical protein,171,1480
+2352,TTCAAAGCATCCATAAGGCA,hypothetical protein,42,1484
+11333,AATGATTCAAAGCATCCATA,hypothetical protein,47,1484
+12261,AAAACAACAAATTGGTCAGC,hypothetical protein,83,1484
+1790,TAGTCAGATTGGGTAATG,hypothetical protein,30,1485
+2353,ACTAAAAGCAACAGACAAGG,conserved hypothetical protein,8,1487
+1791,TATACTAAAAGCAACAGACA,conserved hypothetical protein,11,1487
+2354,CTATAATAGATAGAGGAAAT,conserved hypothetical protein,1,1489
+11334,GATAAGCTTTAAAGGCAAAA,conserved hypothetical protein,146,1489
+12262,TTTGTTGCGATAAGCTTTAA,conserved hypothetical protein,154,1489
+13207,TAGAGATAATTACCAATTCA,conserved hypothetical protein,191,1489
+2355,GCCTGAAGCTCTTCTTGACT,hypothetical protein,102,1490
+11335,TCTTTGCTGCCGGAACTGTT,hypothetical protein,149,1490
+12263,TTCATTTTTCTCTTTGCTGC,hypothetical protein,159,1490
+13208,ACTAATGATAACAATGGTAG,hypothetical protein,184,1490
+13209,GGAGGATATGATGGTCTGGT,"conserved hypothetical protein, possiblehemolysis inducing protein",25,1492
+16111,TTTGGAGGATATGATGGTC,"conserved hypothetical protein, possiblehemolysis inducing protein",29,1492
+2356,AAGAAACAACCTAACAAGAC,"conserved hypothetical protein, possiblehemolysis inducing protein",102,1492
+11336,AAATGCGTCGCTATCGTTTT,"conserved hypothetical protein, possiblehemolysis inducing protein",138,1492
+12264,TGAAGCAACAAGAGAAAAAA,"conserved hypothetical protein, possiblehemolysis inducing protein",219,1492
+14172,ATTGGCTTTTGGATCCTTGC,"conserved hypothetical protein, possiblehemolysis inducing protein",262,1492
+15136,GAGCTAACATTATTGGCTTT,"conserved hypothetical protein, possiblehemolysis inducing protein",273,1492
+1792,ATCACAAAACAAGATACCAA,"conserved hypothetical protein, possiblehemolysis inducing protein",327,1492
+1793,TCTAGAATATCGCGTCGAAT,putative transcriptional regulator,87,1493
+2357,AAAAACGAAGAATTCTGATG,hypothetical protein,101,1494
+1794,ATTTTTTTAGGTACCCACAA,hypothetical protein,147,1494
+12265,CGGCGACAGGTACTGCATTT,putative arsenate reductase,72,1497
+14173,TTCTGCTTTGGCACGGCGAC,putative arsenate reductase,85,1497
+15137,CGTCTAATTCTGCTTTGGCA,putative arsenate reductase,92,1497
+1795,CAAATCGTCTAATTCTGCTT,putative arsenate reductase,97,1497
+2358,CTTATTAGACTAGCTGCAGG,putative arsenate reductase,156,1497
+11337,TTCCTTATTAGACTAGCTGC,putative arsenate reductase,159,1497
+12266,TTACGGCAACGACTTCATTG,putative acetyltransferase,29,1500
+13210,CATTACGGCAACGACTTCAT,putative acetyltransferase,31,1500
+14174,AGAACTGAGGACTGCCATTA,putative acetyltransferase,46,1500
+15138,AAAATTGCTTGGCAGAACTG,putative acetyltransferase,59,1500
+1796,TGATTCTGCTAAAAATTGCT,putative acetyltransferase,70,1500
+2359,CAAAGACATCGTCTTCGTTG,putative acetyltransferase,125,1500
+11338,ATCAAAGACATCGTCTTCGT,putative acetyltransferase,127,1500
+2360,GGTGATTCGATTGAGGTCAC,hypothetical protein,15,1501
+11339,CATTATTGGTGATTCGATTG,hypothetical protein,22,1501
+12267,ATCATTAATAGCTATTGTTC,hypothetical protein,33,1501
+13211,ATAGGCATGCCAACAGCACA,hypothetical protein,61,1501
+1797,AACGAAACGCGTTTGTTCAT,hypothetical protein,79,1501
+13212,GTCGTCTTTCCGGCTCCATC,putative thymidylate kinase,84,1509
+1798,CTCTAAAACTGTCGTCTTTC,putative thymidylate kinase,94,1509
+2361,GCAACAAGTTTTTTTAATTG,putative thymidylate kinase,126,1509
+11340,TCTGCAATAGCAACACCACC,putative thymidylate kinase,174,1509
+12268,AGATTGCCTTTTTTCAACTC,putative thymidylate kinase,306,1509
+2362,TTCGCTAAAAAAGCTAAGGA,"putative branched chain amino acid ABCtransporter, ATP-binding protein",10,1512
+11341,ACTTTTCGCTAAAAAAGCTA,"putative branched chain amino acid ABCtransporter, ATP-binding protein",14,1512
+12269,GTAGTCTTACCTGCCCCATT,"putative branched chain amino acid ABCtransporter, ATP-binding protein",159,1512
+13213,AGTTCCACACTTCCTTCACT,"putative branched chain amino acid ABCtransporter, ATP-binding protein",213,1512
+14175,CCTAAAGAAGCAATCTTATA,"putative branched chain amino acid ABCtransporter, ATP-binding protein",264,1512
+15139,TCTTAAAGAGGCGAATATTT,"putative branched chain amino acid ABCtransporter, ATP-binding protein",302,1512
+16112,TAACGGTCATATTCTTAAAG,"putative branched chain amino acid ABCtransporter, ATP-binding protein",314,1512
+1799,GACTAAAACATTTTCGATAA,"putative branched chain amino acid ABCtransporter, ATP-binding protein",331,1512
+1837,AGAAAACTCGAAAAGAGATG,"putative branched chain amino acid ABCtransporter, ATP-binding protein",375,1512
+1800,TTGCCATATCCTTTTTTGTG,conserved hypothetical protein,3,1516
+12270,AGGATATGGCAATAATATTA,conserved hypothetical protein,15,1516
+13214,CACCTCACAAAAAAGGATA,conserved hypothetical protein,29,1516
+2363,GCCATACTTATTAAGCTTTC,conserved hypothetical protein,109,1516
+11342,AATAACGCATTCGCCGAGAA,conserved hypothetical protein,143,1516
+1801,AAAGAGGTAATAAACAAAG,conserved hypothetical protein,29,1517
+366,TATCCAGTGTCAAACCATCA,conserved hypothetical protein,269,1530
+11343,GATCTTGATAAATAGATGAC,conserved hypothetical protein,311,1530
+1802,CAAATAGGTCTCAAAAGTTA,conserved hypothetical protein,340,1530
+1838,TTAAAATAAGCGCAAAAGGA,putative permease,4,1538
+2364,AGAAAACCTCCCAATAAAAA,putative permease,180,1538
+13215,GGTAATAGAAAAAACCAGCA,putative permease,298,1538
+14176,AATCAAATTGGGAATCAGAC,putative permease,319,1538
+15140,GTTAGCTGATTAATCAAATT,putative permease,330,1538
+16113,ACCCACATAAATATTTTGGC,putative permease,367,1538
+17100,GCAAACCCACATAAATATTT,putative permease,371,1538
+14177,ATAACAAGTAAGCAACAAAG,"putative ABC transporter, ATP-binding protein;possible molybdenum transport system",7,1539
+13216,TTTTAAGGTCACATTTTTCA,"putative ABC transporter, ATP-binding protein;possible molybdenum transport system",64,1539
+1803,GATTTTGCCCTGTTTTTTTA,"putative ABC transporter, ATP-binding protein;possible molybdenum transport system",79,1539
+11344,CCGATTTTAGTCCGCATATT,"putative ABC transporter, ATP-binding protein;possible molybdenum transport system",267,1539
+12271,TTTCAGCCAACATATTTGCA,"putative ABC transporter, ATP-binding protein;possible molybdenum transport system",320,1539
+13217,ATTCGCCCACTAAAGAAAAG,conserved hypothetical protein,62,1543
+1804,AACAGGTAAATGTAAACTAT,conserved hypothetical protein,91,1543
+2365,CCAATAATGCTTCCTGGAAC,conserved hypothetical protein,108,1543
+11345,AAAAGTCCAATAATGCTTCC,conserved hypothetical protein,114,1543
+12272,CTGCATTGATATGACGCAAA,conserved hypothetical protein,170,1543
+2366,ATTCTTTAAAATAGGTTGAG,putative phosphatase,18,1544
+367,TCGCATAGCGCTCTGAATAT,putative phosphatase,160,1544
+1805,AAAAAACAAGTTTCTACTGA,putative phosphatase,192,1544
+15141,TCTATTAGCAGGGCTGAAAC,conserved hypothetical protein,60,1546
+16114,AATTAAGTATTCTATTAGCA,conserved hypothetical protein,70,1546
+11346,TTGACTGATATCGTAACCGT,conserved hypothetical protein,118,1546
+12273,TAAAGTGGATTCTTTGATAC,conserved hypothetical protein,157,1546
+1806,TTAAACAAGGCTATAAAAGG,conserved hypothetical protein,9,1548
+2367,TGTTAAACAAGGCTATAAAA,conserved hypothetical protein,11,1548
+13218,AGTCAATGGATTGTTAAACA,conserved hypothetical protein,22,1548
+11347,TCAAATTGGACTTCTTTCTT,conserved hypothetical protein,177,1548
+12274,GCGATTGAATATTGTCAAAT,conserved hypothetical protein,191,1548
+16115,TCTTTTAGCTGAACATTCTT,conserved hypothetical protein,438,1548
+1807,AAAAAAAGAACCACGGAACC,putative rRNA methylase,3,1549
+2368,ACTTTACAAAAAAAGAACCA,putative rRNA methylase,10,1549
+11348,CCTGTATTTGCAGGAATTTG,putative rRNA methylase,123,1549
+12275,GCAATGTTTCCTGTATTTGC,putative rRNA methylase,132,1549
+13219,AGAGGTGTTAGTAGCCGCAC,putative rRNA methylase,160,1549
+14178,TGGACGAATAATATGAAGAG,putative rRNA methylase,178,1549
+15142,TTCATCTTTTTATCATCAAT,putative rRNA methylase,210,1549
+1808,TTCTTCTGCTTTTCGACGAC,"putative pseudouridylate synthase B, largesubunit",88,1553
+11349,ACACTAGAAATCACTCCGCG,"putative pseudouridylate synthase B, largesubunit",249,1553
+12276,TAGATACGCTCCTTAACCTC,"putative pseudouridylate synthase B, largesubunit",312,1553
+13220,TCCCAATCTAAACGACCAAC,"putative pseudouridylate synthase B, largesubunit",336,1553
+14179,ATCTGTAAAATCACCATCAT,"putative pseudouridylate synthase B, largesubunit",382,1553
+17101,ATTCAATGTTAAGGATTTAC,hypothetical protein,79,1556
+1809,TTTTTGCGAATTCAATGTTA,hypothetical protein,88,1556
+2369,CACTTCCTCTCCAATAATTT,hypothetical protein,139,1556
+11350,TCATACAATTTAAGCTTATT,hypothetical protein,165,1556
+12277,CCAATACTTCATTTTCATAA,hypothetical protein,260,1556
+13221,TGATAAGCAGGCGTCAAAAG,hypothetical protein,318,1556
+14180,AAATCCACTTCCTGATAAGC,hypothetical protein,330,1556
+15143,CCCTATTTTCCGGTAGAGAA,hypothetical protein,355,1556
+16116,CCTTAGAATCCCCTATTTTC,hypothetical protein,365,1556
+12278,GCTCTATACAGCACTTTCAC,conserved hypothetical protein,11,1557
+13222,AAAGTGCTGTATAGAGCTTG,conserved hypothetical protein,12,1557
+1839,GTGAGGGCATCTTTCAAAAG,conserved hypothetical protein,84,1557
+2370,TAATTCCTCAGCCGGAGTGA,conserved hypothetical protein,100,1557
+11351,AAAATAGCTAATTCCTCAGC,conserved hypothetical protein,108,1557
+14181,TTTTATCCTTAGTCAGAACA,conserved hypothetical protein,194,1557
+1840,TCCCACAAGTCCTGCAAGTA,conserved hypothetical protein,88,1561
+2371,ATAGCAACATAGTAAACCCA,putative integral membrane protein,213,1563
+11352,AAAAACAATGGTAAAGCTGT,putative integral membrane protein,291,1563
+12279,GCTGAATAAACCAAAAACAA,putative integral membrane protein,303,1563
+13223,GGCTTGTAAAACCGTTGTTT,putative integral membrane protein,367,1563
+16117,GATATGATATAATAATGGCG,conserved hypothetical protein,9,1564
+15144,ATCTTGTTCATACTTCTTCA,conserved hypothetical protein,49,1564
+1841,AACCGCGGATGGTCAATTAA,conserved hypothetical protein,96,1564
+2372,CCAATTTTTGAAACCGCGGA,conserved hypothetical protein,107,1564
+11353,CCTTCCAATTTTTGAAACCG,conserved hypothetical protein,111,1564
+12280,AATGTTCTGAGCGCGTAGAA,conserved hypothetical protein,149,1564
+13224,ACTAGTATAGCTTACATTAA,conserved hypothetical protein,172,1564
+14182,CTCGCCAATCATAATAAAAT,conserved hypothetical protein,260,1564
+1842,TATTTCTAAAGCGAGATTAT,putative acylphosphatase,112,1566
+1843,TATTTAGACATGAAGAGGCT,putative transcription elongation factor GreA,7,1568
+2373,TAAGTTATTTAGACATGAAG,putative transcription elongation factor GreA,12,1568
+12281,TCTTTTTCTGCAAGAGTCAT,putative transcription elongation factor GreA,69,1568
+11354,TTAATACGTTCAATCACTTC,putative transcription elongation factor GreA,135,1568
+12282,AAAGACTTTTTTTCTAAAGG,putative acetyltransferase,9,1570
+2374,AAGTAACGACTGTTGATAAC,putative acetyltransferase,228,1570
+11355,CTTGATTGGGTTTAACCTTA,putative acetyltransferase,266,1570
+2375,CAGCAGGAACGGGGACTGTT,putative biotin carboxyl carrier protein ofacetyl-CoA carboxylase,152,1578
+11356,CTGAATTAGCAGCAGGAACG,putative biotin carboxyl carrier protein ofacetyl-CoA carboxylase,161,1578
+12283,AACTGAATTAGCAGCAGGAA,putative biotin carboxyl carrier protein ofacetyl-CoA carboxylase,163,1578
+13225,GTCGAAACTGAATTAGCAGC,putative biotin carboxyl carrier protein ofacetyl-CoA carboxylase,168,1578
+1844,TCTTCATTTTTAGAGATAGC,putative biotin carboxyl carrier protein ofacetyl-CoA carboxylase,219,1578
+1845,CTTTCTTAGATAACTAGAAG,putative 3-oxoacyl-acyl-carrier-proteinreductase / 3-ketoacyl-acyl carrier protein reductase,9,1580
+2376,AATCTTTAAATTCAGCTACT,putative 3-oxoacyl-acyl-carrier-proteinreductase / 3-ketoacyl-acyl carrier protein reductase,179,1580
+2377,TGCTGGTGGTATATGTTTGA,putative phosphatase,154,1587
+11357,CCCCCAATAAAGAATGCTGG,putative phosphatase,168,1587
+12284,TTCCCCCCAATAAAGAATGC,putative phosphatase,171,1587
+14183,ATCAAATTTTGGTAAGGCAG,putative phosphatase,291,1587
+15145,GGAAAAATCAAATTTTGGTA,putative phosphatase,297,1587
+16118,CATCGGGAAAAATCAAATTT,putative phosphatase,302,1587
+1846,TCTAAAATGACTTTAACATC,putative phosphatase,318,1587
+1847,CTTTTGAAAGCCCAAAGTAT,hypothetical protein,77,1589
+2378,GCTTTTTGGTATAATAAAAG,hypothetical protein,17,1590
+11358,AGGTTGGGTTTGCTTTT,hypothetical protein,31,1590
+1848,AATGTTGTATGTTGCTTTCA,hypothetical protein,88,1590
+2379,TTATCCACCATTCTTAATCT,conserved hypothetical protein,10,1591
+11359,TGCTCCTAGATTAAGAATGG,conserved hypothetical protein,23,1591
+1849,ATTTGCTCCTAGATTAAGAA,conserved hypothetical protein,26,1591
+2380,ATAACTAAAAGAGAACAGCG,hypothetical protein,10,1601
+11360,AGGACGCAGCTCTTTTAAAT,hypothetical protein,190,1601
+13226,CTCATAGCTAGCAAAATAGC,hypothetical protein,244,1601
+14184,TCTGCTCTCCAATAAAATCT,hypothetical protein,310,1601
+1850,TCGAAAATAGCAGAAATAGT,hypothetical protein,489,1601
+2381,ATCAGGCATTTTCATACTCA,hypothetical protein,43,1602
+1851,AATATTAATGTCGTTAGACA,hypothetical protein,94,1602
+2382,GTAGTGAACGTAAAGAGGAA,hypothetical protein,11,1603
+1852,TTTCCTCTTTACGTTCACTA,hypothetical protein,16,1603
+11361,TTACCGTAGTGAACGTAAAG,hypothetical protein,16,1603
+368,CAATTTCTTTTGAGACACTA,hypothetical protein,101,1603
+2383,AAGGACTTCAAAAGCTTCTG,hypothetical protein,120,1604
+11362,CTGATCTGGTTCAAATTTCA,hypothetical protein,139,1604
+12285,TTAATCGTAAACTCCTGATC,hypothetical protein,153,1604
+2384,ATTCCCATATAATATTGAGA,hypothetical protein,2,1606
+1853,TCCATCTCAATATTATAT,hypothetical protein,30,1606
+2385,TAAACTACTGACTCTGGTCT,hypothetical protein,72,1607
+1854,TCAAAATAAACTACTGACTC,hypothetical protein,78,1607
+13227,AGGCAATCACTGTACGGACT,hypothetical protein,4,1608
+2386,GTTGCAAGGCAATCACTGTA,hypothetical protein,10,1608
+11363,TTACTGGGAAAAAGGTTGCA,hypothetical protein,24,1608
+1855,CAGTTACAGAATTTTTTACA,conserved hypothetical protein,6,1609
+2387,ATTCATGGCCATTTCGTTAA,conserved hypothetical protein,112,1609
+11364,GATTTTACGACTAGCATTCA,conserved hypothetical protein,127,1609
+1856,TATTGGAAAACTTACTCAAA,hypothetical protein,25,1610
+2388,GAACTATAAAGAAAAAGGTG,conserved hypothetical protein,8,1611
+2389,TTTCCACCTTCAAGATAGGT,"putative ribonucleotide reductase protein, Nrd",234,1612
+11365,ACCATTTCCACCTTCAAGAT,"putative ribonucleotide reductase protein, Nrd",238,1612
+2390,GCTGAGCATAAAATGGACAA,conserved hypothetical protein,136,1614
+11366,TATTCTTGCTGAGCATAAAA,conserved hypothetical protein,143,1614
+12286,TTGATTTCTTCTAGTTGCTC,conserved hypothetical protein,177,1614
+14185,ACCATAAGAAAATTGGGCAA,conserved hypothetical protein,202,1614
+15146,GTTTTTACCATAAGAAAATT,conserved hypothetical protein,208,1614
+16119,AAGAAAGATAATACAGAGCA,conserved hypothetical protein,230,1614
+1857,CCACTTTTCCTCTTTTAATT,conserved hypothetical protein,334,1614
+1858,GTGCTTTCTTTTTTATAGAA,conserved hypothetical protein,14,1616
+2391,AAAACATCAATCAATTCGGG,conserved hypothetical protein,108,1616
+11367,CAAAAAACATCAATCAATTC,conserved hypothetical protein,111,1616
+1859,GGAACGCTGCATCAAAAAAA,putative secreted protein,94,1621
+2392,CTCTTGAGCTTGTTTCTTTT,putative secreted protein,115,1621
+11368,AACAGCGTACATACCGCCAA,putative secreted protein,184,1621
+2393,GGAGCAAAACGCTGACAGTA,"putative bacterocin transport accessory protein,Bta",165,1622
+1860,GCAGCAACCTGACTCAACTT,"putative bacterocin transport accessory protein,Bta",186,1622
+2394,AGATGCCCTTTCGGCTTTTT,hypothetical protein,11,1626
+11369,CTGTTGCATAGATGCCCTTT,hypothetical protein,20,1626
+12287,AATAGCCCAAAAAGCCGAAA,hypothetical protein,23,1626
+13228,TAAAAATGTGGGCTCCACAA,hypothetical protein,64,1626
+14186,GCCAGCACAGCTAAAAATGT,hypothetical protein,75,1626
+1861,ATTGTTGACTTGACCAGACA,hypothetical protein,97,1626
+2395,TTAGCAGGGATAGCCCCTGT,hypothetical protein,2,1627
+369,TGTTAAGGCTGGGATTAGCA,hypothetical protein,16,1627
+11370,TTATTATTTGTGTTAAGGCT,hypothetical protein,26,1627
+13229,CAGCAAAATCATGCCAACAG,hypothetical protein,40,1627
+14187,TTCAGCAAAATCATGCCAAC,hypothetical protein,42,1627
+1862,GAACAAACCTGCTGCCTGCA,hypothetical protein,67,1627
+48,CGATGAAACAAAACCTAGCA,hypothetical protein,136,1627
+1863,TTATGTGGACTATTTAAGAG,conserved hypothetical protein,6,1629
+2396,AGAAACTTATAATGCTTATG,conserved hypothetical protein,21,1629
+370,AATAACAAAGTAATCTGTCA,conserved hypothetical protein,145,1629
+15147,AAAAATGATTGTGATAATGG,putative nicotinate mononucleotideadenylyltransferase,5,1631
+16120,TCCAACTCCACCTTAGTAAA,putative nicotinate mononucleotideadenylyltransferase,72,1631
+2397,AACAGATGAGCATTGTGAAC,putative nicotinate mononucleotideadenylyltransferase,153,1631
+11371,CCTCATCCAAGCCCAATTGC,putative nicotinate mononucleotideadenylyltransferase,194,1631
+12288,ACGTGTGGTGGTTTGTATTC,putative nicotinate mononucleotideadenylyltransferase,228,1631
+13230,GCCTTCTTATCAACGTGTGG,putative nicotinate mononucleotideadenylyltransferase,240,1631
+14188,GTTGCCTTCTTATCAACGTG,putative nicotinate mononucleotideadenylyltransferase,243,1631
+13231,TCCTTTTTGTTAAAATGGCA,conserved hypothetical protein,19,1632
+1864,ATGTGCCTCCGATTTTAAAA,conserved hypothetical protein,73,1632
+2398,TTTTTCCCAATCTGCACAAT,conserved hypothetical protein,105,1632
+11372,TTCTAACGCTGGTTTTGATT,conserved hypothetical protein,140,1632
+12289,ATCAAGAGCGTTTCTAACGC,conserved hypothetical protein,151,1632
+1865,TTGGTATTGCTGGTGTT,hypothetical protein,31,1635
+2399,ATTGCTTTCTTTTGCGAGTA,hypothetical protein,297,1635
+1866,TATTTTCACCTATTTGGAAA,putative integrase fragment,6,1640
+2400,ATAGGTGAAAATAATCCTGA,putative integrase fragment,13,1640
+11373,CATGCTAGCATGATTCCATC,putative integrase fragment,31,1640
+1867,TATTCTTCTTGATAAAGAGG,putative transposase fragment,9,1645
+2401,CCCTATTCTTCTTGATAAAG,putative transposase fragment,12,1645
+11374,CCTCTTTATCAAGAAGAATA,putative transposase fragment,17,1645
+12290,GGACTTCCGCAGTAAGTCAT,putative transposase fragment,54,1645
+13232,ACTGCTAAGTCTGTTCTCCT,putative transposase fragment,75,1645
+14189,TCGATAGGGTTCCCCAAGAC,putative maturase-related protein,4,1649
+2402,CCCTATCGAAGAACTTTTCT,putative maturase-related protein,11,1649
+11375,CCTAGAAAAGTTCTTCGATA,putative maturase-related protein,18,1649
+12291,AGAGACATCAACCTGTCTTG,putative maturase-related protein,36,1649
+13233,CAAGAGACATCAACCTGTCT,putative maturase-related protein,38,1649
+15148,AGGACTCTGTATCGCCATCT,putative maturase-related protein,74,1649
+1868,GTAGAGATAGCTACGAATGA,putative maturase-related protein,94,1649
+2403,GATGGTTAGTTCAACTTAAG,hypothetical protein,15,1650
+11376,ATCCAGCGATACAAACTATT,hypothetical protein,42,1650
+1869,GAAGAGCGCTCCCTTGTCCT,hypothetical protein,98,1650
+2404,CACATGGCGAACTTCTTCTT,putative glutamyl-tRNA (Gln) amidotransferasesubunit C,61,1653
+11377,ACTTAGAAAGGTTAGCCACA,putative glutamyl-tRNA (Gln) amidotransferasesubunit C,77,1653
+15149,TATAATAAAAGAGGAGATGG,conserved hypothetical protein,9,1659
+2405,CAATATAATAAAAGAGGAGA,conserved hypothetical protein,12,1659
+11378,GGGTTACAATATAATAAAAG,conserved hypothetical protein,18,1659
+12292,AACTAGGATATTTTTATAGC,conserved hypothetical protein,55,1659
+13234,AGGAGCCATCAATGGCAACT,conserved hypothetical protein,71,1659
+14190,TGATTCGTAGGAGCCATCAA,conserved hypothetical protein,79,1659
+1870,AAAGGCAAGCTCTGATTCGT,conserved hypothetical protein,91,1659
+371,GACACTGACACCCTTTTCAA,conserved hypothetical protein,109,1659
+2406,AGTATCTTTCTAAAAGAGGC,putative acyl carrier protein synthase; AcpS,28,1665
+1871,ACAGCAAAGAGGTTGGGGA,putative acyl carrier protein synthase; AcpS,29,1665
+1872,AGGTTTTTCATATCAGGTTT,putative transcription termination factor,8,1674
+2407,TATGAAAAACCTATTTGATG,putative transcription termination factor,10,1674
+11379,TCAAATAGGTTTTTCATATC,putative transcription termination factor,14,1674
+13235,CAAGAAAATCCTCATCAAAT,putative transcription termination factor,28,1674
+12293,ATTAAAGTCAGTAAGAAGAG,putative transcription termination factor,198,1674
+12294,CATCCAAAACTGTTTTCCTT,conserved hypothetical protein,4,1675
+11380,GTGCCTAAGGAAAACAGTTT,conserved hypothetical protein,28,1675
+13236,AATCACTTCAAGTACACGTG,conserved hypothetical protein,85,1675
+1873,GTAATCACTTCAAGTACACG,conserved hypothetical protein,87,1675
+372,CTGTCAGTTTTAACAGTAAG,hypothetical protein,156,1677
+11381,AGTAAATCAATAATAGCAAG,hypothetical protein,306,1677
+1874,TTGTTCCATAGTAAAACTGA,hypothetical protein,339,1677
+1875,AAGTGAATCTCCATAACACC,conserved hypothetical protein,87,1683
+373,ACCTCTACTGACTGATGTTT,conserved hypothetical protein,114,1683
+1876,TATACTAATAGTGAAAAGGA,conserved hypothetical protein,8,1685
+2408,CAACTATACTAATAGTGAAA,conserved hypothetical protein,12,1685
+11382,CCACAAAACGTGTCAAGATA,conserved hypothetical protein,143,1685
+12295,TTATGATAAGCAGCTACTTG,conserved hypothetical protein,300,1685
+13237,CATGGTAACTCCCAAGGCTA,conserved hypothetical protein,334,1685
+14191,CCAAAGCATGGTAACTCCCA,conserved hypothetical protein,340,1685
+15150,TTTTTGATAAAGCCAAAGCA,conserved hypothetical protein,352,1685
+1877,CGATATAATCAACTTTTTTA,30S ribosomal protein S18,83,1686
+14192,TGACCCCAAGTCCTAGCAAG,30S ribosomal protein S6,4,1688
+15151,AATGACCCCAAGTCCTAGCA,30S ribosomal protein S6,6,1688
+1878,GGGGTCATTAGACCAAAAGG,30S ribosomal protein S6,9,1688
+2409,CTTGGGGTCATTAGACCAAA,30S ribosomal protein S6,12,1688
+11383,TTACCCCTTGCTAGGACTTG,30S ribosomal protein S6,28,1688
+12296,TTACCCCTTGCTAGGACT,30S ribosomal protein S6,30,1688
+13238,CCATTGAATTTTCCTCCTTT,30S ribosomal protein S6,32,1688
+16121,TTCGCTTCTTCTTCAATGTT,30S ribosomal protein S6,84,1688
+1879,GAAAAAATACCAAGTACAAG,hypothetical protein,81,1689
+11384,AGAATTAAACCAACAATCGC,hypothetical protein,123,1689
+2410,TAGGCTTATCAAAATGATGA,putative thioredoxin,12,1693
+11385,ATTGGCGCCTGCATAAGACA,putative thioredoxin,138,1693
+12297,TCTGAAAGCTGTTCCAAAAT,putative thioredoxin,156,1693
+2411,ACGCTATAATAAATTTGAGG,conserved hypothetical protein,5,1696
+1880,CGAAAATGATGACCAAGAAA,putative signal peptidase I,77,1698
+2412,GAAACCAGATAAAGAGACGC,putative signal peptidase I,110,1698
+11386,GAATGTCCATCTACTTGGAC,putative signal peptidase I,132,1698
+12298,CCATTGAATGTCCATCTACT,putative signal peptidase I,137,1698
+13239,TGCTCCCCATTGGCTAAGGT,putative signal peptidase I,162,1698
+14193,GAGATGCTCCCCATTGGCTA,putative signal peptidase I,166,1698
+15152,GACAATGAGATGCTCCCCAT,putative signal peptidase I,172,1698
+17102,CATATCATTTTCATAGGTAA,putative signal peptidase I,289,1698
+1881,AGAAAGCATATCATTTTCAT,putative signal peptidase I,295,1698
+14194,TAACATAAGCTTATTTTTGG,conserved hypothetical protein,6,1700
+15153,AGTGCTGCTTTTAAAAGCTC,conserved hypothetical protein,73,1700
+2413,TCCCCAAAGCCCCAAGACAA,conserved hypothetical protein,124,1700
+11387,ATTTTTCATTGCTTGTTGTA,conserved hypothetical protein,163,1700
+12299,CAGCTAGTTGTTTTGCTGTT,conserved hypothetical protein,206,1700
+13240,ATAGTAATCGAGATAGATAA,conserved hypothetical protein,249,1700
+11388,TAATACTAGACCAAGGAATT,conserved hypothetical protein,191,1706
+1882,ATTTCAATAATACTAGACCA,conserved hypothetical protein,198,1706
+2414,TTGAAGCTGGAAATATTCTG,hypothetical protein; possible transposasefragment,3,1709
+374,TTTCTTTGGCATTTTGAAGC,hypothetical protein; possible transposasefragment,16,1709
+11389,TGGTCAATACTTTTAAAGGT,hypothetical protein; possible transposasefragment,57,1709
+12300,TAGCTGGTCAATACTTTTAA,hypothetical protein; possible transposasefragment,61,1709
+1883,CTGTAATAGCTGATTTTAGC,hypothetical protein; possible transposasefragment,77,1709
+2415,TTTTCTGTCTTAAAAACGGC,hypothetical protein,93,1711
+1884,AAAGTTTTCTGTCTTAAAAA,hypothetical protein,97,1711
+1885,CTATGTTCTCACTTCCTCCT,hypothetical protein,116,1712
+2416,TCTTGTCTGCCATCTGCAGC,"putative ABC transporter, ATP-binding andpermease protein (fragment)",25,1719
+1886,ATCCATAACAATAACTCTAT,"putative ABC transporter, ATP-binding andpermease protein (fragment)",73,1719
+16122,CAGCGCTTTTAAATAAATTT,conserved hypothetical protein,56,1720
+1887,CAAAATTATGATAGCGTCTT,conserved hypothetical protein,86,1720
+2417,AATACAAGTAAACAAACCAA,conserved hypothetical protein,126,1720
+12301,GAGAACATCCCTTTTTTTAA,conserved hypothetical protein,289,1720
+13241,TTGCTGCTGGATTAACATAT,conserved hypothetical protein,314,1720
+14195,CCCTGTCTTGTATTTGCTGC,conserved hypothetical protein,327,1720
+15154,CTTGCTTGTTTTGCTGAGAT,conserved hypothetical protein,491,1720
+1888,TATAATAGCTTTATAGAAGG,hypothetical protein,7,1721
+11390,GGGTATAATAGCTTTATAGA,hypothetical protein,10,1721
+2418,AAGCAGATCTTGTATGAGTC,hypothetical protein,17,1722
+11391,CAGCCTAGAAAAAAGGCAAG,hypothetical protein,93,1722
+1889,ACCAGCCTAGAAAAAAGGCA,hypothetical protein,95,1722
+375,CAATAACCAGCCTAGAAAAA,hypothetical protein,100,1722
+2419,GCTTTATGTAAATAATTAAG,putative bacteriocin secretion protein,9,1724
+1890,CCCCCACCTTCAATAGCTGA,hypothetical protein,99,1725
+1891,ATTTGGCATTTTTACCGTTT,hypothetical protein,86,1726
+11392,AATATGATTATCAAGGCAAA,hypothetical protein,72,1727
+1892,TATGTATGTTACAGATAGAA,hypothetical protein,8,1728
+11393,AATAAAGACAGTATTCCAAG,hypothetical protein,180,1728
+12302,TATAGGCAAGATAAGCTACT,hypothetical protein,209,1728
+2420,TGTACAGGATATACTTGTAG,hypothetical protein,2,1729
+11394,CTTGTACAGGATATACTTGT,hypothetical protein,4,1729
+376,TATTCTATTTCTTCTTGTAC,hypothetical protein,17,1729
+2421,ATAAAAGGAAAAGACTCTTC,hypothetical protein,7,1730
+11395,AAGCAAATCTGAACAAGCAG,"putative immunity protein, BLpL-like",159,1731
+1893,CAAAGCAAATCTGAACAAGC,"putative immunity protein, BLpL-like",161,1731
+2422,CCCATTTTTAGTTTTTTGTC,hypothetical protein,11,1732
+377,AAAAACTAAAAATGGGGAAG,hypothetical protein,11,1732
+12303,CAAAAAACTAAAAATGGGGA,hypothetical protein,13,1732
+13242,CAGACAAAAAACTAAAAATG,hypothetical protein,17,1732
+1894,GCCAGACAAAAAACTAAAAA,hypothetical protein,19,1732
+11396,CTGCTGCACAATTCCATCCG,hypothetical protein,122,1732
+1895,AAATTGTTAGAGTTTTGTTG,response regulator GcrR for glucan-bindingprotein C,6,1742
+2423,CTTTTTCAAGTGCTCTTTCC,response regulator GcrR for glucan-bindingprotein C,164,1742
+11397,CTGGTAACATTAAATCAAGA,response regulator GcrR for glucan-bindingprotein C,200,1742
+12304,ACTTCATACCCGTCCATCTC,response regulator GcrR for glucan-bindingprotein C,219,1742
+13243,AGTAATTCTTCAATAGCAAA,response regulator GcrR for glucan-bindingprotein C,357,1742
+2424,AGTTGATTTTATTATTGGCA,"putative ABC transporter, ATP-binding protein",116,1745
+11398,ACCGCCTAAAATGTTGAGCA,"putative ABC transporter, ATP-binding protein",199,1745
+12305,ATACAAAACCAACATCCAAG,"putative ABC transporter, ATP-binding protein",305,1745
+13244,TTTTCAAGAGCTGTTAAATT,"putative ABC transporter, ATP-binding protein",348,1745
+1896,ACAGTAACGGTTTTAAAGAG,"putative ABC transporter, permease protein",9,1755
+12306,ACATTCAGATTTAACAGTAA,"putative ABC transporter, permease protein",22,1755
+1897,CTCATAAGCATTGGGTAAAT,"putative ABC transporter, permease protein",67,1755
+1926,AAACCAAGCTCATAAGCATT,"putative ABC transporter, permease protein",75,1755
+2425,ACGCCTCCTCCAATAACAAA,"putative ABC transporter, permease protein",156,1755
+11399,TTATTTTCAATAACACCTTC,"putative ABC transporter, permease protein",216,1755
+14196,ACAGCAATCAAAATAACAAA,"putative ABC transporter, permease protein",288,1755
+15155,TGCATCAAAAGCATGGTTAA,"putative ABC transporter, permease protein",318,1755
+16123,ATTCGTTTGCATCAAAAGCA,"putative ABC transporter, permease protein",325,1755
+17103,CGCAAAAGATAAAGGAACCA,"putative ABC transporter, permease protein",364,1755
+11400,TTCTTTATCAGAATCAGTCA,putative membrane lipoprotein,163,1758
+12307,CCGTTTTTTAAAGCTTTATT,putative membrane lipoprotein,264,1758
+15156,GTGCCTGAGAAAAGATTAAT,putative membrane lipoprotein,387,1758
+14197,AAAAAAGCCTAGATGGCTTT,putative transcription antitermination factor,4,1763
+11401,GTATTATAAAAAAGCCTAGA,putative transcription antitermination factor,11,1763
+12308,TCGACATTAACAGTCTGTGT,putative transcription antitermination factor,180,1763
+13245,TCTCGACCAAAACATAGCCT,putative transcription antitermination factor,242,1763
+2426,CTTGCATAAGGAAACACGTT,putative preprotein translocase subunit SecE,11,1764
+11402,CTAACGTGTTTCCTTATGCA,putative preprotein translocase subunit SecE,17,1764
+1898,TGCCAAGATTGTTTACGTGT,putative preprotein translocase subunit SecE,99,1764
+14198,GGAGTGCTAAAAATCTATGG,putative co-chaperonin GroES,7,1769
+2427,ATTGGAGTGCTAAAAATCTA,putative co-chaperonin GroES,10,1769
+12309,GTAATTAGCACTCAGTATAT,putative co-chaperonin GroES,28,1769
+13246,ACGACCACTCGGTCTCCTAA,putative co-chaperonin GroES,60,1769
+1899,CTTTCAATTGTACGACCACT,putative co-chaperonin GroES,71,1769
+11403,TTTCTTGACTAGCACCAGCA,putative co-chaperonin GroES,125,1769
+2428,CAGCGATTAAACCATCGCAT,"putative PTS system, mannose-specific IIBcomponent",125,1773
+11404,CTTTTGTGATTTAGCAGCAA,"putative PTS system, mannose-specific IIBcomponent",235,1773
+2429,CGCCATGGCTTACAAGCAAT,"putative PTS system, sugar-specific enzyme IIAcomponent",59,1774
+11405,AGCCCTGCGCAAAACCGCCA,"putative PTS system, sugar-specific enzyme IIAcomponent",74,1774
+2430,GTAAGAATACCTAAGAAAAA,putative response regulator,10,1776
+11406,ATATCCATCAAAACAAGGTC,putative response regulator,192,1776
+12310,TGCGGATATCCATCAAAACA,putative response regulator,197,1776
+13247,CGCCATCCATTTTAGGCATG,putative response regulator,215,1776
+14199,CATAAAACGCCATCCATTTT,putative response regulator,222,1776
+15157,GTAATTTTCCTTAACGGCCT,putative response regulator,247,1776
+16124,ATTAGGGTAATTTTCCTTAA,putative response regulator,253,1776
+2431,TTTGCGAATACTAAGATAGG,putative single-stranded DNA-binding protein,14,1779
+11407,TTTTTTGCGAATACTAAGAT,putative single-stranded DNA-binding protein,17,1779
+1900,TTTGGTGTTTTTACCATTTC,putative single-stranded DNA-binding protein,93,1779
+378,CGCGTAACAGACTTATCCTT,putative single-stranded DNA-binding protein,111,1779
+2432,ATGGTAAAAGCAATTAGGAA,conserved hypothetical protein,13,1780
+1901,TAACGATGGTAAAAGCAATT,conserved hypothetical protein,18,1780
+379,ATCCGAATTTTCTGCTTTCA,conserved hypothetical protein,118,1780
+11408,TGCTCTTTCTTAATCTGAGA,conserved hypothetical protein,168,1780
+1902,CACCCTTTCTGATTATCAGT,putative transcriptional regulator,31,1781
+2433,CAACAAAATACCGTATTCTC,putative transcriptional regulator,157,1781
+2434,AGCAGAGATTAACAGCTTTT,"putative phenylalanyl-tRNA synthetase, betasubunit",23,1782
+11409,ACCAACAACAAACTTAGCTG,"putative phenylalanyl-tRNA synthetase, betasubunit",325,1782
+18100,TGGTCAGATAAGCTATGAGG,putative thioredoxin H1,7,1783
+2435,GAATGGTCAGATAAGCTATG,putative thioredoxin H1,10,1783
+17104,GCCAATTCTTCATACGTTTT,putative thioredoxin H1,60,1783
+1903,AAGAAAAGGACAAGCTTGTC,putative thioredoxin H1,99,1783
+11410,ACCAATCTGCTGTAAAGAAA,putative thioredoxin H1,113,1783
+12311,GCTCAATTTTAGGCATGGCT,putative thioredoxin H1,158,1783
+13248,TGCCAGCTCAATTTTAGGCA,putative thioredoxin H1,163,1783
+14200,GGATTTGCCAGCTCAATTTT,putative thioredoxin H1,168,1783
+15158,ACACGAAGAAAAAGAAAGTC,putative thioredoxin H1,189,1783
+2436,CAAAGTGCCATCACAATACT,conserved hypothetical protein; possiblemembrane protein,120,1787
+1904,GAGGATGAGAATAGAGGAGA,hypothetical protein,6,1788
+2437,ATCTTTGAGGATGAGAATAG,hypothetical protein,12,1788
+12312,AGAAGATGTTTTTATCTTTG,hypothetical protein,25,1788
+11411,TAAAAGCTATGATTCCCAAT,hypothetical protein,221,1788
+2438,AAAATGACTTAAAGTCGCAA,conserved hypothetical protein,3,1791
+12313,TTTTGATATGATAATCGTGG,conserved hypothetical protein,6,1791
+380,GCTCAATTAAGGCATCATAA,conserved hypothetical protein,131,1791
+11412,CAATACTATCTGGTGTAAAT,conserved hypothetical protein,311,1791
+2439,CTTTCAAAGATGGTTTAGAA,conserved hypothetical protein,11,1792
+11413,CTAAACCATCTTTGAAAGTA,conserved hypothetical protein,13,1792
+1905,TTAGACCTTACTTTCAAAGA,conserved hypothetical protein,21,1792
+12314,TGCTATAAGATAAGCTTTAC,conserved hypothetical protein,187,1792
+2440,AGTTTATCATGATCATGAGG,conserved hypothetical protein,10,1793
+11414,TATAGTTTATCATGATCATG,conserved hypothetical protein,13,1793
+1906,CAGCAATGACAAGCAAAGCA,conserved hypothetical protein,95,1793
+2441,AGTAAGAATTAAAGTTGTGA,conserved hypothetical protein,127,1794
+1907,CTGATAAATTGGCAAAAGCA,putative competence protein ComYC,8,1796
+2442,GCCAATTTATCAGAATATGG,putative competence protein ComYC,11,1796
+11415,TTTGCCAATTTATCAGAATA,putative competence protein ComYC,14,1796
+13249,ACCTCCATATTCTGATAAAT,putative competence protein ComYC,19,1796
+11416,AAATTTCCCCTTTCAAGTTG,putative ABC transporter ComYB; probably part ofthe DNA transport machinery,303,1797
+1908,ATCCCAGCAAGAAAAGTATT,putative ABC transporter ComYB; probably part ofthe DNA transport machinery,350,1797
+1909,CAATCATCTAAAAACCACCA,putative DNA binding protein,87,1799
+11417,ATTATCAAATTCAAGAACCT,putative DNA binding protein,124,1799
+13250,GACTGTTAAAGTCGGAATAA,putative DNA binding protein,197,1799
+14201,ATCGCCATGACTGTTAAAGT,putative DNA binding protein,205,1799
+2443,GAACATTAAAACAACGCCAT,"putative ABC transporter, zinc permease protein",1,1804
+11418,TGTTCATGAAAAAGACAGAG,"putative ABC transporter, zinc permease protein",10,1804
+13251,TGCTAAAGAGACATGACTCA,"putative ABC transporter, zinc permease protein",178,1804
+1927,ACTACAAGAGTTGTCCAAGT,"putative ABC transporter, zinc permease protein",234,1804
+1928,TTTAACTAAGGAATTAGAAG,"putative ABC transporter, ATP-binding protein",8,1805
+2444,CTTTTTAACGGCTTTAACTA,"putative ABC transporter, ATP-binding protein",20,1805
+1929,TAGTTAATTCCTTCCAAAAC,"putative ABC transporter, ATP-binding protein",99,1805
+11419,AAAATAACAGAGCCAATTTT,"putative ABC transporter, ATP-binding protein",213,1805
+12315,AGCTAAACGTAATGGTTTTC,"putative ABC transporter, ATP-binding protein",253,1805
+13252,GGCAAATAAGCTAAACGTAA,"putative ABC transporter, ATP-binding protein",261,1805
+14202,TTAAAACTGGCAATTTGCTG,"putative ABC transporter, ATP-binding protein",282,1805
+15159,CGTTAAAACTGGCAATTTGC,"putative ABC transporter, ATP-binding protein",284,1805
+16125,AGGAAAACCTGCGTTAAAAC,"putative ABC transporter, ATP-binding protein",295,1805
+17105,ACAAATTCATAGACCGTACT,"putative ABC transporter, ATP-binding protein",315,1805
+18101,CTTCTAAACCAACCATTTCT,"putative ABC transporter, ATP-binding protein",354,1805
+13253,TAACTGGTTAATTAAAAGGA,putative transcriptional regulator,7,1806
+1930,TTTCAGCTTTTAAGATAATC,putative transcriptional regulator,86,1806
+11420,CAATTTAACATCACTTTGAC,putative transcriptional regulator,133,1806
+18102,TGTTTAACAGTTTTCAGGGA,putative isopentenyl monophosphate kinase,7,1807
+2445,AATGTGTTTAACAGTTTTCA,putative isopentenyl monophosphate kinase,11,1807
+1931,AGACCAAGATTGATTTTAGC,putative isopentenyl monophosphate kinase,72,1807
+12316,ACATCATTTTTTCGGTTTAA,putative isopentenyl monophosphate kinase,231,1807
+14203,TTTTGAGCCCCGTTGAGATA,putative isopentenyl monophosphate kinase,287,1807
+15160,CCGCCTAAACCAGCACATAT,putative isopentenyl monophosphate kinase,330,1807
+16126,TAAAGTTGCAGCAGCATCAC,putative isopentenyl monophosphate kinase,358,1807
+17106,CCAACATCAATTAGTTCTTT,putative isopentenyl monophosphate kinase,417,1807
+1932,CGGCTTAATTTCCATACAAT,"putative ComX1, transcriptional regulator ofcompetence-specific genes",90,1808
+2446,TGATAAATAATAATACAGGG,50S ribosomal protein L17,6,1810
+381,AGCTAGTACGTCCTAGTTTA,50S ribosomal protein L17,59,1810
+2447,AAAGCTGTAGCGATTGC,30S ribosomal protein S11,31,1812
+11421,TTGACACGACGTTTACGTGT,30S ribosomal protein S11,60,1812
+382,ATTAAATGTTGCGTGAATAT,30S ribosomal protein S11,106,1812
+1933,AAATAATCGAAATAAATGGA,50S ribosomal protein L36,9,1814
+11422,TCGCAAATTGGTTTAACAGA,50S ribosomal protein L36,63,1814
+12317,ACCTTACAATATTCGCAAAT,50S ribosomal protein L36,75,1814
+1934,TTGATGTCCTCTGAGCACAG,putative translation initiation factor IF-1,3,1815
+2448,ACATCAAATCGAAATTTAGG,putative translation initiation factor IF-1,10,1815
+12318,GGACATCAAATCGAAATTTA,putative translation initiation factor IF-1,12,1815
+11423,TCAACTGTAAACATTGCATT,putative translation initiation factor IF-1,102,1815
+2449,TCTCTGATTTGGCATAAGAA,50S ribosomal protein L30,8,1819
+383,CGGTGTTTCAGTCTCTGATT,50S ribosomal protein L30,19,1819
+11424,TGTGCAGGAATGCGACCGAT,50S ribosomal protein L30,84,1819
+1935,ACAACTGTTTTACGTTGTGC,50S ribosomal protein L30,99,1819
+16127,TTATAATTGTCAAATTGACA,50S ribosomal protein L18,9,1821
+12319,TGGCGGATTTTATTTTTATC,50S ribosomal protein L18,63,1821
+13254,CACGACGATGGCGTTTTTGG,50S ribosomal protein L18,80,1821
+14204,GAACACGACGATGGCGTTTT,50S ribosomal protein L18,83,1821
+1936,GTTTTCCGCGAACACGACGA,50S ribosomal protein L18,92,1821
+2450,AACGGAAAATGTTCAAACGT,50S ribosomal protein L18,134,1821
+11425,CGTAGATGCCTGTATTAGAA,50S ribosomal protein L18,152,1821
+2451,TGATTCAAACTACTAGTAAA,30S ribosomal protein S8,12,1823
+1937,CGAGTTAAGAAGTCTGCAAT,30S ribosomal protein S8,66,1823
+11426,CCTCTTTTGATGTTTGATGC,30S ribosomal protein S8,132,1823
+12320,TTACAAAACCCTCACACTTA,30S ribosomal protein S8,167,1823
+13255,CCTTTCGCAAAATAATAAGG,30S ribosomal protein S14,7,1824
+2452,ATGCCTTTCGCAAAATAATA,30S ribosomal protein S14,10,1824
+11427,ATTTTGCGAAAGGCATTCCA,30S ribosomal protein S14,12,1824
+12321,CCTCCTTATTATTTTGCGAA,30S ribosomal protein S14,22,1824
+1938,CTTGCGTAGAGAATTTTGCT,30S ribosomal protein S14,86,1824
+2453,CTCAGGGCGTAAGAAAGAAT,50S ribosomal protein L24,12,1826
+12322,CTATTCTTTCTTACGCCCTG,50S ribosomal protein L24,16,1826
+1939,GGTTTTGTCAGGGTGCCTCA,50S ribosomal protein L24,28,1826
+12323,ATTTAAGTTTTTCTCCTTTC,50S ribosomal protein L14,30,1827
+1940,TTTGATAGTCAGGATTTCGC,50S ribosomal protein L14,97,1827
+11428,CCTTTTTTAACCGCACCACC,50S ribosomal protein L14,192,1827
+1941,GTAAAACGTGAAGCAGAATA,50s ribosomal protein L29,8,1829
+2454,CTCGTAAAAACACTAAAGGA,50S ribosomal protein L16,10,1830
+11429,CCAGCTCGTAAAAACACTAA,50S ribosomal protein L16,14,1830
+12324,CCTTTAGTGTTTTTACGAGC,50S ribosomal protein L16,15,1830
+13256,CGACGATGTTTAACACGCTT,50S ribosomal protein L16,60,1830
+1942,CTTCACCACGCATTTTTCCA,50S ribosomal protein L16,89,1830
+2455,CTTTAAATATAGTACCACAG,30S ribosomal protein S19,14,1833
+384,CGCTGTGGTACTATATTTAA,30S ribosomal protein S19,14,1833
+11430,TAATACAGATAGGCCGCTG,30S ribosomal protein S19,29,1833
+1943,TCAAATGCTCATCAACGAAA,30S ribosomal protein S19,74,1833
+2456,CCCAGTTAAAATAAGAAGGT,putative transcriptional regulator,134,1839
+11431,ATTTCCCAGTTAAAATAAGA,putative transcriptional regulator,138,1839
+12325,TTTATTGCTTTCATTCAAAC,putative transcriptional regulator,265,1839
+1944,AATTTTTCGTAAACTCTGTA,putative transcriptional regulator,366,1839
+2457,ATCACACAACAAAGACGTAG,hypothetical protein,6,1856
+11432,AGCATAGTCGGCTGTCAGCT,hypothetical protein,64,1856
+12326,GTAGGAATGTTGAGCATAGT,hypothetical protein,76,1856
+1945,TTGCTTACGGTTAGTGTTGT,hypothetical protein,94,1856
+13257,TTACCGAGATCGCATTGGCG,hypothetical protein,62,1859
+14205,GGATTTTACCGAGATCGCAT,hypothetical protein,67,1859
+1946,ACCTAAAAAGGTTACAGTAT,hypothetical protein,88,1859
+2458,ATACAGCGGCAGACCTAAAA,hypothetical protein,100,1859
+11433,TTTAGTACAATGTCATACAG,hypothetical protein,114,1859
+1947,CGGATATCCGAGGTATTGAT,hypothetical protein,9,1860
+2459,CAGAGTATTACGGATATCCG,hypothetical protein,19,1860
+11434,TTGCTCTCCTATCAATACCT,hypothetical protein,27,1860
+12327,TGGAAGAAACAGAGTATTA,hypothetical protein,29,1860
+1948,AGAAGAAAAAGATTTTAGGT,conserved hypothetical protein,7,1861
+12328,CACTGACAAAAAACCATACT,conserved hypothetical protein,55,1861
+11435,CACCTCGCCCTTGTCATCAA,conserved hypothetical protein,196,1861
+11021,TATAATGATAATTACTAGGA,hypothetical protein,5,1868
+2460,TATCAATCTTGGAATGCGAT,hypothetical protein,113,1868
+11436,GATTTTATCCGTATCAATCT,hypothetical protein,124,1868
+12329,GTTCCTTAGCGATTTTTTCT,hypothetical protein,146,1868
+13258,TTCTGTTTTTGCGTTGCTTG,hypothetical protein,202,1868
+14206,ATCAGAGTTTTGGGCTTCAG,hypothetical protein,229,1868
+15161,TTTAGATGAATCAGAGTTTT,hypothetical protein,238,1868
+16128,TTAGCATGGTTAGCGTCTTT,hypothetical protein,276,1868
+17107,AAATTTTGTCTGTCTTAGCA,hypothetical protein,290,1868
+18103,TTCATTGGAGTAGTAAACTT,hypothetical protein,328,1868
+1949,TTCAAAACCATCGTTTTCAT,hypothetical protein,343,1868
+1950,TCTCACTTTCGTTTTTCAGA,conserved hypothetical protein,8,1878
+2461,ATCTAATTGATATTTTCCCA,conserved hypothetical protein,49,1878
+15162,ACTTTTAATAGGACATTTCA,conserved hypothetical protein,4,1880
+2462,AACTCACTTTAACTGCGTTT,conserved hypothetical protein,131,1880
+11437,AAAATCAGTAAAAAAGGGCA,conserved hypothetical protein,211,1880
+12330,TTGCCAAAATCAGTAAAAAA,conserved hypothetical protein,216,1880
+13259,GTTGAAAAAATATCACTATA,conserved hypothetical protein,294,1880
+14207,AAAAGTAAAAACTAGCAAAC,conserved hypothetical protein,389,1880
+16129,AAAGGCATAGCAAATTGAAC,conserved hypothetical protein,528,1880
+17108,CAAAGGGACAAGAACACAAA,conserved hypothetical protein,546,1880
+18104,TGTCAAACCTGCAAAATATT,conserved hypothetical protein,577,1880
+1951,AGCCAAAAGAAAAGAGTCCG,conserved hypothetical protein,657,1880
+1952,AGCCCAAAATATAAAATACT,conserved hypothetical protein,773,1880
+2463,TATTAGAATGTTCAAACAGG,conserved hypothetical protein,6,1882
+1953,ACTTATTAGAATGTTCAAAC,conserved hypothetical protein,9,1882
+13260,TTAGTATATAGAATTTTGTG,conserved hypothetical protein,6,1885
+15163,CGTGTATAGATTTGGAGTAA,conserved hypothetical protein,90,1885
+1954,CAATATGACGTGTATAGATT,conserved hypothetical protein,98,1885
+11438,TTGTAACCATAAACGATATT,conserved hypothetical protein,162,1885
+12331,TACGAATCACTTTTTCTAGT,conserved hypothetical protein,206,1885
+11439,ACTATTTGGGAAAAAGAAGA,hypothetical protein,127,1886
+12332,ACAAAACTTGGGACACCAAG,hypothetical protein,153,1886
+13261,AAAAAAGTTGAACAAAACTT,hypothetical protein,164,1886
+14208,GAAGAGCAAAAATGAAAAGT,hypothetical protein,212,1886
+1955,AGTTTAAAATACAGCCAAAA,hypothetical protein,93,1887
+12333,AGACCAAACAAATAAGCAAT,hypothetical protein,189,1887
+1956,TTAAATCTCTCTTTCCTTAC,conserved hypothetical protein,26,1888
+2464,CTAAGTTTTGTTCTTTATAA,conserved hypothetical protein,125,1888
+12334,TTCCATTTTCTGTTTTTGAA,conserved hypothetical protein,185,1888
+13262,CTTAGCATAGCGGTTTTTAG,conserved hypothetical protein,223,1888
+1957,CTATACTATTATGCAATAAA,putative Holliday junction DNA helicase RuvA,8,1892
+12335,GGGCATCTTCACGGACAACA,putative Holliday junction DNA helicase RuvA,197,1892
+13263,AAAGAAGATGGGCATCTTCA,putative Holliday junction DNA helicase RuvA,206,1892
+14209,ATGAAAACCATAAAGAAGAT,putative Holliday junction DNA helicase RuvA,217,1892
+15164,ATAATAGCTAATGCTGAAGT,putative Holliday junction DNA helicase RuvA,294,1892
+1958,TCACAAAAGAGAAGACTAAG,conserved hypothetical protein,69,1894
+11440,AAAATAGTCGAACCATTTTC,putative transcriptional regulator of argininemetabolism,243,1897
+2465,TAAGCTTGATAACAACGATA,conserved hypothetical protein,12,1898
+1959,CCTCTAAATTTCGCAACATT,conserved hypothetical protein,74,1898
+11441,AACGTGTCGCTGCCATTAAT,conserved hypothetical protein,128,1898
+1960,ACAATACCAATTTTAGCTTG,hypothetical protein,57,1899
+2466,AAGCCCTTTATATCTTACGG,50S ribosomal protein L32,10,1907
+11442,AAAAAGCCCTTTATATCTTA,50S ribosomal protein L32,13,1907
+12336,TTTCCTCCGTAAGATATAAA,50S ribosomal protein L32,22,1907
+1961,GCTTTTGAAGTGCGACGTGC,50S ribosomal protein L32,60,1907
+1962,TCAGCACATGCTGAAGTCTT,hypothetical protein,5,1908
+1963,AGGTTTTAGTCGTTAAAAAG,hypothetical protein,4,1910
+16130,TTTGACTGTTATCAATTAAT,hypothetical protein,26,1913
+2467,GACAAATGAAGGAACTTCGA,hypothetical protein,118,1913
+11443,GCTGCAATACCGACAAATGA,hypothetical protein,129,1913
+12337,CTCTTTGACAATAGGCTGCA,hypothetical protein,151,1913
+13264,CCAGCCCACTCTTTGACAAT,hypothetical protein,159,1913
+14210,GTCCAAGTGGCTGAGAACAA,hypothetical protein,190,1913
+15165,CCAAGACACCTTTGTCCAAG,hypothetical protein,203,1913
+12338,CTCTAATCGCTCCTGACGTC,putative short-chain dehydrogenase,157,1917
+13265,TGACAACAATATCCAGCTTT,putative short-chain dehydrogenase,209,1917
+14211,AGGCATTCTCGGAAATAGAA,putative short-chain dehydrogenase,242,1917
+15166,ATAAAGTTTAAAGGCATTCT,putative short-chain dehydrogenase,253,1917
+17109,GCATTTTAGTGATTTTATCA,putative short-chain dehydrogenase,356,1917
+1964,AAGACTGGATAAAATAGTCA,putative short-chain dehydrogenase,397,1917
+1965,TTCTGTTAGATTCTTTTGAT,conserved hypothetical protein,70,1923
+2468,CATTTATGTGACATCTTACT,hypothetical protein,16,1925
+11444,AAAAGGATGGGGTAATAATC,hypothetical protein,56,1925
+12339,CTGTATTTCCAAAAAGGATG,hypothetical protein,67,1925
+1966,CGCTGTATTTCCAAAAAGGA,hypothetical protein,69,1925
+2469,ATTGGTTAAAGCGAATGGAC,conserved hypothetical protein,119,1926
+11445,TTTTAATTGGTTAAAGCGAA,conserved hypothetical protein,124,1926
+12340,CGTTAACTTCCCTTTTTAAT,conserved hypothetical protein,137,1926
+1967,ATAGCAAATGACTTTAGTAA,conserved hypothetical protein,9,1930
+2470,GGTCGCCAATCGCTGCAGCT,conserved hypothetical protein,77,1930
+385,TAAATATCCAATTCAATCTC,conserved hypothetical protein,132,1930
+2471,TGTCATTTTAATTTGAAGGA,hypothetical protein,34,1932
+12341,TTTATGTTTGGTTTGAGTTT,hypothetical protein,81,1932
+2472,TGTGTATAATTTTGTGCAAA,putative transcriptional regulator,11,1934
+1968,TCTCTCTAATAAATGTGCCA,putative transcriptional regulator,97,1934
+11446,CTTCTAAAATAGCGCCTTCT,putative transcriptional regulator,281,1934
+1969,TATTTCTTGTTCATTTTCAA,hypothetical protein,58,1936
+2473,TGCCCAATTTGAAGAGAGAT,conserved hypothetical protein,13,1937
+1970,CTCCTATCTCTCTTCAAATT,conserved hypothetical protein,18,1937
+11447,ACGCTTACGCCCATTTTCAA,conserved hypothetical protein,136,1937
+2474,AGAAGAATTTACAGGAAACG,50S ribosomal protein L9,10,1939
+12342,AAGATCAAAGAAGAATTTAC,50S ribosomal protein L9,18,1939
+11448,CTCATTAATAGCTTGTTTTG,50S ribosomal protein L9,166,1939
+1971,TTTAGCCTCAGCTAAAAGTT,50S ribosomal protein L9,226,1939
+2475,ATAGAAATTGAGGTAATGAA,hypothetical protein,12,1944
+386,GAGGCAAACCCTACAAAAAA,hypothetical protein,114,1944
+11449,TGATTCACCTGTAAAAAAGG,hypothetical protein,133,1944
+12343,AACTGATTCACCTGTAAAAA,hypothetical protein,136,1944
+14212,CGGAAGTTGTCTGTTGATCT,hypothetical protein,227,1944
+15167,AGGAGCGGAGGTCAGTTCAG,hypothetical protein,247,1944
+16131,GGCTGCTTCTGAAGGAGCGG,hypothetical protein,259,1944
+17110,AGAGGCTGCTTCTGAAGGAG,hypothetical protein,262,1944
+18105,CTCTGTTATTGCTTCTGAAG,hypothetical protein,280,1944
+2476,TTATTTACTAGAAAAGGAAC,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",11,1947
+18106,GATAAGTGTAACTTACTTCT,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",65,1947
+1972,AAAAGGGCACGACCTTCAAA,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",99,1947
+11450,CTCCAAACTAACGTTAAAAA,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",115,1947
+13266,TTGATTTGCCACTACCCGTA,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",170,1947
+14213,ACAAGGACTGTTCCTTCAGT,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",225,1947
+15168,TAATAGCAACATCATCAACA,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",242,1947
+16132,TCATCAAAAAGTTGACTTTC,"putative ABC transporter, ATP-binding protein;possible cobalt transport system",330,1947
+1973,TTAATTTGACAGTCCAATAA,putative phosphotidylglycerophosphate synthase,9,1949
+2477,GAAGTTAAAAGCAAGAAGAC,putative phosphotidylglycerophosphate synthase,108,1949
+11451,ACTTGCCACAGCAAAAATAA,putative phosphotidylglycerophosphate synthase,166,1949
+12344,ACTAACATTTTATCAGCAAG,putative phosphotidylglycerophosphate synthase,261,1949
+2478,GTTTCCTTAAATGATTCTTT,putative peptidase,147,1951
+11452,CAAATAACTGATGTTCTAAA,putative peptidase,260,1951
+12345,ATCTGTAAAGTTTATTTGAC,putative peptidase,427,1951
+14214,TCTTCTGCTAAAGAGGTTTG,putative peptidase,552,1951
+15169,AGTAATATCTTCTGCTAAAG,putative peptidase,559,1951
+1974,AAAGTTTCACGTGAAACAAA,conserved hypothetical protein,8,1959
+11453,TTATGCCACCTTAAATTTTT,conserved hypothetical protein,303,1959
+2479,TTATTTGGAATTTTCTCATC,conserved hypothetical protein,165,1960
+1975,TGAGCTTGACTAGCATTATT,conserved hypothetical protein,180,1960
+13267,ATAATAAAAATAGAAGAGGT,putative SpoJ,20,1962
+1976,AGTCGAGGTTGATAGGGATT,putative SpoJ,96,1962
+2480,AATTGCAGTCGAGGTTGATA,putative SpoJ,102,1962
+11454,TTAGTTTTAAATTGCAGTCG,putative SpoJ,111,1962
+12346,TCAGATTTTCGAACAATAAT,putative SpoJ,183,1962
+16133,AATGAGATTTTGGTAAGCTT,putative SpoJ,373,1962
